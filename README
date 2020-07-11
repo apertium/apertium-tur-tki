@@ -1,0 +1,93 @@
+Turkish and Turkmen of Iraq: `apertium-tur-tki`
+===============================================================================
+
+This is an Apertium language pair for translating between Turkish and
+Turkmen of Iraq. What you can use this language package for:
+
+* Translating between Turkish and Turkmen of Iraq
+* Morphological analysis of Turkish and Turkmen of Iraq
+* Part-of-speech tagging of Turkish and Turkmen of Iraq
+
+For information on the latter two points, see subheading "For more
+information" below.
+
+Requirements
+-------------------------------------------------------------------------------
+
+You will need the following software installed:
+
+* lttoolbox (>= 3.3.0)
+* apertium (>= 3.3.0)
+* vislcg3 (>= 0.9.9.10297)
+* apertium-tur
+* apertium-tki
+
+If this does not make any sense, we recommend you look at: www.apertium.org.
+
+Compiling
+-------------------------------------------------------------------------------
+
+Given the requirements being installed, you should be able to just run:
+
+```console
+$ ./configure
+$ make
+# make install
+```
+
+You can use `./autogen.sh` instead of `./configure` in case you're compiling
+from source. If you installed any prerequisite language packages using a
+`--prefix` with `./configure`, make sure to use the same `--prefix` when running
+`./configure` here.
+
+Testing
+-------------------------------------------------------------------------------
+
+If you are in the source directory after running make, the following
+commands should work:
+
+```console
+$ echo "TODO test sentence 1" | apertium -d . tur-tki
+TODO test translated sentence 1
+
+$ echo "TODO test sentence 2" | apertium -d . tki-tur
+TODO test translated sentence 2
+```
+
+After installing somewhere in `$PATH`, you should be able to do e.g.
+
+```console
+$ echo "TODO test sentence 1" | apertium tur-tki
+TODO test translated sentence 1
+```
+
+Files and data
+-------------------------------------------------------------------------------
+
+* [`apertium-tur-tki.tur-tki.dix`](apertium-tur-tki.tur-tki.dix) - Bilingual dictionary
+* [`apertium-tur-tki.tur-tki.t1x`](apertium-tur-tki.tur-tki.t1x) - Chunking rules for translating into Turkmen of Iraq
+* [`apertium-tur-tki.tki-tur.t1x`](apertium-tur-tki.tki-tur.t1x) - Chunking rules for translating into Turkish
+* [`apertium-tur-tki.tur-tki.t2x`](apertium-tur-tki.tur-tki.t2x) - Interchunk rules for translating into Turkmen of Iraq
+* [`apertium-tur-tki.tki-tur.t2x`](apertium-tur-tki.tki-tur.t2x) - Interchunk rules for translating into Turkish
+* [`apertium-tur-tki.tur-tki.t3x`](apertium-tur-tki.tur-tki.t3x) - Postchunk rules for translating into Turkmen of Iraq
+* [`apertium-tur-tki.tki-tur.t3x`](apertium-tur-tki.tki-tur.t3x) - Postchunk rules for translating into Turkish
+* [`apertium-tur-tki.tur-tki.lrx`](apertium-tur-tki.tur-tki.lrx) - Lexical selection rules for translating into Turkmen of Iraq
+* [`apertium-tur-tki.tki-tur.lrx`](apertium-tur-tki.tki-tur.lrx) - Lexical selection rules for translating into Turkish
+* [`modes.xml`](modes.xml) - Translation modes
+
+For more information
+-------------------------------------------------------------------------------
+
+* http://wiki.apertium.org/wiki/Installation
+* http://wiki.apertium.org/wiki/apertium-tur-tki
+* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+
+Help and support
+-------------------------------------------------------------------------------
+
+If you need help using this language pair or data, you can contact:
+
+* Mailing list: apertium-stuff@lists.sourceforge.net
+* IRC: `#apertium` on irc.freenode.net (irc://irc.freenode.net/#apertium)
+
+See also the file [`AUTHORS`](AUTHORS), included in this distribution.
