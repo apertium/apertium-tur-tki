@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet></alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -97,8 +97,20 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
-
+      <e><p><l>ev<s n="n"/></l><r>إيو<s n="n"/></r></p></e>
+      <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
+      <e><p><l>hastane<s n="n"/></l><r>خستاخانا<s n="n"/></r></p></e>
+      <e><p><l>çoban<s n="n"/></l><r>چوپان<s n="n"/></r></p></e>
+      <e><p><l>Allah<s n="n"/></l><r>آلله<s n="n"/></r></p></e>
+       <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
+       <e><p><l>gül<s n="n"/></l><r>گول<s n="n"/></r></p></e>
+       <e><p><l>efendi<s n="n"/></l><r>أفندي<s n="n"/></r></p></e>
+       <e><p><l>öğrenci<s n="n"/></l><r>تلابه<s n="n"/></r></p></e>
+       <e><p><l>oğlan<s n="n"/></l><r>اوغلان<s n="n"/></r></p></e>
+       <e><p><l>çocuk<s n="n"/></l><r>أوشاغ<s n="n"/></r></p></e>
+       <e><p><l>kız<s n="n"/></l><r>قيز<s n="n"/></r></p></e>
+       <e><p><l>bebek<s n="n"/></l><r>بالاه<s n="n"/></r></p></e>
+       <e><p><l>bebek<s n="n"/></l><r>بالاه<s n="n"/></r></p></e>
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
@@ -109,3 +121,4 @@ Resources:
     http://wiki.apertium.org/wiki/Bilingual_dictionary
     http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Bilingual_dictionary
 -->
+
