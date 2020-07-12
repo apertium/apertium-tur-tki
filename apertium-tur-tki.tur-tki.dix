@@ -97,8 +97,17 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
+      <!-- SECTION: Nouns -->
       <e><p><l>ev<s n="n"/></l><r>إيو<s n="n"/></r></p></e>
+      <e><p><l>Türkmence<s n="n"/></l><r>تورکمانجه<s n="n"/></r></p></e>
+      <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
+      <e><p><l>genç<s n="n"/></l><r>گه<b/>نج<s n="n"/></r></p></e>
       <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
+      <e><p><l>ihtiyar<s n="n"/></l><r>إختيار<s n="n"/></r></p></e>
+      <e><p><l>kadın<s n="n"/></l><r>ارواد<s n="n"/></r></p></e>
+      <e><p><l>adam<s n="n"/></l><r>ادام<s n="n"/></r></p></e>
+      <e><p><l>hala<s n="n"/></l><r>عته<s n="n"/></r></p></e>
+      <e><p><l>tohum<s n="n"/></l><r>توخوم<s n="n"/></r></p></e>
       <e><p><l>hastane<s n="n"/></l><r>خستاخانا<s n="n"/></r></p></e>
       <e><p><l>çoban<s n="n"/></l><r>چوپان<s n="n"/></r></p></e>
       <e><p><l>Allah<s n="n"/></l><r>آلله<s n="n"/></r></p></e>
@@ -111,7 +120,42 @@
        <e><p><l>kız<s n="n"/></l><r>قيز<s n="n"/></r></p></e>
        <e><p><l>bebek<s n="n"/></l><r>بالاه<s n="n"/></r></p></e>
        <e><p><l>bebek<s n="n"/></l><r>بالاه<s n="n"/></r></p></e>
-      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+       <e><p><l>teyze<s n="n"/></l><r>دايزا<s n="n"/></r></p></e>
+       <e><p><l>çadır<s n="n"/></l><r>چادر<s n="n"/></r></p></e>
+       <e><p><l>dayı<s n="n"/></l><r>دايى<s n="n"/></r></p></e>
+       <e><p><l>amca<s n="n"/></l><r>عمى<s n="n"/></r></p></e>
+       <e><p><l>anne<s n="n"/></l><r>نينه<s n="n"/></r></p></e>
+       <e><p><l>isim<s n="n"/></l><r>آد<s n="n"/></r></p></e>
+       <e><p><l>baba<s n="n"/></l><r>ده‌ده‌<s n="n"/></r></p></e>
+       <e><p><l>nine<s n="n"/></l><r>عننه<s n="n"/></r></p></e>
+       <e><p><l>perde<s n="n"/></l><r>پرده<s n="n"/></r></p></e>
+       <e><p><l>dede<s n="n"/></l><r>بابه<s n="n"/></r></p></e>
+       <e><p><l>kardaş<s n="n"/></l><r>قارداش<s n="n"/></r></p></e>
+       <e><p><l>bacı<s n="n"/></l><r>باجی<s n="n"/></r></p></e>
+       <e><p><l>vantilatör<s n="n"/></l><r>پانکه<s n="n"/></r></p></e>
+       <e><p><l>perde<s n="n"/></l><r>پرده<s n="n"/></r></p></e>
+       <e><p><l>fakülte<s n="n"/></l><r>كوليیه<s n="n"/></r></p></e>
+       <e><p><l>üniversites<s n="n"/></l><r>جامعه<s n="n"/></r></p></e>
+      <e><p><l>otobüs<s n="n"/></l><r>آمانه<s n="n"/></r></p></e>
+      <e><p><l>kıyafet<s n="n"/></l><r>اسپاب<s n="n"/></r></p></e>
+      <e><p><l>güz<s n="n"/></l><r>گوز<s n="n"/></r></p></e>
+      <e><p><l>güz<s n="n"/></l><r>بورون<s n="n"/></r></p></e>
+      <e><p><l>kulak<s n="n"/></l><r>قولاغ<s n="n"/></r></p></e>
+      <e><p><l>ağız<s n="n"/></l><r>آغز<s n="n"/></r></p></e>
+      <e><p><l>kırpık<s n="n"/></l><r>كيپرك<s n="n"/></r></p></e>
+      <e><p><l>kaş<s n="n"/></l><r>قاش<s n="n"/></r></p></e>
+      <e><p><l>saç<s n="n"/></l><r>ساچ<s n="n"/></r></p></e>
+      <e><p><l>kutu<s n="n"/></l><r>قوتو<s n="n"/></r></p></e>
+      <e><p><l>tırnak<s n="n"/></l><r>دیرناغ<s n="n"/></r></p></e>
+      <e><p><l>tırnak<s n="n"/></l><r>دیرناغ<b/>بیاغی<s n="n"/></r></p></e>
+      <e><p><l>cadde<s n="n"/></l><r>جده<s n="n"/></r></p></e>
+      <e><p><l>günah<s n="n"/></l><r>گوناح<s n="n"/></r></p></e>
+      <e><p><l>sokak<s n="n"/></l><r>سوقاق<s n="n"/></r></p></e>
+      <e><p><l>mahlle<s n="n"/></l><r>مه‌حله<s n="n"/></r></p></e>
+      <e><p><l>dükkan<s n="n"/></l><r>دكان<s n="n"/></r></p></e>
+      <e><p><l>depo<s n="n"/></l><r>مخزن<s n="n"/></r></p></e>
+      <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><p><l>.<s n="sent"/></l><r>۰<s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
 </dictionary>
