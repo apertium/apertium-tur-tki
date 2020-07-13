@@ -359,9 +359,46 @@
       <e><p><l>günahkar<s n="n"/></l><r>گونحکار<s n="n"/></r></p></e>
       <e><p><l>dinar<s n="n"/></l><r>دینار<s n="n"/></r></p></e>
       <e><p><l>çips<s n="n"/></l><r>حپیس<s n="n"/></r></p></e>
+
+      <!-- SECTION: Adjectives -->
+      <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
+      <e><p><l>şirin<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>
+      <e><p><l>tatlı<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>   
+      <e><p><l>usta<s n="adj"/></l><r>اوسته<s n="adj"/></r></p></e>
+      <e><p><l>bağarsak<s n="adj"/></l><r>باغرساغ<s n="adj"/></r></p></e>
+      <e><p><l>okumuş<s n="adj"/></l><r>اوخومش<s n="adj"/></r></p></e>
+      <e><p><l>orta<b/>halli<s n="adj"/></l><r>اورتا<b/>حالی<s n="adj"/></r></p></e>
+      <e><p><l>yarim<s n="adj"/></l><r>يارم<s n="adj"/></r></p></e>
+      <e><p><l>islami<s n="adj"/></l><r>إسلامی<s n="adj"/></r></p></e>
+      <e><p><l>birinci<s n="adj"/></l><r>بیرنجی<s n="adj"/></r></p></e>
+      <e><p><l>ikinci<s n="adj"/></l><r>إكينجى<s n="adj"/></r></p></e>
+      <e><p><l>tekşer<s n="adj"/></l><r>تكشر<s n="adj"/></r></p></e>
+      <e><p><l>ikişer<s n="adj"/></l><r>إكشر<s n="adj"/></r></p></e>
+      <e><p><l>dörder<s n="adj"/></l><r>دوردر<s n="adj"/></r></p></e>
+      <e><p><l>üçüncü<s n="adj"/></l><r>أوچونجو<s n="adj"/></r></p></e>
+      <e><p><l>dördüncü<s n="adj"/></l><r>دوردونجو<s n="adj"/></r></p></e>
+      <e><p><l>özü<s n="adj"/></l><r>أوزو<s n="adj"/></r></p></e>
+      <e><p><l>her<b/>şekil<s n="adj"/></l><r>هر<b/>شكيل<s n="adj"/></r></p></e>
+      <e><p><l>vatansız<s n="adj"/></l><r>واطانسز<s n="adj"/></r></p></e>
+      <e><p><l>pıçaklı<s n="adj"/></l><r>پچاغلى<s n="adj"/></r></p></e>
+      <e><p><l>sabahki<s n="adj"/></l><r>سبحكى<s n="adj"/></r></p></e>
+      <e><p><l>saatlı<s n="adj"/></l><r>سعتلى<s n="adj"/></r></p></e>
+      <e><p><l>kaçak<s n="adj"/></l><r>قاچاغ<s n="adj"/></r></p></e>
+      <e><p><l>inançlı<s n="adj"/></l><r>إنانجلى<s n="adj"/></r></p></e>
+      <e><p><l>hizmetçı<s n="adj"/></l><r>hizmetçı<s n="adj"/></r></p></e>
+      <e><p><l>kalan<s n="adj"/></l><r>قالان<s n="adj"/></r></p></e>
+      <e><p><l>götüren<s n="adj"/></l><r>آپاران<s n="adj"/></r></p></e>
+      <e><p><l>beter<s n="adj"/></l><r>بتر<s n="adj"/></r></p></e>
+      <e><p><l>emekleyen<s n="adj"/></l><r>مه‌كلهين<s n="adj"/></r></p></e>
+      <e><p><l>konuşan<s n="adj"/></l><r>قونشان<s n="adj"/></r></p></e>
+      <e><p><l>konuşan<s n="adj"/></l><r>سلشن<s n="adj"/></r></p></e>
+      <e><p><l>namısız<s n="adj"/></l><r>نامسسز<s n="adj"/></r></p></e>
+   
+
       <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><p><l>.<s n="sent"/></l><r>۰<s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+
    </section>
 </dictionary>
 
