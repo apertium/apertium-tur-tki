@@ -318,6 +318,47 @@
       <e><p><l>ücret<s n="n"/></l><r>أوجرة<s n="n"/></r></p></e>
       <e><p><l>takib<s n="n"/></l><r>تعقيب<s n="n"/></r></p></e>
       <e><p><l>kabul<s n="n"/></l><r>موافقا<s n="n"/></r></p></e>
+      <e><p><l>hariç<s n="n"/></l><r>خاريج<s n="n"/></r></p></e>
+      <e><p><l>aslı<s n="n"/></l><r>آصلى<s n="n"/></r></p></e>
+      <e><p><l>özel<s n="n"/></l><r>خوصصيات<s n="n"/></r></p></e>
+      <e><p><l>kitaplık<s n="n"/></l><r>ماعراز<s n="n"/></r></p></e>
+      <e><p><l>bilgi<s n="n"/></l><r>ماعلومات<s n="n"/></r></p></e>
+      <e><p><l>suçlu<s n="n"/></l><r>سوچلو<s n="n"/></r></p></e>
+      <e><p><l>fikir<s n="n"/></l><r>فيكير<s n="n"/></r></p></e>
+      <e><p><l>dikkat<s n="n"/></l><r>ديقات<s n="n"/></r></p></e>
+      <e><p><l>yardım<s n="n"/></l><r>ياردم<s n="n"/></r></p></e>
+      <e><p><l>teknoloji<s n="n"/></l><r>تكنلوجيا<s n="n"/></r></p></e>
+      <e><p><l>numara<s n="n"/></l><r>راقام<s n="n"/></r></p></e>
+      <e><p><l>ödül<s n="n"/></l><r>جائزه<s n="n"/></r></p></e>
+      <e><p><l>su<b/>perisi<s n="n"/></l><r>حوريه<s n="n"/></r></p></e>
+      <e><p><l>ispat<s n="n"/></l><r>إسبات<s n="n"/></r></p></e>
+      <e><p><l>mesul<s n="n"/></l><r>مسئول<s n="n"/></r></p></e>
+      <e><p><l>askı<s n="n"/></l><r>عاسقى<s n="n"/></r></p></e>
+      <e><p><l>kaçaklık<s n="n"/></l><r>قاچاقچلغ<s n="n"/></r></p></e>
+      <e><p><l>üretim<s n="n"/></l><r>إنتاج<s n="n"/></r></p></e>
+      <e><p><l>hava<b/>değişikliği<s n="n"/></l><r>هاوا<b/>ديشيغليغی<s n="n"/></r></p></e>
+      <e><p><l>teklif<s n="n"/></l><r>تكليف<s n="n"/></r></p></e>
+      <e><p><l>saygı<s n="n"/></l><r>إحترام<s n="n"/></r></p></e>
+      <e><p><l>tedbir<s n="n"/></l><r>تدبير<s n="n"/></r></p></e>
+      <e><p><l>toplu<s n="n"/></l><r>مجموعه<s n="n"/></r></p></e>
+      <e><p><l>öneri<s n="n"/></l><r>تاوصية<s n="n"/></r></p></e>
+      <e><p><l>öğüt<s n="n"/></l><r>نسحت<s n="n"/></r></p></e>
+      <e><p><l>uzman<s n="n"/></l><r>خبير<s n="n"/></r></p></e>
+      <e><p><l>şahid<s n="n"/></l><r>شهاد<s n="n"/></r></p></e>
+      <e><p><l>temsilci<s n="n"/></l><r>مومسيل<s n="n"/></r></p></e>
+      <e><p><l>casus<s n="n"/></l><r>جاسوس<s n="n"/></r></p></e>
+      <e><p><l>birincilik<s n="n"/></l><r>بيرنجيليغ<s n="n"/></r></p></e>
+      <e><p><l>vesvese<s n="n"/></l><r>وسوسه<s n="n"/></r></p></e>
+      <e><p><l>parça<s n="n"/></l><r>پارچا<s n="n"/></r></p></e>
+      <e><p><l>kat<s n="n"/></l><r>قات<s n="n"/></r></p></e>
+      <e><p><l>sema<s n="n"/></l><r>سما<s n="n"/></r></p></e>
+      <e><p><l>uyarı<s n="n"/></l><r>تمبیه<s n="n"/></r></p></e>
+      <e><p><l>helak<s n="n"/></l><r>هلاك<s n="n"/></r></p></e>
+      <e><p><l>yel<s n="n"/></l><r>یل<s n="n"/></r></p></e>
+      <e><p><l>inkar<s n="n"/></l><r>إنكار<s n="n"/></r></p></e>
+      <e><p><l>günahkar<s n="n"/></l><r>گونحکار<s n="n"/></r></p></e>
+      <e><p><l>dinar<s n="n"/></l><r>دینار<s n="n"/></r></p></e>
+      <e><p><l>çips<s n="n"/></l><r>حپیس<s n="n"/></r></p></e>
       <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><p><l>.<s n="sent"/></l><r>۰<s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
