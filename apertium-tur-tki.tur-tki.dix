@@ -393,6 +393,36 @@
       <e><p><l>konuşan<s n="adj"/></l><r>قونشان<s n="adj"/></r></p></e>
       <e><p><l>konuşan<s n="adj"/></l><r>سلشن<s n="adj"/></r></p></e>
       <e><p><l>namısız<s n="adj"/></l><r>نامسسز<s n="adj"/></r></p></e>
+      <!-- SECTION: Adverbs -->
+      <e><p><l>yıllarca<s n="adv"/></l><r>يلارجە<s n="adv"/></r></p></e>
+      <e><p><l>aylarca<s n="adv"/></l><r>أيلارجه<s n="adv"/></r></p></e>
+      <e><p><l>günlerce<s n="adv"/></l><r>گونلارجه<s n="adv"/></r></p></e>
+      <e><p><l>bugün<s n="adv"/></l><r>بوگون<s n="adv"/></r></p></e>
+      <e><p><l>pek<s n="adv"/></l><r>پەك<s n="adv"/></r></p></e>
+      <e><p><l>sonunda<s n="adv"/></l><r>نھايت<s n="adv"/></r></p></e>
+      <e><p><l>dün<s n="adv"/></l><r>دونن<s n="adv"/></r></p></e>
+      <e><p><l>daim<s n="adv"/></l><r>دأم<s n="adv"/></r></p></e>
+      <e><p><l>an<s n="adv"/></l><r>أن<s n="adv"/></r></p></e>
+      <e><p><l>hazır<s n="adv"/></l><r>حازر<s n="adv"/></r></p></e>
+      <e><p><l>şimdi<s n="adv"/></l><r>أندى<s n="adv"/></r></p></e>
+      <e><p><l>yarın<s n="adv"/></l><r>يارن<s n="adv"/></r></p></e>
+      <e><p><l>gene<s n="adv"/></l><r>گەنە<s n="adv"/></r></p></e>
+      <e><p><l>akşam<s n="adv"/></l><r>أخشام<s n="adv"/></r></p></e>
+      <e><p><l>sabah<s n="adv"/></l><r>سبه<b/>-ح<s n="adv"/></r></p></e>
+      <e><p><l>o<b/>zaman<s n="adv"/></l><r>أو<b/>زامان<s n="adv"/></r></p></e>
+      <e><p><l>bunun<b/>için<s n="adv"/></l><r>مونون<b/>إيچين<s n="adv"/></r></p></e>
+      <e><p><l>çocuken<s n="adv"/></l><r>أوشخكان<s n="adv"/></r></p></e>
+      <e><p><l>ne<b/>kadar<s n="adv"/></l><r>نه<b/>قدر<s n="adv"/></r></p></e>
+      <e><p><l>beraber<s n="adv"/></l><r>برابر<s n="adv"/></r></p></e>
+      <e><p><l>daha<b/>da<s n="adv"/></l><r>داها<b/>دا<s n="adv"/></r></p></e>
+      <e><p><l>sonrada<s n="adv"/></l><r>سورادا<s n="adv"/></r></p></e>
+      <e><p><l>en<b/>fazla<s n="adv"/></l><r>أن<b/>فازلا<s n="adv"/></r></p></e>
+      <e><p><l>neyle<s n="adv"/></l><r>نه‌أيلا<s n="adv"/></r></p></e>
+      <e><p><l>nerdese<s n="adv"/></l><r>هارداسا<s n="adv"/></r></p></e>
+      <e><p><l>çok<b/>iyi<s n="adv"/></l><r>چوخ<b/>أيى<s n="adv"/></r></p></e>
+      <e><p><l>niçin<s n="adv"/></l><r>نيچين<s n="adv"/></r></p></e>
+      <e><p><l>ne<b/>olursa<b/>olsun<s n="adv"/></l><r>نه‌<b/>أولورسا<b/>أولسون<s n="adv"/></r></p></e>
+      <e><p><l>niçin<b/>bunca<s n="adv"/></l><r>نيچين<b/>بونجا<s n="adv"/></r></p></e>
    
 
       <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
