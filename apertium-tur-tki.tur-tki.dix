@@ -7,6 +7,7 @@
     <!-- Define symbol definitions within <sdef> here. -->
     <sdef n="n"               c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
+    <sdef n="v"               c="Verb, lexical"/>
     <sdef n="vblex"           c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
@@ -79,6 +80,8 @@
 
     <sdef n="ord"             c="Ordinal"/>
     <sdef n="acr"             c="Acronym"/>
+    <sdef n="iv"              c="Intransitive"/>
+    <sdef n="tv"              c="Transitive"/>
     <sdef n="unc"             c="Uncountable"/>
 
     <sdef n="num"             c="Numeral"/>
@@ -424,7 +427,7 @@
       <e><p><l>ne<b/>olursa<b/>olsun<s n="adv"/></l><r>نه‌<b/>أولورسا<b/>أولسون<s n="adv"/></r></p></e>
       <e><p><l>niçin<b/>bunca<s n="adv"/></l><r>نيچين<b/>بونجا<s n="adv"/></r></p></e>
       
-      <!--LEXICON Determiners-->
+      <!--section Determiners-->
       <e><p><l>bu<s n="det"/><s n="dem"/></l><r>بو<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>o<s n="det"/><s n="dem"/></l><r>او<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>bir<b/>çok<s n="det"/><s n="qnt"/></l><r>بير<b/>چوخ<s n="det"/><s n="qnt"/></r></p></e>
@@ -462,6 +465,37 @@
       <e><p><l>her<b/>şekilden<s n="det"/><s n="qnt"/></l><r>هر<b/>شيكلدن<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>ondan<s n="det"/><s n="qnt"/></l><r>اوندان<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hangi<b/>biri<s n="det"/><s n="ind"/></l><r>ناخسى<b/>بيری<s n="det"/><s n="ind"/></r></p></e>
+
+      <!--section Verbs-->
+      <e><p><l>oku<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yaz<s n="v"/><s n="tv"/></l><r>ياز<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>meşgul<b/>ol<s n="v"/><s n="iv"/></l><r>مشغول<b/>اول<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>yat<s n="v"/><s n="iv"/></l><r>يات<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>kalk<s n="v"/><s n="iv"/></l><r>قاخ<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>otu<s n="v"/><s n="iv"/></l><r>اوتو<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>git<s n="v"/><s n="iv"/></l><r>گيت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>gel<s n="v"/><s n="iv"/></l><r>گل<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>selamla<s n="v"/><s n="tv"/></l><r>سلاملا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ye<s n="v"/><s n="tv"/></l><r>يه<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>aç<s n="v"/><s n="tv"/></l><r>اچ<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>otur<s n="v"/><s n="iv"/></l><r>أوتور<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>bak<s n="v"/><s n="iv"/></l><r>باخ<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>kokla<s n="v"/><s n="tv"/></l><r>قوخلا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>öfle<s n="v"/><s n="tv"/></l><r>إفير<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>sil<s n="v"/><s n="tv"/></l><r>سيل<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>unut<s n="v"/><s n="tv"/></l><r>ياديدان<b/>چاخرت<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>emekle<s n="v"/><s n="iv"/></l><r>مكله<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>esir<b/>düş<s n="v"/><s n="iv"/></l><r>أسير<b/>دوش<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>hisap<b/>sor<s n="v"/><s n="iv"/></l><r>حساب<b/>صور<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>hamd<b/>et<s n="v"/><s n="iv"/></l><r>حمد<b/>ئت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>iman<b/>et<s n="v"/><s n="iv"/></l><r>إيمان<b/>ئت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>teşekkür<b/>et<s n="v"/><s n="iv"/></l><r>تشكور<b/>ئت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>ديقات<b/>et<s n="v"/><s n="iv"/></l><r>ديقات<b/>ئت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>beraber<b/>git<s n="v"/><s n="iv"/></l><r>بيربيريزله<b/>گيت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>tarif<b/>et<s n="v"/><s n="tv"/></l><r>تعريف<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>kabul<b/>et<s n="v"/><s n="tv"/></l><r>قابول<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ilan<b/>et<s n="v"/><s n="tv"/></l><r>إعلان<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>video<b/>çek<s n="v"/><s n="iv"/></l><r>تصوير<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
       
    
 
