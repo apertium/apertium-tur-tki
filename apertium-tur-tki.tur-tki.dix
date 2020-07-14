@@ -423,6 +423,46 @@
       <e><p><l>niçin<s n="adv"/></l><r>نيچين<s n="adv"/></r></p></e>
       <e><p><l>ne<b/>olursa<b/>olsun<s n="adv"/></l><r>نه‌<b/>أولورسا<b/>أولسون<s n="adv"/></r></p></e>
       <e><p><l>niçin<b/>bunca<s n="adv"/></l><r>نيچين<b/>بونجا<s n="adv"/></r></p></e>
+      
+      <!--LEXICON Determiners-->
+      <e><p><l>bu<s n="det"/><s n="dem"/></l><r>بو<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>o<s n="det"/><s n="dem"/></l><r>او<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>bir<b/>çok<s n="det"/><s n="qnt"/></l><r>بير<b/>چوخ<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>işte<b/>bu<s n="det"/><s n="dem"/></l><r>إشته<b/>بو<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>işte<s n="det"/><s n="dem"/></l><r>إشته<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>hepsi<s n="det"/><s n="qnt"/></l><r>حبسی<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>hep<s n="det"/><s n="qnt"/></l><r>هپ<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bütün<s n="det"/><s n="qnt"/></l><r>بوتون<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>kaç<s n="det"/><s n="qnt"/></l><r>قاچن<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>her<b/>bir<s n="det"/><s n="qnt"/></l><r>هر<b/>بير<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bir<s n="det"/><s n="ind"/></l><r>بير<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>başka<s n="det"/><s n="ind"/></l><r>باشقا<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>böyle<s n="det"/><s n="ind"/></l><r>بله<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>biraz<s n="det"/><s n="qnt"/></l><r>بیراز<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>kaç<s n="det"/><s n="qnt"/></l><r>نچچا<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>hiç<b/>bir<s n="det"/><s n="neg"/></l><r>هيچ<b/>بير<s n="det"/><s n="neg"/></r></p></e>
+      <e><p><l>bir<b/>takım<s n="det"/><s n="qnt"/></l><r>بير<b/>تاخمير<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bir<b/>miktar<s n="det"/><s n="qnt"/></l><r>بير<b/>ميقدار<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bazı<s n="det"/><s n="qnt"/></l><r>بعزی<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>kimi<s n="det"/><s n="qnt"/></l><r>كيمي<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bir<b/>kısım<s n="det"/><s n="qnt"/></l><r>بير<b/>قسيم<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bu<b/>kadar<s n="det"/><s n="qnt"/></l><r>بو<b/>قدر<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>o<b/>kadar<s n="det"/><s n="qnt"/></l><r>او<b/>قدر<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>ne<b/>kadar<s n="det"/><s n="qnt"/></l><r>نه<b/>قدر<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>çok<s n="det"/><s n="qnt"/></l><r>چوخ<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>çoğu<s n="det"/><s n="qnt"/></l><r>چوخو<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>tüm<s n="det"/><s n="qnt"/></l><r>توم<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>aynı<s n="det"/><s n="qnt"/></l><r>عینی<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>o<b/>bir<s n="det"/><s n="dem"/></l><r>او<b/>بير<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>tek<s n="det"/><s n="qnt"/></l><r>تك<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>hangisi<s n="det"/><s n="itg"/></l><r>ناخسى<s n="det"/><s n="itg"/></r></p></e>
+      <e><p><l>hangisi<s n="det"/><s n="itg"/></l><r>هاسى<s n="det"/><s n="itg"/></r></p></e>
+      <e><p><l>hangisi<s n="det"/><s n="itg"/></l><r>هاسى<s n="det"/><s n="itg"/></r></p></e>
+      <e><p><l>kendi<s n="det"/><s n="ref"/></l><r>اوزو<s n="det"/><s n="ref"/></r></p></e>
+      <e><p><l>her<b/>şekilden<s n="det"/><s n="qnt"/></l><r>هر<b/>شيكلدن<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>ondan<s n="det"/><s n="qnt"/></l><r>اوندان<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>hangi<b/>biri<s n="det"/><s n="ind"/></l><r>ناخسى<b/>بيری<s n="det"/><s n="ind"/></r></p></e>
+      
    
 
       <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
