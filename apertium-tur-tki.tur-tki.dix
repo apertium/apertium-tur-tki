@@ -425,8 +425,7 @@
       <e><p><l>çok<b/>iyi<s n="adv"/></l><r>چوخ<b/>أيى<s n="adv"/></r></p></e>
       <e><p><l>niçin<s n="adv"/></l><r>نيچين<s n="adv"/></r></p></e>
       <e><p><l>ne<b/>olursa<b/>olsun<s n="adv"/></l><r>نه‌<b/>أولورسا<b/>أولسون<s n="adv"/></r></p></e>
-      <e><p><l>niçin<b/>bunca<s n="adv"/></l><r>نيچين<b/>بونجا<s n="adv"/></r></p></e>
-      
+      <e><p><l>niçin<b/>bunca<s n="adv"/></l><r>نيچين<b/>بونجا<s n="adv"/></r></p></e>  
       <!--section Determiners-->
       <e><p><l>bu<s n="det"/><s n="dem"/></l><r>بو<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>o<s n="det"/><s n="dem"/></l><r>او<s n="det"/><s n="dem"/></r></p></e>
@@ -465,7 +464,6 @@
       <e><p><l>her<b/>şekilden<s n="det"/><s n="qnt"/></l><r>هر<b/>شيكلدن<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>ondan<s n="det"/><s n="qnt"/></l><r>اوندان<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hangi<b/>biri<s n="det"/><s n="ind"/></l><r>ناخسى<b/>بيری<s n="det"/><s n="ind"/></r></p></e>
-
       <!--section Verbs-->
       <e><p><l>oku<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaz<s n="v"/><s n="tv"/></l><r>ياز<s n="v"/><s n="tv"/></r></p></e>
@@ -645,7 +643,6 @@
       <e><p><l>birleştir<s n="v"/><s n="tv"/></l><r>جوتله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>göm<s n="v"/><s n="tv"/></l><r>گوم<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>gönder<s n="v"/><s n="tv"/></l><r>گوندر<s n="v"/><s n="tv"/></r></p></e>
-
       <!--section ProperNouns-->
       <e><p><l>Ayaz<s n="np"/><s n="ant"/><s n="m"/></l><r>ایاز<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Ezel<s n="np"/><s n="ant"/><s n="m"/></l><r>أزل<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -683,9 +680,7 @@
       <e><p><l>Twitter<s n="np"/><s n="al"/></l><r>تويتر<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Dünya<b/>küpası<s n="np"/><s n="al"/></l><r>دونيا<b/>كوپاسى<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Twitter<s n="np"/><s n="al"/></l><r>تويتر<s n="np"/><s n="al"/></r></p></e>
-   
       <!--section Postpositions-->
-
       <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
       <e><p><l>boyunca<s n="post"/></l><r>بوينجه<s n="post"/></r></p></e>
       <e><p><l>karşı<s n="post"/></l><r>قانشار<s n="post"/></r></p></e>
@@ -712,6 +707,35 @@
       <e><p><l>olmadığı<b/>için<s n="post"/></l><r>اولمادغی<b/>إیچین<s n="post"/></r></p></e>
       <e><p><l>benzeyen<s n="post"/></l><r>بنزیه‌ین<s n="post"/></r></p></e>
       <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
+      <!--section Conjunctions -->
+      <e><p><l>ve<s n="cnjcoo"/></l><r>وأ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>çünkü<s n="cnjcoo"/></l><r>چونكو<s n="cnjcoo"/></r></p></e>
+      <e><p><l>hem<s n="cnjcoo"/></l><r>ھەم<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yada<s n="cnjcoo"/></l><r>يآدا<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ama<s n="cnjcoo"/></l><r>أەما<s n="cnjcoo"/></r></p></e>
+      <e><p><l>belki<s n="cnjcoo"/></l><r>بەلكى<s n="cnjcoo"/></r></p></e>
+      <e><p><l>içinde<s n="cnjcoo"/></l><r>إيچينده<s n="cnjcoo"/></r></p></e>
+      <e><p><l>eğer<s n="cnjcoo"/></l><r>أگر<s n="cnjcoo"/></r></p></e>
+      <e><p><l>da<s n="cnjcoo"/></l><r>دا<s n="cnjcoo"/></r></p></e>
+      <e><p><l>hemde<s n="cnjcoo"/></l><r>همده<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yani<s n="cnjcoo"/></l><r>يعني<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ancak<s n="cnjcoo"/></l><r>انجاغ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>hem<s n="cnjcoo"/></l><r>هم<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ha<s n="cnjcoo"/></l><r>ها<s n="cnjcoo"/></r></p></e>
+      <e><p><l>zayid<s n="cnjcoo"/></l><r>زايد<s n="cnjcoo"/></r></p></e>
+      <e><p><l>herneyse<s n="cnjcoo"/></l><r>هرنيسه<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ikisi<s n="cnjcoo"/></l><r>إيكيسىا<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ne<s n="cnjcoo"/></l><r>نه<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ya<s n="cnjcoo"/></l><r>يا<s n="cnjcoo"/></r></p></e>
+      <e><p><l>aksine<s n="cnjcoo"/></l><r>عكسينه<s n="cnjcoo"/></r></p></e>
+      <e><p><l>kimi<s n="cnjadv"/></l><r>كيمى<s n="cnjadv"/></r></p></e>
+      <e><p><l>belki<s n="cnjadv"/></l><r>بلكى<s n="cnjadv"/></r></p></e>
+      <e><p><l>bile<s n="cnjcoo"/></l><r>بيله<s n="cnjcoo"/></r></p></e>
+      <e><p><l>demek<s n="cnjcoo"/></l><r>دمغ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>belki<s n="cnjadv"/></l><r>بكه<s n="cnjadv"/></r></p></e>
+      <e><p><l>hatta<s n="cnjadv"/></l><r>حتته<s n="cnjadv"/></r></p></e>
+      <e><p><l>hala<s n="cnjadv"/></l><r>هله<s n="cnjadv"/></r></p></e>
+     
 
         
      
