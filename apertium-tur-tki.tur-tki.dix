@@ -72,7 +72,7 @@
     <sdef n="pprs"            c="Present participle"/>
     <sdef n="pasv"            c="Passive"/>
     <sdef n="actv"            c="Active voice"/>
-
+    <sdef n="post"              c="Postposition"/>
     <sdef n="sint"            c="Synthetic (of adjectives)"/>
     <sdef n="pst"             c="Positive"/>
     <sdef n="comp"            c="Comparative"/>
@@ -668,7 +668,6 @@
       <e><p><l>Gazze<s n="np"/><s n="top"/></l><r>غزى<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Medine<s n="np"/><s n="top"/></l><r>مدينه<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Nil<s n="np"/><s n="top"/></l><r>نيل<s n="np"/><s n="top"/></r></p></e>
-      <e><p><l>Duhuk<s n="np"/><s n="top"/></l><r>دهوك<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Babil<s n="np"/><s n="top"/></l><r>بابل<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Anbar<s n="np"/><s n="top"/></l><r>أنبار<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Hille<s n="np"/><s n="top"/></l><r>حله<s n="np"/><s n="top"/></r></p></e>
@@ -684,6 +683,35 @@
       <e><p><l>Twitter<s n="np"/><s n="al"/></l><r>تويتر<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Dünya<b/>küpası<s n="np"/><s n="al"/></l><r>دونيا<b/>كوپاسى<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Twitter<s n="np"/><s n="al"/></l><r>تويتر<s n="np"/><s n="al"/></r></p></e>
+   
+      <!--section Postpositions-->
+
+      <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
+      <e><p><l>boyunca<s n="post"/></l><r>بوينجه<s n="post"/></r></p></e>
+      <e><p><l>karşı<s n="post"/></l><r>قانشار<s n="post"/></r></p></e>
+      <e><p><l>hakkında<s n="post"/></l><r>حه<b/>قنده<s n="post"/></r></p></e>
+      <e><p><l>gerek<s n="post"/></l><r>گرك<s n="post"/></r></p></e>
+      <e><p><l>göre<s n="post"/></l><r>گورأ<s n="post"/></r></p></e>
+      <e><p><l>doğru<s n="post"/></l><r>دوغرو<s n="post"/></r></p></e>
+      <e><p><l>kadar<s n="post"/></l><r>قدر<s n="post"/></r></p></e>
+      <e><p><l>ait<s n="post"/></l><r>عاید<s n="post"/></r></p></e>
+      <e><p><l>başka<s n="post"/></l><r>باشقا<s n="post"/></r></p></e>
+      <e><p><l>beri<s n="post"/></l><r>بری<s n="post"/></r></p></e>
+      <e><p><l>ötrü<s n="post"/></l><r>أوترو<s n="post"/></r></p></e>
+      <e><p><l>itibaren<s n="post"/></l><r>إعتیبارن<s n="post"/></r></p></e>
+      <e><p><l>önce<s n="post"/></l><r>أونجه<s n="post"/></r></p></e>
+      <e><p><l>sonra<s n="post"/></l><r>سورا<s n="post"/></r></p></e>
+      <e><p><l>ardından<s n="post"/></l><r>اردندن<s n="post"/></r></p></e>
+      <e><p><l>yana<s n="post"/></l><r>یانا<s n="post"/></r></p></e>
+      <e><p><l>aleyhinde<s n="post"/></l><r>علیهینده<s n="post"/></r></p></e>
+      <e><p><l>yakın<s n="post"/></l><r>یاخن<s n="post"/></r></p></e>
+      <e><p><l>evval<s n="post"/></l><r>أول<s n="post"/></r></p></e>
+      <e><p><l>fazla<s n="post"/></l><r>فازلا<s n="post"/></r></p></e>
+      <e><p><l>dolu<s n="post"/></l><r>دولو<s n="post"/></r></p></e>
+      <e><p><l>gibi<s n="post"/></l><r>کیمی<s n="post"/></r></p></e>
+      <e><p><l>olmadığı<b/>için<s n="post"/></l><r>اولمادغی<b/>إیچین<s n="post"/></r></p></e>
+      <e><p><l>benzeyen<s n="post"/></l><r>بنزیه‌ین<s n="post"/></r></p></e>
+      <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
 
         
      
