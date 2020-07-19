@@ -10,6 +10,7 @@
     <sdef n="v"               c="Verb, lexical"/>
     <sdef n="vblex"           c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
+    <sdef n="cop"             c="Copula"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="vbser"           c="'To be' verb"/>
     <sdef n="vbhaver"         c="'To have' verb"/>
@@ -101,19 +102,30 @@
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
       <!-- SECTION: Nouns -->
-      <e><p><l>ev<s n="n"/></l><r>إيو<s n="n"/></r></p></e>
-      <e><p><l>Türkmence<s n="n"/></l><r>تورکمانجه<s n="n"/></r></p></e>
-      <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
-      <e><p><l>genç<s n="n"/></l><r>گه<b/>نج<s n="n"/></r></p></e>
-      <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
-      <e><p><l>ihtiyar<s n="n"/></l><r>إختيار<s n="n"/></r></p></e>
-      <e><p><l>kadın<s n="n"/></l><r>ارواد<s n="n"/></r></p></e>
-      <e><p><l>adam<s n="n"/></l><r>ادام<s n="n"/></r></p></e>
-      <e><p><l>hala<s n="n"/></l><r>عته<s n="n"/></r></p></e>
-      <e><p><l>tohum<s n="n"/></l><r>توخوم<s n="n"/></r></p></e>
-      <e><p><l>hastane<s n="n"/></l><r>خستاخانا<s n="n"/></r></p></e>
-      <e><p><l>çoban<s n="n"/></l><r>چوپان<s n="n"/></r></p></e>
-      <e><p><l>Allah<s n="n"/></l><r>آلله<s n="n"/></r></p></e>
+       <e><p><l>ev<s n="n"/></l><r>إيو<s n="n"/></r></p></e>
+       <e><p><l>bahçe<s n="n"/></l><r>باخچا<s n="n"/></r></p></e>
+       <e><p><l>dışarı<s n="n"/></l><r>یازی<s n="n"/></r></p></e>
+       <e><p><l>Ahmet<s n="n"/></l><r>أحمد<s n="n"/></r></p></e>
+       <e><p><l>soğuk<s n="n"/></l><r>ساوغ<s n="n"/></r></p></e>
+       <e><p><l>var<s n="n"/></l><r>وار<s n="n"/></r></p></e>
+       <e><p><l>yaş<s n="n"/></l><r>یاش<s n="n"/></r></p></e>
+       <e><p><l>ön<s n="n"/></l><r>أوگ<s n="n"/></r></p></e>
+       <e><p><l>küçük<s n="n"/></l><r>کوچوك<s n="n"/></r></p></e>
+       <e><p><l>köpek<s n="n"/></l><r>کوپك<s n="n"/></r></p></e>
+       <e><p><l>Türkmence<s n="n"/></l><r>تورکمانجه<s n="n"/></r></p></e>
+       <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
+       <e><p><l>genç<s n="n"/></l><r>گه<b/>نج<s n="n"/></r></p></e>
+       <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
+       <e><p><l>ihtiyar<s n="n"/></l><r>إختيار<s n="n"/></r></p></e>
+       <e><p><l>kadın<s n="n"/></l><r>ارواد<s n="n"/></r></p></e>
+       <e><p><l>adam<s n="n"/></l><r>ادام<s n="n"/></r></p></e>
+       <e><p><l>sıcak<s n="n"/></l><r>سجاغ<s n="n"/></r></p></e>
+       <e><p><l>hala<s n="n"/></l><r>عته<s n="n"/></r></p></e>
+       <e><p><l>tohum<s n="n"/></l><r>توخوم<s n="n"/></r></p></e>
+       <e><p><l>kız<b/>kardeş<s n="n"/></l><r>باجی<s n="n"/></r></p></e>
+       <e><p><l>hastane<s n="n"/></l><r>خستاخانا<s n="n"/></r></p></e>
+       <e><p><l>çoban<s n="n"/></l><r>چوپان<s n="n"/></r></p></e>
+       <e><p><l>Allah<s n="n"/></l><r>آلله<s n="n"/></r></p></e>
        <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
        <e><p><l>gül<s n="n"/></l><r>گول<s n="n"/></r></p></e>
        <e><p><l>efendi<s n="n"/></l><r>أفندي<s n="n"/></r></p></e>
@@ -365,9 +377,14 @@
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
+      <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>şirin<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>
       <e><p><l>tatlı<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>   
       <e><p><l>usta<s n="adj"/></l><r>اوسته<s n="adj"/></r></p></e>
+      <e><p><l>sıcak<s n="adj"/></l><r>سجاغ<s n="adj"/></r></p></e>
+      <e><p><l>soğuk<s n="adj"/></l><r>ساوغ<s n="adj"/></r></p></e>
+      <e><p><l>küçük<s n="adj"/></l><r>کوچوك<s n="adj"/></r></p></e>
+      <e><p><l>ön<s n="adj"/></l><r>أوگ<s n="adj"/></r></p></e>
       <e><p><l>bağarsak<s n="adj"/></l><r>باغرساغ<s n="adj"/></r></p></e>
       <e><p><l>okumuş<s n="adj"/></l><r>اوخومش<s n="adj"/></r></p></e>
       <e><p><l>orta<b/>halli<s n="adj"/></l><r>اورتا<b/>حالی<s n="adj"/></r></p></e>
@@ -395,12 +412,16 @@
       <e><p><l>emekleyen<s n="adj"/></l><r>مه‌كلهين<s n="adj"/></r></p></e>
       <e><p><l>konuşan<s n="adj"/></l><r>قونشان<s n="adj"/></r></p></e>
       <e><p><l>konuşan<s n="adj"/></l><r>سلشن<s n="adj"/></r></p></e>
-      <e><p><l>namısız<s n="adj"/></l><r>نامسسز<s n="adj"/></r></p></e>
+      <e><p><l>namusuz<s n="adj"/></l><r>نامسسز<s n="adj"/></r></p></e>
+      <e><p><l>mutlu<s n="adj"/></l><r>کیفلی<s n="adj"/></r></p></e>
       <!-- SECTION: Adverbs -->
       <e><p><l>yıllarca<s n="adv"/></l><r>يلارجە<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>zaman<s n="adv"/></l><r>هر<b/>زمان<s n="adv"/></r></p></e>
       <e><p><l>aylarca<s n="adv"/></l><r>أيلارجه<s n="adv"/></r></p></e>
+      <e><p><l>yeterince<s n="adv"/></l><r>إيجه<s n="adv"/></r></p></e>
       <e><p><l>günlerce<s n="adv"/></l><r>گونلارجه<s n="adv"/></r></p></e>
       <e><p><l>bugün<s n="adv"/></l><r>بوگون<s n="adv"/></r></p></e>
+      <e><p><l>şu<b/>anda<s n="adv"/></l><r>أندی<s n="adv"/></r></p></e>
       <e><p><l>pek<s n="adv"/></l><r>پەك<s n="adv"/></r></p></e>
       <e><p><l>sonunda<s n="adv"/></l><r>نھايت<s n="adv"/></r></p></e>
       <e><p><l>dün<s n="adv"/></l><r>دونن<s n="adv"/></r></p></e>
@@ -466,6 +487,7 @@
       <e><p><l>hangi<b/>biri<s n="det"/><s n="ind"/></l><r>ناخسى<b/>بيری<s n="det"/><s n="ind"/></r></p></e>
       <!--section Verbs-->
       <e><p><l>oku<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>اوینا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaz<s n="v"/><s n="tv"/></l><r>ياز<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>meşgul<b/>ol<s n="v"/><s n="iv"/></l><r>مشغول<b/>اول<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yat<s n="v"/><s n="iv"/></l><r>يات<s n="v"/><s n="iv"/></r></p></e>
@@ -680,6 +702,8 @@
       <e><p><l>Twitter<s n="np"/><s n="al"/></l><r>تويتر<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Dünya<b/>küpası<s n="np"/><s n="al"/></l><r>دونيا<b/>كوپاسى<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Twitter<s n="np"/><s n="al"/></l><r>تويتر<s n="np"/><s n="al"/></r></p></e>
+      <e><p><l>Ahmet<s n="np"/><s n="ant"/><s n="m"/></l><r>أحمد<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Nürsen<s n="np"/><s n="ant"/><s n="f"/></l><r>نورسن<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
       <!--section Postpositions-->
       <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
       <e><p><l>boyunca<s n="post"/></l><r>بوينجه<s n="post"/></r></p></e>
@@ -707,8 +731,14 @@
       <e><p><l>olmadığı<b/>için<s n="post"/></l><r>اولمادغی<b/>إیچین<s n="post"/></r></p></e>
       <e><p><l>benzeyen<s n="post"/></l><r>بنزیه‌ین<s n="post"/></r></p></e>
       <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
+      <!--section pronouns-->
+      <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>اوننار<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>اوننار<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+      <!--section Postpositions-->
+      <e><p><l>nerde<s n="prn"/><s n="ind"/></l><r>هاردا<s n="prn"/><s n="itg"/></r></p></e>
       <!--section Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>وأ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>fakat<s n="cnjcoo"/></l><r>أما<s n="cnjcoo"/></r></p></e>
       <e><p><l>çünkü<s n="cnjcoo"/></l><r>چونكو<s n="cnjcoo"/></r></p></e>
       <e><p><l>hem<s n="cnjcoo"/></l><r>ھەم<s n="cnjcoo"/></r></p></e>
       <e><p><l>yada<s n="cnjcoo"/></l><r>يآدا<s n="cnjcoo"/></r></p></e>
@@ -757,7 +787,7 @@
       <e><p><l>iki<s n="num"/></l><r>إيكی<s n="num"/></r></p></e>
       <e><p><l>üç<s n="num"/></l><r>إوچ<s n="num"/></r></p></e>
       <e><p><l>dört<s n="num"/></l><r>دورت<s n="num"/></r></p></e>
-      <e><p><l>biş<s n="num"/></l><r>بيش<s n="num"/></r></p></e>
+      <e><p><l>beş<s n="num"/></l><r>بيش<s n="num"/></r></p></e>
       <e><p><l>altı<s n="num"/></l><r>التىِ<s n="num"/></r></p></e>
       <e><p><l>yedi<s n="num"/></l><r>يدی<s n="num"/></r></p></e>
       <e><p><l>sekis<s n="num"/></l><r>سكيز<s n="num"/></r></p></e>
@@ -786,6 +816,7 @@
 
       <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><p><l>.<s n="sent"/></l><r>۰<s n="sent"/></r></p></e>
+      <e><p><l>?<s n="sent"/></l><r>؟<s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
 
    </section>
