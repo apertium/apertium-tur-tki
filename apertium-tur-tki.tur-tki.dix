@@ -22,7 +22,7 @@
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
-
+    <sdef n="qst"             c=""/>
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
@@ -106,6 +106,7 @@
        <e><p><l>bahçe<s n="n"/></l><r>باخچا<s n="n"/></r></p></e>
        <e><p><l>dışarı<s n="n"/></l><r>یازی<s n="n"/></r></p></e>
        <e><p><l>Ahmet<s n="n"/></l><r>أحمد<s n="n"/></r></p></e>
+       <e><p><l>kedi<s n="n"/></l><r>پیسیگ<s n="n"/></r></p></e>
        <e><p><l>soğuk<s n="n"/></l><r>ساوغ<s n="n"/></r></p></e>
        <e><p><l>var<s n="n"/></l><r>وار<s n="n"/></r></p></e>
        <e><p><l>yaş<s n="n"/></l><r>یاش<s n="n"/></r></p></e>
@@ -420,6 +421,7 @@
       <e><p><l>aylarca<s n="adv"/></l><r>أيلارجه<s n="adv"/></r></p></e>
       <e><p><l>yeterince<s n="adv"/></l><r>إيجه<s n="adv"/></r></p></e>
       <e><p><l>günlerce<s n="adv"/></l><r>گونلارجه<s n="adv"/></r></p></e>
+      <e><p><l>birlikte<s n="adv"/></l><r>بربر<s n="adv"/></r></p></e>
       <e><p><l>bugün<s n="adv"/></l><r>بوگون<s n="adv"/></r></p></e>
       <e><p><l>şu<b/>anda<s n="adv"/></l><r>أندی<s n="adv"/></r></p></e>
       <e><p><l>pek<s n="adv"/></l><r>پەك<s n="adv"/></r></p></e>
@@ -492,8 +494,10 @@
       <e><p><l>meşgul<b/>ol<s n="v"/><s n="iv"/></l><r>مشغول<b/>اول<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yat<s n="v"/><s n="iv"/></l><r>يات<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kalk<s n="v"/><s n="iv"/></l><r>قاخ<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>seyret<s n="v"/><s n="tv"/></l><r>باخ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>otu<s n="v"/><s n="iv"/></l><r>اوتو<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>git<s n="v"/><s n="iv"/></l><r>گيت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>uyu<s n="v"/><s n="iv"/></l><r>yat<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gel<s n="v"/><s n="iv"/></l><r>گل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>selamla<s n="v"/><s n="tv"/></l><r>سلاملا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ye<s n="v"/><s n="tv"/></l><r>يه<s n="v"/><s n="tv"/></r></p></e>
@@ -812,9 +816,9 @@
         
      
       
-   
-
-      <e><re>[\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e r="LR"><p><l>mı<s n="qst"/></l><r></r></p></e>
+      <!--<e r="RL"><p><l></l><r>mı<s n="qst"/></r></p></e>-->
+      <e><re>[\?;:!…¿¶']</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><p><l>.<s n="sent"/></l><r>۰<s n="sent"/></r></p></e>
       <e><p><l>?<s n="sent"/></l><r>؟<s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
