@@ -107,14 +107,20 @@
        <e><p><l>dışarı<s n="n"/></l><r>یازی<s n="n"/></r></p></e>
        <e><p><l>Ahmet<s n="n"/></l><r>أحمد<s n="n"/></r></p></e>
        <e><p><l>kedi<s n="n"/></l><r>پیسیگ<s n="n"/></r></p></e>
+       <e><p><l>oyun<s n="n"/></l><r>اویون<s n="n"/></r></p></e>
+       <e><p><l>etraf<s n="n"/></l><r>أترأف<s n="n"/></r></p></e>
+       <e><p><l>el<s n="n"/></l><r>أل<s n="n"/></r></p></e>
        <e><p><l>soğuk<s n="n"/></l><r>ساوغ<s n="n"/></r></p></e>
+       <e><p><l>ağaç<s n="n"/></l><r>اغاج<s n="n"/></r></p></e>
        <e><p><l>var<s n="n"/></l><r>وار<s n="n"/></r></p></e>
        <e><p><l>yaş<s n="n"/></l><r>یاش<s n="n"/></r></p></e>
        <e><p><l>ön<s n="n"/></l><r>أوگ<s n="n"/></r></p></e>
+       <e><p><l>göz<s n="n"/></l><r>گوز<s n="n"/></r></p></e>
        <e><p><l>küçük<s n="n"/></l><r>کوچوك<s n="n"/></r></p></e>
        <e><p><l>köpek<s n="n"/></l><r>کوپك<s n="n"/></r></p></e>
        <e><p><l>Türkmence<s n="n"/></l><r>تورکمانجه<s n="n"/></r></p></e>
        <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
+       <e><p><l>أسكى<s n="n"/></l><r>eski<s n="n"/></r></p></e>
        <e><p><l>genç<s n="n"/></l><r>گه<b/>نج<s n="n"/></r></p></e>
        <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
        <e><p><l>ihtiyar<s n="n"/></l><r>إختيار<s n="n"/></r></p></e>
@@ -383,9 +389,13 @@
       <e><p><l>tatlı<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>   
       <e><p><l>usta<s n="adj"/></l><r>اوسته<s n="adj"/></r></p></e>
       <e><p><l>sıcak<s n="adj"/></l><r>سجاغ<s n="adj"/></r></p></e>
+      <e><p><l>büyük<s n="adj"/></l><r>بویوك<s n="adj"/></r></p></e>
       <e><p><l>soğuk<s n="adj"/></l><r>ساوغ<s n="adj"/></r></p></e>
       <e><p><l>küçük<s n="adj"/></l><r>کوچوك<s n="adj"/></r></p></e>
       <e><p><l>ön<s n="adj"/></l><r>أوگ<s n="adj"/></r></p></e>
+      <e><p><l>çabuk<s n="adj"/></l><r>عجله<s n="adj"/></r></p></e>
+      <e><p><l>eski<s n="adj"/></l><r>ارخا<s n="adj"/></r></p></e>
+       <e><p><l>arka<s n="adj"/></l><r>أسكى<s n="adj"/></r></p></e>
       <e><p><l>bağarsak<s n="adj"/></l><r>باغرساغ<s n="adj"/></r></p></e>
       <e><p><l>okumuş<s n="adj"/></l><r>اوخومش<s n="adj"/></r></p></e>
       <e><p><l>orta<b/>halli<s n="adj"/></l><r>اورتا<b/>حالی<s n="adj"/></r></p></e>
@@ -423,8 +433,10 @@
       <e><p><l>günlerce<s n="adv"/></l><r>گونلارجه<s n="adv"/></r></p></e>
       <e><p><l>birlikte<s n="adv"/></l><r>بربر<s n="adv"/></r></p></e>
       <e><p><l>bugün<s n="adv"/></l><r>بوگون<s n="adv"/></r></p></e>
+      <e><p><l>nereye<s n="adv"/><s n="itg"/></l><r>هارا<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>şu<b/>anda<s n="adv"/></l><r>أندی<s n="adv"/></r></p></e>
       <e><p><l>pek<s n="adv"/></l><r>پەك<s n="adv"/></r></p></e>
+      <e><p><l>çabuk<s n="adv"/></l><r>عجله<s n="adv"/></r></p></e>
       <e><p><l>sonunda<s n="adv"/></l><r>نھايت<s n="adv"/></r></p></e>
       <e><p><l>dün<s n="adv"/></l><r>دونن<s n="adv"/></r></p></e>
       <e><p><l>daim<s n="adv"/></l><r>دأم<s n="adv"/></r></p></e>
@@ -433,6 +445,7 @@
       <e><p><l>şimdi<s n="adv"/></l><r>أندى<s n="adv"/></r></p></e>
       <e><p><l>yarın<s n="adv"/></l><r>يارن<s n="adv"/></r></p></e>
       <e><p><l>gene<s n="adv"/></l><r>گەنە<s n="adv"/></r></p></e>
+      <e><p><l>neden<s n="adv"/></l><r>نيه<s n="adv"/></r></p></e>
       <e><p><l>akşam<s n="adv"/></l><r>أخشام<s n="adv"/></r></p></e>
       <e><p><l>sabah<s n="adv"/></l><r>سبه<b/>-ح<s n="adv"/></r></p></e>
       <e><p><l>o<b/>zaman<s n="adv"/></l><r>أو<b/>زامان<s n="adv"/></r></p></e>
@@ -490,13 +503,17 @@
       <!--section Verbs-->
       <e><p><l>oku<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>اوینا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yap<s n="v"/><s n="tv"/></l><r>أت<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>bakın<s n="v"/><s n="iv"/></l><r>باخ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yaz<s n="v"/><s n="tv"/></l><r>ياز<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>meşgul<b/>ol<s n="v"/><s n="iv"/></l><r>مشغول<b/>اول<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yat<s n="v"/><s n="iv"/></l><r>يات<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kalk<s n="v"/><s n="iv"/></l><r>قاخ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>seyret<s n="v"/><s n="tv"/></l><r>باخ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>otu<s n="v"/><s n="iv"/></l><r>اوتو<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>saklan<s n="v"/><s n="iv"/></l><r>ساخلان<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>git<s n="v"/><s n="iv"/></l><r>گيت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>ol<s n="v"/><s n="iv"/></l><r>اول<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>uyu<s n="v"/><s n="iv"/></l><r>yat<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gel<s n="v"/><s n="iv"/></l><r>گل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>selamla<s n="v"/><s n="tv"/></l><r>سلاملا<s n="v"/><s n="tv"/></r></p></e>
@@ -506,7 +523,9 @@
       <e><p><l>bak<s n="v"/><s n="iv"/></l><r>باخ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kokla<s n="v"/><s n="tv"/></l><r>قوخلا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öfle<s n="v"/><s n="tv"/></l><r>إفير<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ara<s n="v"/><s n="tv"/></l><r>اختار<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sil<s n="v"/><s n="tv"/></l><r>سيل<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>koş<s n="v"/><s n="iv"/></l><r>قاچ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>unut<s n="v"/><s n="tv"/></l><r>ياديدان<b/>چاخرت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>emekle<s n="v"/><s n="iv"/></l><r>مكله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>esir<b/>düş<s n="v"/><s n="iv"/></l><r>أسير<b/>دوش<s n="v"/><s n="iv"/></r></p></e>
@@ -737,6 +756,7 @@
       <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
       <!--section pronouns-->
       <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>اوننار<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>hiçbir<b/>şey<s n="prn"/><s n="neg"/></l><r>هیچبیر<b/>شی<s n="prn"/><s n="neg"/></r></p></e>
       <e><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>اوننار<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
       <!--section Postpositions-->
       <e><p><l>nerde<s n="prn"/><s n="ind"/></l><r>هاردا<s n="prn"/><s n="itg"/></r></p></e>
