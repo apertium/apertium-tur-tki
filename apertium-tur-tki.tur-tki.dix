@@ -106,7 +106,7 @@
        <e><p><l>bahçe<s n="n"/></l><r>باخچا<s n="n"/></r></p></e>
        <e><p><l>dışarı<s n="n"/></l><r>یازی<s n="n"/></r></p></e>
        <e><p><l>şey<s n="n"/></l><r>شی<s n="n"/></r></p></e>
-       <e><p><l>Ahmet<s n="n"/></l><r>أحمد<s n="n"/></r></p></e>
+       <!--<e><p><l>Ahmet<s n="n"/></l><r>أحمد<s n="n"/></r></p></e>-->
        <e><p><l>kedi<s n="n"/></l><r>پیسیگ<s n="n"/></r></p></e>
        <e><p><l>iyi<s n="n"/></l><r>إیی<s n="n"/></r></p></e>
        <e><p><l>zaman<s n="n"/></l><r>زمان<s n="n"/></r></p></e>
@@ -132,7 +132,7 @@
        <e><p><l>Türkmence<s n="n"/></l><r>تورکمانجه<s n="n"/></r></p></e>
        <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
        <e><p><l>أسكى<s n="n"/></l><r>eski<s n="n"/></r></p></e>
-       <e><p><l>genç<s n="n"/></l><r>گه<b/>نج<s n="n"/></r></p></e>
+       <e><p><l>genç<s n="n"/></l><r>گه<b />نج<s n="n"/></r></p></e>
        <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
        <e><p><l>ihtiyar<s n="n"/></l><r>إختيار<s n="n"/></r></p></e>
        <e><p><l>kadın<s n="n"/></l><r>ارواد<s n="n"/></r></p></e>
