@@ -128,11 +128,11 @@
        <e><p><l>ön<s n="n"/></l><r>أوگ<s n="n"/></r></p></e>
        <e><p><l>göz<s n="n"/></l><r>گوز<s n="n"/></r></p></e>
        <e><p><l>küçük<s n="n"/></l><r>کوچوك<s n="n"/></r></p></e>
-       <e><p><l>köpek<s n="n"/></l><r>کوپك<s n="n"/></r></p></e>
+       <e><p><l>köpek<s n="n"/></l><r>کوپگ<s n="n"/></r></p></e>
        <e><p><l>Türkmence<s n="n"/></l><r>تورکمانجه<s n="n"/></r></p></e>
        <e><p><l>söz<s n="n"/></l><r>حاكت<s n="n"/></r></p></e>
-       <e><p><l>أسكى<s n="n"/></l><r>eski<s n="n"/></r></p></e>
-       <e><p><l>genç<s n="n"/></l><r>گه<b />نج<s n="n"/></r></p></e>
+       <e><p><l>eski<s n="n"/></l><r>أسكى<s n="n"/></r></p></e>
+       <e><p><l>genç<s n="n"/></l><r>گه<b/>نج<s n="n"/></r></p></e>
        <e><p><l>okul<s n="n"/></l><r>مكتب<s n="n"/></r></p></e>
        <e><p><l>ihtiyar<s n="n"/></l><r>إختيار<s n="n"/></r></p></e>
        <e><p><l>kadın<s n="n"/></l><r>ارواد<s n="n"/></r></p></e>
@@ -407,8 +407,8 @@
       <e><p><l>küçük<s n="adj"/></l><r>کوچوك<s n="adj"/></r></p></e>
       <e><p><l>ön<s n="adj"/></l><r>أوگ<s n="adj"/></r></p></e>
       <e><p><l>çabuk<s n="adj"/></l><r>عجله<s n="adj"/></r></p></e>
-      <e><p><l>eski<s n="adj"/></l><r>ارخا<s n="adj"/></r></p></e>
-       <e><p><l>arka<s n="adj"/></l><r>أسكى<s n="adj"/></r></p></e>
+      <e><p><l>arka<s n="adj"/></l><r>ارخا<s n="adj"/></r></p></e>
+      <!-- <e><p><l>arka<s n="adj"/></l><r>أسكى<s n="adj"/></r></p></e>-->
       <e><p><l>bağarsak<s n="adj"/></l><r>باغرساغ<s n="adj"/></r></p></e>
       <e><p><l>okumuş<s n="adj"/></l><r>اوخومش<s n="adj"/></r></p></e>
       <e><p><l>orta<b/>halli<s n="adj"/></l><r>اورتا<b/>حالی<s n="adj"/></r></p></e>
@@ -523,6 +523,7 @@
       <e><p><l>her<b/>şekilden<s n="det"/><s n="qnt"/></l><r>هر<b/>شيكلدن<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>ondan<s n="det"/><s n="qnt"/></l><r>اوندان<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hangi<b/>biri<s n="det"/><s n="ind"/></l><r>ناخسى<b/>بيری<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>bir<s n="det"/><s n="ind"/></l><r>بير<s n="det"/><s n="ind"/></r></p></e>
       <!--section Verbs-->
       <e><p><l>oku<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>اوینا<s n="v"/><s n="tv"/></r></p></e>
