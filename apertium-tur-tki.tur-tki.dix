@@ -105,6 +105,7 @@
        <e><p><l>ev<s n="n"/></l><r>إيو<s n="n"/></r></p></e>
        <e><p><l>bahçe<s n="n"/></l><r>باخچا<s n="n"/></r></p></e>
        <e><p><l>dışarı<s n="n"/></l><r>یازی<s n="n"/></r></p></e>
+       <e><p><l>cevap<s n="n"/></l><r>جواب<s n="n"/></r></p></e>
        <e><p><l>şey<s n="n"/></l><r>شی<s n="n"/></r></p></e>
        <!--<e><p><l>Ahmet<s n="n"/></l><r>أحمد<s n="n"/></r></p></e>-->
        <e><p><l>kedi<s n="n"/></l><r>پیسیگ<s n="n"/></r></p></e>
@@ -396,6 +397,7 @@
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
+      <e><p><l>tabii<s n="adj"/></l><r>تابی<s n="adj"/></r></p></e>
       <e><p><l>şirin<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>
       <e><p><l>tatlı<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>   
       <e><p><l>usta<s n="adj"/></l><r>اوسته<s n="adj"/></r></p></e>
@@ -618,7 +620,6 @@
       <e><p><l>seslen<s n="v"/><s n="iv"/></l><r>سسلن<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>uzaklaş<s n="v"/><s n="iv"/></l><r>اوزغلاش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yakınlaş<s n="v"/><s n="iv"/></l><r>ياخنلش<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>al<s n="v"/><s n="tv"/></l><r>ال<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>aç<s n="v"/><s n="tv"/></l><r>اچ<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kes<s n="v"/><s n="tv"/></l><r>كس<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>it<s n="v"/><s n="tv"/></l><r>إت<s n="v"/><s n="tv"/></r></p></e>
@@ -802,6 +803,7 @@
       <!--section Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>وأ<s n="cnjcoo"/></r></p></e>
       <e><p><l>fakat<s n="cnjcoo"/></l><r>أما<s n="cnjcoo"/></r></p></e>
+      <e><p><l>tabii<b/>ki<s n="cnjadv"/></l><r>تابی<b/>کی<s n="cnjadv"/></r></p></e>
       <e><p><l>çünkü<s n="cnjcoo"/></l><r>چونكو<s n="cnjcoo"/></r></p></e>
       <e><p><l>diye<s n="cnjcoo"/></l><r>دیه<s n="cnjcoo"/></r></p></e>
       <e><p><l>hem<s n="cnjcoo"/></l><r>ھەم<s n="cnjcoo"/></r></p></e>
