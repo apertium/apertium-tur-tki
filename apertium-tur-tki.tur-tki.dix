@@ -488,6 +488,43 @@
       <e><p><l>niçin<s n="adv"/></l><r>نيچين<s n="adv"/></r></p></e>
       <e><p><l>ne<b/>olursa<b/>olsun<s n="adv"/></l><r>نه‌<b/>أولورسا<b/>أولسون<s n="adv"/></r></p></e>
       <e><p><l>niçin<b/>bunca<s n="adv"/></l><r>نيچين<b/>بونجا<s n="adv"/></r></p></e>  
+      <e><p><l>bildir<s n="adv"/></l><r>بيلدير<s n="adv"/></r></p></e>
+      <e><p><l>çok<b/>az<s n="adv"/></l><r>چوخ<b/>أز<s n="adv"/></r></p></e>
+      <e><p><l>çok<b/>zamana<s n="adv"/></l><r>ها<b/>زامانا<s n="adv"/></r></p></e>
+      <e><p><l>ne<s n="adv"/></l><r>نه<s n="adv"/></r></p></e>
+      <e><p><l>onlara<b/>göre<s n="adv"/></l><r>اولارا<b/>گورا<s n="adv"/></r></p></e>
+      <e><p><l>bunun<b/>için<s n="adv"/></l><r>بونن<b/>إيچين<s n="adv"/></r></p></e>
+      <e><p><l>şimdi<s n="adv"/></l><r>إيندی<s n="adv"/></r></p></e>
+      <e><p><l>tek<s n="adv"/></l><r>تك<s n="adv"/></r></p></e>
+      <e><p><l>ama<s n="adv"/></l><r>آما<s n="adv"/></r></p></e>
+      <e><p><l>nice<s n="adv"/></l><r>نيجا<s n="adv"/></r></p></e>
+      <e><p><l>biraz<b/>sonra<s n="adv"/></l><r>بيراز<b/>صورا<s n="adv"/></r></p></e>
+      <e><p><l>üç<b/>kere<s n="adv"/></l><r>إوچ<b/>كره<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>zaman<s n="adv"/></l><r>هر<b/>زامان<s n="adv"/></r></p></e>
+      <e><p><l>hatta<s n="adv"/></l><r>حته<s n="adv"/></r></p></e>
+      <e><p><l>ayak<b/>yalın<s n="adv"/></l><r>أياغ<b/>يالن<s n="adv"/></r></p></e>
+      <e><p><l>birden<s n="adv"/></l><r>قفلت<b/>تن<s n="adv"/></r></p></e>
+      <e><p><l>keder<s n="adv"/></l><r>قدر<s n="adv"/></r></p></e>
+      <e><p><l>belki<s n="adv"/></l><r>بكىه<s n="adv"/></r></p></e>
+      <e><p><l>herneyse<s n="adv"/></l><r>هرنيسه<s n="adv"/></r></p></e>
+      <e><p><l>ondan<b/>sonra<s n="adv"/></l><r>اوندان<b/>صورا<s n="adv"/></r></p></e>
+      <e><p><l>ne<b/>yazık<s n="adv"/></l><r>نه<b/>يازغ<s n="adv"/></r></p></e>
+      <e><p><l>luzumsuz<b/>yere<s n="adv"/></l><r>لوزومسز<b/>يره<s n="adv"/></r></p></e>
+      <e><p><l>nerden<s n="adv"/></l><r>هردان<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>sene<s n="adv"/></l><r>هر<b/>سنه<s n="adv"/></r></p></e>
+      <e><p><l>evvelden<s n="adv"/></l><r>أولدن<s n="adv"/></r></p></e>
+      <e><p><l>ara-<b/>sıra<s n="adv"/></l><r>ارى<b/>-سرا<s n="adv"/></r></p></e>
+      <e><p><l>hakkıyla<s n="adv"/></l><r>هاقأيلا<s n="adv"/></r></p></e>
+      <e><p><l>farklı<b/>şekilde<s n="adv"/></l><r>فارقلى<b/>شكيلده<s n="adv"/></r></p></e>
+      <e><p><l>hakkıyla<s n="adv"/></l><r>هاقأيلا<s n="adv"/></r></p></e>
+      <e><p><l>yukarı<s n="adv"/></l><r>يوخارى<s n="adv"/></r></p></e>
+      <e><p><l>دوم<b/>دوس<b/>دوغرو<s n="adv"/></l><r>دوم<b/>دوس<b/>دوغرو<s n="adv"/></r></p></e>
+      <e><p><l>aşağya<s n="adv"/></l><r>أشاغيا<s n="adv"/></r></p></e>
+      <e><p><l>yukarda<s n="adv"/></l><r>يوخاردا<s n="adv"/></r></p></e>
+      <e><p><l>yukardan<s n="adv"/></l><r>يوخاردان<s n="adv"/></r></p></e>
+      <e><p><l>bazen<s n="adv"/></l><r>بعزن<s n="adv"/></r></p></e>
+      <e><p><l>halde<s n="adv"/></l><r>حالدا<s n="adv"/></r></p></e>
+      <e><p><l>herhalde<s n="adv"/></l><r>هرحالدا<s n="adv"/></r></p></e>
       <!--section Determiners-->
       <e><p><l>bu<s n="det"/><s n="dem"/></l><r>بو<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="dem"/></l><r>هر<s n="det"/><s n="dem"/></r></p></e>
@@ -839,12 +876,19 @@
       <e><p><l>olmadığı<b/>için<s n="post"/></l><r>اولمادغی<b/>إیچین<s n="post"/></r></p></e>
       <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
       <e><p><l>benzeyen<s n="post"/></l><r>بنزیه‌ین<s n="post"/></r></p></e>
+      <e><p><l>üzere<s n="post"/></l><r>إيستينه<s n="post"/></r></p></e>
+      <e><p><l>haline<s n="post"/></l><r>حالنه<s n="post"/></r></p></e>
+      <e><p><l>gibi<s n="post"/></l><r>كيمن<s n="post"/></r></p></e>
+      <e><p><l>özgü<s n="post"/></l><r>خاص<s n="post"/></r></p></e>
+      <e><p><l>misali<s n="post"/></l><r>متالى<s n="post"/></r></p></e>
       <!--section Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>وأ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>bilakis<s n="cnjcoo"/></l><r>بیلعکس<s n="cnjadv"/></r></p></e>
       <e><p><l>fakat<s n="cnjcoo"/></l><r>أما<s n="cnjcoo"/></r></p></e>
+      <e><p><l>bile<s n="cnjadv"/></l><r>بیله<s n="cnjadv"/></r></p></e>
       <e><p><l>tabii<b/>ki<s n="cnjadv"/></l><r>تابی<b/>کی<s n="cnjadv"/></r></p></e>
       <e><p><l>çünkü<s n="cnjcoo"/></l><r>چونكو<s n="cnjcoo"/></r></p></e>
-      <e><p><l>diye<s n="cnjcoo"/></l><r>دیه<s n="cnjcoo"/></r></p></e>
+      <e><p><l>diye<s n="cnjsub"/></l><r>دیه<s n="cnjsub"/></r></p></e>
       <e><p><l>hem<s n="cnjcoo"/></l><r>ھەم<s n="cnjcoo"/></r></p></e>
       <e><p><l>yada<s n="cnjcoo"/></l><r>يآدا<s n="cnjcoo"/></r></p></e>
       <e><p><l>ama<s n="cnjcoo"/></l><r>أەما<s n="cnjcoo"/></r></p></e>
@@ -886,6 +930,9 @@
       <e><p><l>yoktu<s n="cnjadv"/></l><r>يوختو<s n="cnjadv"/></r></p></e>
       <e><p><l>butün<b/>yerine<s n="cnjadv"/></l><r>بونون<b/>يرينه<s n="cnjadv"/></r></p></e>
       <e><p><l>yoksa<s n="cnjadv"/></l><r>يوخسا<s n="cnjadv"/></r></p></e>
+      <e><p><l>hatta<s n="cnjadv"/></l><r>حاتا<s n="cnjadv"/></r></p></e>
+      <e><p><l>yani<s n="cnjadv"/></l><r>ياعنى<s n="cnjcoo"/></r></p></e>
+      
       <!--section Numerals-->
       <e><p><l>sıfır<s n="num"/></l><r>صفر<s n="num"/></r></p></e>
       <e><p><l>bir<s n="num"/></l><r>بير<s n="num"/></r></p></e>
