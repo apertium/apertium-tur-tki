@@ -800,8 +800,45 @@
       <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>سىن<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>ben<s n="prn"/><s n="pers"/></l><r>مه‌ن<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>اوننار<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
-      <!--section Postpositions-->
       <e><p><l>nerde<s n="prn"/><s n="ind"/></l><r>هاردا<s n="prn"/><s n="itg"/></r></p></e>
+      <!--section Postpositions--> 
+      <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
+      <e><p><l>kıyasla<s n="post"/></l><r>قیاسلا<s n="post"/></r></p></e>
+      <e><p><l>kıyaslandığında<s n="post"/></l><r>قیاسلاندغندا<s n="post"/></r></p></e>
+      <e><p><l>sırasında<s n="post"/></l><r>سراسندا<s n="post"/></r></p></e>
+      <e><p><l>yoluyla<s n="post"/></l><r>یولیلا<s n="post"/></r></p></e>
+      <e><p><l>uğruna<s n="post"/></l><r>اوغرونا<s n="post"/></r></p></e>
+      <e><p><l>ziyade<s n="post"/></l><r>زواید<s n="post"/></r></p></e>
+      <e><p><l>yanında<s n="post"/></l><r>یانندا<s n="post"/></r></p></e>
+      <e><p><l>yanında<s n="post"/></l><r>یانندا<s n="post"/></r></p></e>
+      <e><p><l>üstünde<s n="post"/></l><r>إیستینده<s n="post"/></r></p></e>
+      <e><p><l>karşısında<s n="post"/></l><r>قانشراندا<s n="post"/></r></p></e>
+      <e><p><l>karşı<s n="post"/></l><r>قانشر<s n="post"/></r></p></e>
+      <e><p><l>ait<s n="post"/></l><r>عاید<s n="post"/></r></p></e>
+      <e><p><l>dek<s n="post"/></l><r>دنک<s n="post"/></r></p></e>
+      <e><p><l>başka<s n="post"/></l><r>باشقا<s n="post"/></r></p></e>
+      <e><p><l>beri<s n="post"/></l><r>بری<s n="post"/></r></p></e>
+      <e><p><l>ötrü<s n="post"/></l><r>أوترو<s n="post"/></r></p></e>
+      <e><p><l>itibaren<s n="post"/></l><r>إعتیبارن<s n="post"/></r></p></e>
+      <e><p><l>önce<s n="post"/></l><r>أونجه<s n="post"/></r></p></e>
+      <e><p><l>sonra<s n="post"/></l><r>سورا<s n="post"/></r></p></e>
+      <e><p><l>yana<s n="post"/></l><r>یانا<s n="post"/></r></p></e>
+      <e><p><l>boyunca<s n="post"/></l><r>بوينجه<s n="post"/></r></p></e>
+      <e><p><l>hakkında<s n="post"/></l><r>حه<b/>قنده<s n="post"/></r></p></e>
+      <e><p><l>gerek<s n="post"/></l><r>گرك<s n="post"/></r></p></e>
+      <e><p><l>göre<s n="post"/></l><r>گورأ<s n="post"/></r></p></e>
+      <e><p><l>doğru<s n="post"/></l><r>دوغرو<s n="post"/></r></p></e>
+      <e><p><l>kadar<s n="post"/></l><r>قدر<s n="post"/></r></p></e>
+      <e><p><l>ardından<s n="post"/></l><r>اردندن<s n="post"/></r></p></e>
+      <e><p><l>aleyhinde<s n="post"/></l><r>علیهینده<s n="post"/></r></p></e>
+      <e><p><l>yakın<s n="post"/></l><r>یاخن<s n="post"/></r></p></e>
+      <e><p><l>evvel<s n="post"/></l><r>أول<s n="post"/></r></p></e>
+      <e><p><l>fazla<s n="post"/></l><r>فازلا<s n="post"/></r></p></e>
+      <e><p><l>dolu<s n="post"/></l><r>دولو<s n="post"/></r></p></e>
+      <e><p><l>kimi<s n="post"/></l><r>کیمی<s n="post"/></r></p></e>
+      <e><p><l>olmadığı<b/>için<s n="post"/></l><r>اولمادغی<b/>إیچین<s n="post"/></r></p></e>
+      <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
+      <e><p><l>benzeyen<s n="post"/></l><r>بنزیه‌ین<s n="post"/></r></p></e>
       <!--section Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>وأ<s n="cnjcoo"/></r></p></e>
       <e><p><l>fakat<s n="cnjcoo"/></l><r>أما<s n="cnjcoo"/></r></p></e>
