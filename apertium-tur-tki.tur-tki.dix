@@ -525,7 +525,32 @@
       <e><p><l>bazen<s n="adv"/></l><r>بعزن<s n="adv"/></r></p></e>
       <e><p><l>halde<s n="adv"/></l><r>حالدا<s n="adv"/></r></p></e>
       <e><p><l>herhalde<s n="adv"/></l><r>هرحالدا<s n="adv"/></r></p></e>
-      <!--section Determiners-->
+      <e><p><l>şeklinde<s n="adv"/></l><r>شيكلينده<s n="adv"/></r></p></e>
+      <e><p><l>uzaktan<s n="adv"/></l><r>أوزاختان<s n="adv"/></r></p></e>
+      <e><p><l>çokatn<s n="adv"/></l><r>چوختان<s n="adv"/></r></p></e>
+      <e><p><l>kasten<s n="adv"/></l><r>قسته<b/>نه<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>yıl<s n="adv"/></l><r>هر<b/>يل<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>ay<s n="adv"/></l><r>هر<b/>آي<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>sene<s n="adv"/></l><r>هر<b/>سنه<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>vakit<s n="adv"/></l><r>هر<b/>واخت<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>gelen<s n="adv"/></l><r>هر<b/>گلن<s n="adv"/></r></p></e>
+      <e><p><l>buyana<s n="adv"/></l><r>بويزا<s n="adv"/></r></p></e>
+      <e><p><l>yukarı<s n="adv"/></l><r>يوخارى<s n="adv"/></r></p></e>
+      <e><p><l>dışarda<s n="adv"/></l><r>يازدا<s n="adv"/></r></p></e>
+      <e><p><l>aşağıda<s n="adv"/></l><r>آشاغدآ<s n="adv"/></r></p></e>
+      <e><p><l>alta<s n="adv"/></l><r>آلتا<s n="adv"/></r></p></e>
+      <e><p><l>üste<s n="adv"/></l><r>إيسته<s n="adv"/></r></p></e>
+      <e><p><l>en<b/>üste<s n="adv"/></l><r>أن<b/>إيسته<s n="adv"/></r></p></e>
+      <e><p><l>bilfil<s n="adv"/></l><r>بيلفيعل<s n="adv"/></r></p></e>
+      <e><p><l>sözde<s n="adv"/></l><r>سوزده<s n="adv"/></r></p></e>
+      <e><p><l>sonra<s n="adv"/></l><r>صورآ<s n="adv"/></r></p></e>
+      <e><p><l>eval<s n="adv"/></l><r>أول<s n="adv"/></r></p></e>
+      <e><p><l>sonradan<s n="adv"/></l><r>سورادان<s n="adv"/></r></p></e>
+      <e><p><l>birazdan<s n="adv"/></l><r>بیرزدان<s n="adv"/></r></p></e>
+      <e><p><l>şimdiden<s n="adv"/></l><r>إندیدن<s n="adv"/></r></p></e>
+      <e><p><l>nihayet<s n="adv"/></l><r>نیهایت<s n="adv"/></r></p></e>
+      <e><p><l>geçen<b/>sene<s n="adv"/></l><r>گچن<b/>سنه<s n="adv"/></r></p></e>
+      <!--sectionz Determiners-->
       <e><p><l>bu<s n="det"/><s n="dem"/></l><r>بو<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="dem"/></l><r>هر<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>o<s n="det"/><s n="dem"/></l><r>او<s n="det"/><s n="dem"/></r></p></e>
