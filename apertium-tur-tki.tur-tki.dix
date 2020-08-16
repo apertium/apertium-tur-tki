@@ -101,6 +101,8 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
+      <!-- SECTION: Copula -->
+      
       <!-- SECTION: Nouns -->
        <e><p><l>ev<s n="n"/></l><r>إيو<s n="n"/></r></p></e>
        <e><p><l>bahçe<s n="n"/></l><r>باخچا<s n="n"/></r></p></e>
@@ -635,6 +637,47 @@
       <e><p><l>hiç<s n="adv"/></l><r>هیچ<s n="adv"/></r></p></e>
       <e><p><l>içeri<s n="adv"/></l><r>إیچری<s n="adv"/></r></p></e>
       <e><p><l>yedek<s n="adv"/></l><r>إحتیات<s n="adv"/></r></p></e>
+      <e><p><l>ikindileri<s n="adv"/></l><r>إکیندلاری<s n="adv"/></r></p></e>
+      <e><p><l>ilelebet<s n="adv"/></l><r>إلاابد<s n="adv"/></r></p></e>
+      <e><p><l>ilerde<s n="adv"/></l><r>إلرده<s n="adv"/></r></p></e>
+      <e><p><l>ileri<s n="adv"/></l><r>إلری<s n="adv"/></r></p></e>
+      <e><p><l>işte<s n="adv"/></l><r>إیشته<s n="adv"/></r></p></e>
+      <e><p><l>istinaden<s n="adv"/></l><r>إیستنادن<s n="adv"/></r></p></e>
+      <e><p><l>kamilen<s n="adv"/></l><r>کامیل<s n="adv"/></r></p></e>
+      <e><p><l>kasten<s n="adv"/></l><r>قستن<s n="adv"/></r></p></e>
+      <e><p><l>keşke<s n="adv"/></l><r>کشکه<s n="adv"/></r></p></e>
+      <e><p><l>kese<s n="adv"/></l><r>کسه<s n="adv"/></r></p></e>
+      <e><p><l>körlemeden<s n="adv"/></l><r>کورلامدان<s n="adv"/></r></p></e>
+      <e><p><l>maalesef<s n="adv"/></l><r>معلاسف<s n="adv"/></r></p></e>
+      <e><p><l>mecbur<s n="adv"/></l><r>مجبور<s n="adv"/></r></p></e>
+      <e><p><l>daha<b/>fazla<s n="adv"/></l><r>داها<b/>فازلا<s n="adv"/></r></p></e>
+      <e><p><l>eksik<s n="adv"/></l><r>أسیک<s n="adv"/></r></p></e>
+      <e><p><l>gıyabî<s n="adv"/></l><r>غیابی<s n="adv"/></r></p></e>
+      <e><p><l>her<b/>millet<s n="adv"/></l><r>هر<b/>میلات<s n="adv"/></r></p></e>
+      <e><p><l>ona<b/>göre<s n="adv"/></l><r>اونا<b/>گورا<s n="adv"/></r></p></e>
+      <e><p><l>kim<s n="adv"/></l><r>کیم<s n="adv"/></r></p></e>
+      <e><p><l>demek<b/>böyle<s n="adv"/></l><r>دیمغ<b/>بلا<s n="adv"/></r></p></e>
+      <e><p><l>yani<b/>böyle<s n="adv"/></l><r>یعنی<b/>بلا<s n="adv"/></r></p></e>
+      <e><p><l>ardınan<s n="adv"/></l><r>اردنن<s n="adv"/></r></p></e>
+      <e><p><l>bizim<b/>kimin<s n="adv"/></l><r>بیزیم<b/>کیمین<s n="adv"/></r></p></e>
+      <e><p><l>özükoyun<s n="adv"/></l><r>أوزوکویون<s n="adv"/></r></p></e>
+      <e><p><l>gece<b/>gündüz<s n="adv"/></l><r>گجه<b/>گوندوز<s n="adv"/></r></p></e>
+      <e><p><l>nerde<s n="adv"/></l><r>هاردا<s n="adv"/></r></p></e>
+      <e><p><l>yarım<b/>yamalak<s n="adv"/></l><r>یارم<b/>یاملغ<s n="adv"/></r></p></e>
+      <e><p><l>durmadan<s n="adv"/></l><r>دورمادان<s n="adv"/></r></p></e>
+      <e><p><l>bakıp<s n="adv"/></l><r>باخب<s n="adv"/></r></p></e>
+      <e><p><l>çıkıp<s n="adv"/></l><r>چیخب<s n="adv"/></r></p></e>
+      <e><p><l>yapıp<s n="adv"/></l><r>إیدیب<s n="adv"/></r></p></e>
+      <e><p><l>şimdiye<b/>kadar<s n="adv"/></l><r>إندیه<b/>قدر<s n="adv"/></r></p></e>
+      <e><p><l>ömür<b/>boyu<s n="adv"/></l><r>عومر<b/>بویو<s n="adv"/></r></p></e>
+      <e><p><l>vermeden<s n="adv"/></l><r>ورمدن<s n="adv"/></r></p></e>
+      <e><p><l>diye<s n="adv"/></l><r>دیه<s n="adv"/></r></p></e>
+      <e><p><l>iyi<s n="adv"/></l><r>إیی<s n="adv"/></r></p></e>
+      <e><p><l>arakasından<s n="adv"/></l><r>ارخاسندان<s n="adv"/></r></p></e>
+      <e><p><l>geçmeden<s n="adv"/></l><r>گچمدن<s n="adv"/></r></p></e>
+      <e><p><l>yakın<b/>zamanda<s n="adv"/></l><r>یاخن<b/>زامنده<s n="adv"/></r></p></e>
+      <e><p><l>istemeden<s n="adv"/></l><r>إیستمدن<s n="adv"/></r></p></e>
+      <e><p><l>bir<b/>bir<s n="adv"/></l><r>بیر<b/>بیر<s n="adv"/></r></p></e>
       <!--sectionz Determiners-->
       <e><p><l>bu<s n="det"/><s n="dem"/></l><r>بو<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="dem"/></l><r>هر<s n="det"/><s n="dem"/></r></p></e>
