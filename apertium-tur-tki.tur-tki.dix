@@ -623,7 +623,7 @@
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
-      <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
+      <e><p><l>i<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>tabii<s n="adj"/></l><r>تابی<s n="adj"/></r></p></e>
       <e><p><l>şirin<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>
       <e><p><l>tatlı<s n="adj"/></l><r>شیرین<s n="adj"/></r></p></e>   
@@ -1692,6 +1692,58 @@
       <e><p><l>İngiltire<s n="np"/><s n="top"/></l><r>إنگیلتره‌<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Erzurum<s n="np"/><s n="top"/></l><r>ارزروم<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amerika<s n="np"/><s n="top"/></l><r>امریکا<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>İskender<s n="np"/><s n="ant"/><s n="m"/></l><r>إسكندر<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Cabbar<s n="np"/><s n="ant"/><s n="m"/></l><r>جبار<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Natalya<s n="np"/><s n="ant"/><s n="f"/></l><r>ناتلايا<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Ramzi<s n="np"/><s n="ant"/><s n="f"/></l><r>رمزى<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Rüslan<s n="np"/><s n="ant"/><s n="m"/></l><r>روسلان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Celal<s n="np"/><s n="ant"/><s n="m"/></l><r>جلال<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>İlyas<s n="np"/><s n="ant"/><s n="m"/></l><r>إلياس<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Fazıl<s n="np"/><s n="ant"/><s n="m"/></l><r>فازل<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Ramazan<s n="np"/><s n="ant"/><s n="m"/></l><r>رامزان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>İbrahim<s n="np"/><s n="ant"/><s n="m"/></l><r>إيبراهيم<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Tayib<s n="np"/><s n="ant"/><s n="m"/></l><r>تاييب<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Selim<s n="np"/><s n="ant"/><s n="m"/></l><r>سليم<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Hüriye<s n="np"/><s n="ant"/><s n="f"/></l><r>حريه<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Nüriye<s n="np"/><s n="ant"/><s n="f"/></l><r>نوريه<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Düriye<s n="np"/><s n="ant"/><s n="f"/></l><r>دريه<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Abdurahman<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالرحمان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdurehim<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالرحیم<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdullah<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالله<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abducelil<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالجليل<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdülkadir<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالقادر<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Zakir<s n="np"/><s n="ant"/><s n="m"/></l><r>زاکیر<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdureşid<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالرشيد<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Zekiye<s n="np"/><s n="ant"/><s n="f"/></l><r>زكيه<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Sami<s n="np"/><s n="ant"/><s n="m"/></l><r>سامى<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Samiye<s n="np"/><s n="ant"/><s n="f"/></l><r>سامیه<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>İshak<s n="np"/><s n="ant"/><s n="m"/></l><r>إسحاق<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>selena<s n="np"/><s n="ant"/><s n="f"/></l><r>سلانه<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Nasreddin<s n="np"/><s n="ant"/><s n="m"/></l><r>نصرالدين<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulatif<s n="np"/><s n="ant"/><s n="m"/></l><r>عبداللطيف<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulcelil<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالجليل<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Meryem<s n="np"/><s n="ant"/><s n="f"/></l><r>مريم<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Bilal<s n="np"/><s n="ant"/><s n="f"/></l><r>بلال<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Dicle<s n="np"/><s n="ant"/><s n="f"/></l><r>دجله<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Fırat<s n="np"/><s n="ant"/><s n="f"/></l><r>فرات<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Nil<s n="np"/><s n="ant"/><s n="f"/></l><r>نيل<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Abdulmanaf<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالمناف<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulmutalib<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالمطليب<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulkerim<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالكريم<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulziz<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالعزيز<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulalim<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالعالم<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdu<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدو<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Rıza<s n="np"/><s n="ant"/><s n="m"/></l><r>رزى<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Yunus<s n="np"/><s n="ant"/><s n="m"/></l><r>يونس<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Eşref<s n="np"/><s n="ant"/><s n="m"/></l><r>أشرف<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Cengiz<s n="np"/><s n="ant"/><s n="m"/></l><r>جنگیز<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Abdulhalik<s n="np"/><s n="ant"/><s n="m"/></l><r>عبدالخالق<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Alime<s n="np"/><s n="ant"/><s n="f"/></l><r><s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Nura<s n="np"/><s n="ant"/><s n="f"/></l><r>نوره<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Sezgi<s n="np"/><s n="ant"/><s n="m"/></l><r>سزگی<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Neriman<s n="np"/><s n="ant"/><s n="m"/></l><r>نریمان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Ayşe<s n="np"/><s n="ant"/><s n="f"/></l><r>عایشه‌<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Fatma<s n="np"/><s n="ant"/><s n="m"/></l><r>فاتمه<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <!--section Postpositions-->
       <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
       <e><p><l>boyunca<s n="post"/></l><r>بوينجه<s n="post"/></r></p></e>
