@@ -24,18 +24,11 @@
         <file name="tur-tki.autolex.bin"/>
       </program>
 
-      <program name="apertium-transfer -b">
-        <file name="apertium-tur-tki.tur-tki.t1x"/>
-        <file name="tur-tki.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-tur-tki.tur-tki.t2x"/>
-        <file name="tur-tki.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-tur-tki.tur-tki.t3x"/>
-        <file name="tur-tki.t3x.bin"/>
-      </program>
+      
+     <program name="rtx-proc">
+       <file name="tur-tki.rtx.bin"/>
+     </program>
+      
       <program name="lt-proc $1">
         <file name="tur-tki.autogen.bin"/>
       </program>
@@ -70,18 +63,9 @@
         <file name="tki-tur.autolex.bin"/>
       </program>
 
-      <program name="apertium-transfer -b">
-        <file name="apertium-tur-tki.tki-tur.t1x"/>
-        <file name="tki-tur.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-tur-tki.tki-tur.t2x"/>
-        <file name="tki-tur.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-tur-tki.tki-tur.t3x"/>
-        <file name="tki-tur.t3x.bin"/>
-      </program>
+     <program name="rtx-proc">
+       <file name="tur-tki.rtx.bin"/>
+     </program>
       <program name="lt-proc $1">
         <file name="tki-tur.autogen.bin"/>
       </program>
