@@ -634,7 +634,6 @@
       <e><p><l>ulu<s n="adj"/></l><r>یوکسك<s n="adj"/></r></p></e>
       <e><p><l>soğuk<s n="adj"/></l><r>ساوغ<s n="adj"/></r></p></e>
       <e><p><l>küçük<s n="adj"/></l><r>کوچوك<s n="adj"/></r></p></e>
-      <e><p><l>ön<s n="adj"/></l><r>أوگ<s n="adj"/></r></p></e>
       <e><p><l>çabuk<s n="adj"/></l><r>عجله<s n="adj"/></r></p></e>
       <e><p><l>arka<s n="adj"/></l><r>ارخا<s n="adj"/></r></p></e>
       <!-- <e><p><l>arka<s n="adj"/></l><r>أسكى<s n="adj"/></r></p></e>-->
@@ -1112,6 +1111,7 @@
       <e><p><l>her<b/>zaman<s n="adv"/></l><r>هر<b/>زمان<s n="adv"/></r></p></e>
       <e><p><l>aylarca<s n="adv"/></l><r>أيلارجه<s n="adv"/></r></p></e>
       <e><p><l>nerede<s n="adv"/></l><r>هاردا<s n="adv"/></r></p></e>
+      <e><p><l>bir<s n="adv"/></l><r>بیر<s n="adv"/></r></p></e>
       <e><p><l>iyi<s n="adv"/></l><r>إیی<s n="adv"/></r></p></e>
       <e><p><l>yeterince<s n="adv"/></l><r>إيجه<s n="adv"/></r></p></e>
       <e><p><l>dikkatlice<s n="adv"/></l><r>دیقاتلی<s n="adv"/></r></p></e>
@@ -1415,6 +1415,7 @@
       <!--section Verbs-->
       <e><p><l>oku<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>اوینا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>oyna<s n="v"/><s n="iv"/></l><r>اوینا<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yap<s n="v"/><s n="tv"/></l><r>أت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>görün<s n="v"/><s n="iv"/></l><r>گورون<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>dinle<s n="v"/><s n="tv"/></l><r>دینله<s n="v"/><s n="tv"/></r></p></e>
@@ -1534,7 +1535,7 @@
       <e><p><l>bırak<s n="v"/><s n="tv"/></l><r>صال<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>vur<s n="v"/><s n="tv"/></l><r>ور<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sat<s n="v"/><s n="tv"/></l><r>سات<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>sev<s n="v"/><s n="tv"/></l><r>سو<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>sev<s n="v"/><s n="tv"/></l><r>سیو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>say<s n="v"/><s n="tv"/></l><r>سای<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>seç<s n="v"/><s n="tv"/></l><r>سچ<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ser<s n="v"/><s n="tv"/></l><r>سر<s n="v"/><s n="tv"/></r></p></e>
