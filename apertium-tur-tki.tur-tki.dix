@@ -1611,7 +1611,9 @@
       <e><p><l>artık<s n="adj"/></l><r>ارتغ<s n="adj"/></r></p></e>
       <e><p><l>fiziki<s n="adj"/></l><r>جسمى<s n="adj"/></r></p></e>
       <e><p><l>aşrı<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
+      <e><p><l>nitelikli<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
       <e><p><l>kritik<s n="adj"/></l><r>خطر<s n="adj"/></r></p></e>
+      <e><p><l>nitelikli<s n="adj"/></l><r>نیتلکلی<s n="adj"/></r></p></e>
       <e><p><l>tarafsız<s n="adj"/></l><r>ترافسز<s n="adj"/></r></p></e>
       <e><p><l>sonsuz<s n="adj"/></l><r>سونسوز<s n="adj"/></r></p></e>
       <e><p><l>hiyerarşik<s n="adj"/></l><r>هرمی<s n="adj"/></r></p></e>
@@ -2409,6 +2411,8 @@
       <e><p><l>güvenli<s n="adj"/></l><r>گونلی<s n="adj"/></r></p></e>
       <e><p><l>kötü<s n="adj"/></l><r>یامان<s n="adj"/></r></p></e>
       <e><p><l>aynen<s n="adj"/></l><r>عينن<s n="adj"/></r></p></e>
+      <e><p><l>süratle<s n="adj"/></l><r>سرعتلا<s n="adj"/></r></p></e>
+      <e><p><l>evvelki<s n="adj"/></l><r>أولكى<s n="adj"/></r></p></e>
       <!--SECTION INTERJECTION-->
       <e><p><l>falan<s n="ij"/></l><r>فلان<s n="ij"/></r></p></e>
       <e><p><l>ey<s n="ij"/></l><r>أى<s n="ij"/></r></p></e>
@@ -2431,12 +2435,13 @@
       <e><p><l>herkes<s n="adv"/></l><r>هرکش<s n="adv"/></r></p></e>
       <e><p><l>geçici<s n="adv"/></l><r>گچیجی<s n="adv"/></r></p></e>
       <e><p><l>geç<s n="adv"/></l><r>گچ<s n="adv"/></r></p></e>
+      <e><p><l>kontrolü<s n="adv"/></l><r>کونترلو<s n="adv"/></r></p></e>
       <e><p><l>aynen<s n="adv"/></l><r>عينن<s n="adv"/></r></p></e>
       <e><p><l>evvel<s n="adv"/></l><r>اول<s n="adv"/></r></p></e>
 <e><p><l>ileri<s n="adv"/></l><r>إلرى<s n="adv"/></r></p></e>
 <e><p><l>örneğin<s n="adv"/></l><r>مسلن<s n="adv"/></r></p></e>
       <e><p><l>fena<s n="adv"/></l><r>فناا<s n="adv"/></r></p></e>
-      <e><p><l>burada<s n="adv"/></l><r>بوردا<s n="adv"/></r></p></e>
+ 
       <e><p><l>süresince<s n="adv"/></l><r>سورسینجه<s n="adv"/></r></p></e>
       <e><p><l>lehine<s n="adv"/></l><r>یرینه<s n="adv"/></r></p></e>
       <e><p><l>daima<s n="adv"/></l><r>دائم<s n="adv"/></r></p></e>
@@ -2477,7 +2482,7 @@
       <e><p><l>artık<s n="adv"/></l><r>موندان<b/>سورا<s n="adv"/></r></p></e>
       <e><p><l>şekilde<s n="adv"/></l><r>شكيلده<s n="adv"/></r></p></e>
       <e><p><l>bir<s n="adv"/></l><r>بیر<s n="adv"/></r></p></e>
-      <e><p><l>burada<s n="adv"/></l><r>بورادا<s n="adv"/></r></p></e>
+
       <e><p><l>şöyle<s n="adv"/></l><r>بله<s n="adv"/></r></p></e>
       <e><p><l>tamamen<s n="adv"/></l><r>تمامن<s n="adv"/></r></p></e>
       <e><p><l>özellikle<s n="adv"/></l><r>قاستن<s n="adv"/></r></p></e>
@@ -2773,9 +2778,11 @@
       <e><p><l>hepsi<s n="det"/><s n="qnt"/></l><r>هبسى<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>birtakım<s n="det"/><s n="qnt"/></l><r>بیرتاخم<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hepsi<s n="prn"/><s n="qnt"/></l><r>هبسى<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>biri<s n="prn"/><s n="ind"/></l><r>بیری<s n="prn"/><s n="ind"/></r></p></e>
       <e><p><l>siz<s n="prn"/><s n="pers"/></l><r>سیز<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>birbir<s n="prn"/><s n="pers"/></l><r>بيربير<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>bu<s n="prn"/><s n="dem"/></l><r>بو<s n="prn"/><s n="dem"/></r></p></e>
+      <e><p><l>burada<s n="prn"/><s n="adv"/></l><r>بوردا<s n="prn"/><s n="adv"/></r></p></e>
       <e><p><l>sizler<s n="prn"/><s n="pers"/></l><r>سیز<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>hiçbir<s n="det"/><s n="qnt"/></l><r>هیچبیر<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hiçbir<s n="det"/><s n="neg"/></l><r>هیچبیر<s n="det"/><s n="neg"/></r></p></e>
@@ -3862,6 +3869,7 @@
       <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
       <!--section pronouns-->
       <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>اوننار<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>birbiri<s n="prn"/><s n="res"/></l><r>بیربیری<s n="prn"/><s n="res"/></r></p></e>
       <e><p><l>bura<s n="prn"/><s n="adv"/></l><r>بورا<s n="prn"/><s n="adv"/></r></p></e>
       <e><p><l>kendi<s n="adv"/></l><r>اوزو<s n="adv"/></r></p></e>
       <e><p><l>öyle<s n="adv"/></l><r>بلا<s n="adv"/></r></p></e>
@@ -3935,7 +3943,7 @@
       <e><p><l>ise<s n="cnjcoo"/></l><r>إيسه<s n="cnjcoo"/></r></p></e>
       <e><p><l>veya<s n="cnjcoo"/></l><r>يادا<s n="cnjcoo"/></r></p></e>
       <e><p><l>bilakis<s n="cnjcoo"/></l><r>بیلعکس<s n="cnjadv"/></r></p></e>
-
+      <e><p><l>günkü<s n="cnjadv"/></l><r>گونکو<s n="cnjadv"/></r></p></e>
       <e><p><l>fakat<s n="cnjcoo"/></l><r>أما<s n="cnjcoo"/></r></p></e>
       <e><p><l>bile<s n="cnjadv"/></l><r>بیله<s n="cnjadv"/></r></p></e>
       <e><p><l>tabii<b/>ki<s n="cnjadv"/></l><r>تابی<b/>کی<s n="cnjadv"/></r></p></e>
