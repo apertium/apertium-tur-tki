@@ -393,7 +393,8 @@
       <e><p><l>ücret<s n="n"/></l><r>أوجرة<s n="n"/></r></p></e>
       <e><p><l>takib<s n="n"/></l><r>تعقيب<s n="n"/></r></p></e>
       <e><p><l>ücretsiz<s n="n"/></l><r>بلاش<s n="n"/></r></p></e>
-      <e><p><l>kabul<s n="n"/></l><r>موافقا<s n="n"/></r></p></e>
+      <e><p><l>duygusal<s n="n"/></l><r>عاطفى<s n="n"/></r></p></e>
+      <e><p><l>beceri<s n="n"/></l><r>قابليت<s n="n"/></r></p></e>
       <e><p><l>hariç<s n="n"/></l><r>خاريج<s n="n"/></r></p></e>
       <e><p><l>aslı<s n="n"/></l><r>آصلى<s n="n"/></r></p></e>
       <e><p><l>özel<s n="n"/></l><r>خوصصيات<s n="n"/></r></p></e>
@@ -409,11 +410,23 @@
       <e><p><l>su<b/>perisi<s n="n"/></l><r>حوريه<s n="n"/></r></p></e>
       <e><p><l>ispat<s n="n"/></l><r>إسبات<s n="n"/></r></p></e>
       <e><p><l>mesul<s n="n"/></l><r>مسئول<s n="n"/></r></p></e>
+      <e><p><l>patlama<s n="n"/></l><r>پاتلاما<s n="n"/></r></p></e>
+      <e><p><l>telkin<s n="n"/></l><r>إقتراح<s n="n"/></r></p></e>
+      <e><p><l>zevk<s n="n"/></l><r>زوق<s n="n"/></r></p></e>
+      <e><p><l>huy<s n="n"/></l><r>خوی<s n="n"/></r></p></e>
+      <e><p><l>negativizm<s n="n"/></l><r>سلبيه<s n="n"/></r></p></e>
+      <e><p><l>kızgınlık<s n="n"/></l><r>عصبيه<s n="n"/></r></p></e>
+      <e><p><l>beceri<s n="n"/></l><r>قابلیت<s n="n"/></r></p></e>
+      <e><p><l>yetenek<s n="n"/></l><r>قابلیت<s n="n"/></r></p></e>
+      <e><p><l>gereksinim<s n="n"/></l><r>إحتياج<s n="n"/></r></p></e>
       <e><p><l>askı<s n="n"/></l><r>عاسقى<s n="n"/></r></p></e>
-      <e><p><l>dimokrasi<s n="n"/></l><r>عاسقى<s n="n"/></r></p></e>
-      <e><p><l>müdür<s n="n"/></l><r>عاسقى<s n="n"/></r></p></e>
+      <e><p><l>dimokrasi<s n="n"/></l><r>ديمقراسى<s n="n"/></r></p></e>
+      <e><p><l>müdür<s n="n"/></l><r>مدير<s n="n"/></r></p></e>
+      <e><p><l>faz<s n="n"/></l><r>فاز<s n="n"/></r></p></e>
       <e><p><l>davet<s n="n"/></l><r>دعوت<s n="n"/></r></p></e>
+      <e><p><l>ilerleme<s n="n"/></l><r>إليرلمه<s n="n"/></r></p></e>
       <e><p><l>müddet<s n="n"/></l><r>مددت<s n="n"/></r></p></e>
+      <e><p><l>fazlalaşma<s n="n"/></l><r>فازلالشما<s n="n"/></r></p></e>
       <e><p><l>yardımcı<s n="n"/></l><r>مدير<s n="n"/></r></p></e>
       <e><p><l>mediya<s n="n"/></l><r>إعلام<s n="n"/></r></p></e>
       <e><p><l>sayfa<s n="n"/></l><r>ياردمجى<s n="n"/></r></p></e>
@@ -1470,6 +1483,7 @@
     <e><p><l>bağlantı<s n="n"/></l><r>إتصال<s n="n"/></r></p></e>
     <e><p><l>vuku<s n="n"/></l><r>حادسه<s n="n"/></r></p></e>
     <e><p><l>şeref<s n="n"/></l><r>شرف<s n="n"/></r></p></e>
+    <e><p><l>bağlanma<s n="n"/></l><r>باغلانما<s n="n"/></r></p></e>
     <e><p><l>irtica<s n="n"/></l><r>إرتيجاء<s n="n"/></r></p></e>
     <e><p><l>havale<s n="n"/></l><r>حواله<s n="n"/></r></p></e>
     <e><p><l>vezir<s n="n"/></l><r>وزير<s n="n"/></r></p></e>
@@ -1602,16 +1616,21 @@
       <e><p><l>ortam<s n="n"/></l><r>اورتام<s n="n"/></r></p></e>
       <e><p><l>kıral<s n="n"/></l><r>قائد<s n="n"/></r></p></e>
       <e><p><l>davranış<s n="n"/></l><r>اوسلوب<s n="n"/></r></p></e>
+      <e><p><l>bağlama<s n="n"/></l><r>باغلاما<s n="n"/></r></p></e>
+      <e><p><l>kucaklama<s n="n"/></l><r>قوجغلاما<s n="n"/></r></p></e>
+      <e><p><l>rahatlatma<s n="n"/></l><r>رحتلامه<s n="n"/></r></p></e>
+      <e><p><l>sabır<s n="n"/></l><r>صبر<s n="n"/></r></p></e>
 
 
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
-      <e><p><l>siyasi<s n="adj"/></l><r>سياسى<s n="adj"/></r></p></e>
       <e><p><l>yedek<s n="adj"/></l><r>إحتیات<s n="adj"/></r></p></e>
       <e><p><l>artık<s n="adj"/></l><r>ارتغ<s n="adj"/></r></p></e>
       <e><p><l>fiziki<s n="adj"/></l><r>جسمى<s n="adj"/></r></p></e>
+      <e><p><l>iç<b/>güdüsel<s n="adj"/></l><r>غریزی<s n="adj"/></r></p></e>
       <e><p><l>aşrı<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
+      <e><p><l>psikolojik<s n="adj"/></l><r>پیکسولجیك<s n="adj"/></r></p></e>
       <e><p><l>nitelikli<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
       <e><p><l>kritik<s n="adj"/></l><r>خطر<s n="adj"/></r></p></e>
       <e><p><l>nitelikli<s n="adj"/></l><r>نیتلکلی<s n="adj"/></r></p></e>
@@ -2843,6 +2862,7 @@
       <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>گچیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öğren<s n="v"/><s n="tv"/></l><r>أوگرن<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>inan<s n="v"/><s n="tv"/></l><r>إنان<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ayırt<b/>et<s n="v"/><s n="tv"/></l><r>أيرد<b/>أت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>karış<s n="v"/><s n="tv"/></l><r>قارش<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yarat<s n="v"/><s n="tv"/></l><r>يارات<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>er<s n="v"/><s n="iv"/></l><r>أر<s n="v"/><s n="iv"/></r></p></e>
@@ -2909,6 +2929,7 @@
       <e><p><l>oy<s n="v"/><s n="tv"/></l><r>اوی<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>göster<s n="v"/><s n="tv"/></l><r>گوستر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>اوینا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>sezinle<s n="v"/><s n="tv"/></l><r>سز<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kal<s n="v"/><s n="iv"/></l><r>قال<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>barış<s n="v"/><s n="iv"/></l><r>بارش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yan<s n="v"/><s n="iv"/></l><r>يان<s n="v"/><s n="iv"/></r></p></e>
@@ -3030,7 +3051,7 @@
       <e><p><l>götür<s n="v"/><s n="tv"/></l><r>اپار<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bil<s n="v"/><s n="tv"/></l><r>بيل<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bit<s n="v"/><s n="iv"/></l><r>بیت<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>kabul<b/>et<s n="v"/><s n="tv"/></l><r>قابول<b/>أت<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>kabul<b/>et<s n="v"/><s n="tv"/></l><r>قبل<b/>أت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>keşfet<s n="v"/><s n="tv"/></l><r>كشفت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kır<s n="v"/><s n="tv"/></l><r>قير<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kıl<s n="v"/><s n="tv"/></l><r>قيل<s n="v"/><s n="tv"/></r></p></e>
