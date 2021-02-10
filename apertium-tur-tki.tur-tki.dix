@@ -170,8 +170,7 @@
        <e><p><l>oğlan<s n="n"/></l><r>اوغلان<s n="n"/></r></p></e>
        <e><p><l>çocuk<s n="n"/></l><r>أوشاغ<s n="n"/></r></p></e>
        <e><p><l>kız<s n="n"/></l><r>قيز<s n="n"/></r></p></e>
-       <e><p><l>bebek<s n="n"/></l><r>بالاه<s n="n"/></r></p></e>
-       <e><p><l>bebek<s n="n"/></l><r>بالاه<s n="n"/></r></p></e>
+       <e><p><l>bebek<s n="n"/></l><r>بالا<s n="n"/></r></p></e>
        <e><p><l>teyze<s n="n"/></l><r>دايزا<s n="n"/></r></p></e>
        <e><p><l>çadır<s n="n"/></l><r>چادر<s n="n"/></r></p></e>
        <e><p><l>dayı<s n="n"/></l><r>دايى<s n="n"/></r></p></e>
@@ -1628,6 +1627,10 @@
       <e><p><l>uyanıklık<s n="n"/></l><r>اویانغلغ<s n="n"/></r></p></e>
       <e><p><l>dönüklük<s n="n"/></l><r>دونوغلوغ<s n="n"/></r></p></e>
       <e><p><l>uzama<s n="n"/></l><r>اوزاما<s n="n"/></r></p></e>
+      <e><p><l>faz<s n="n"/></l><r>فاز<s n="n"/></r></p></e>
+      <e><p><l>kabul<s n="n"/></l><r>قابول<s n="n"/></r></p></e>
+      <e><p><l>uyum<s n="n"/></l><r>انسجام<s n="n"/></r></p></e>
+      <e><p><l>özellik<s n="n"/></l><r>خاص<s n="n"/></r></p></e>
 
 
       <!-- SECTION: Adjectives -->
@@ -1641,7 +1644,8 @@
       <e><p><l>huzursuz<s n="adj"/></l><r>حوزورسوز<s n="adj"/></r></p></e>
       <e><p><l>iç<b/>güdüsel<s n="adj"/></l><r>غریزی<s n="adj"/></r></p></e>
       <e><p><l>aşrı<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
-      <e><p><l>psikolojik<s n="adj"/></l><r>پیکسولجیك<s n="adj"/></r></p></e>
+      <e><p><l>duygusal<s n="adj"/></l><r>عاطفى<s n="adj"/></r></p></e>
+      <e><p><l>psikolojik<s n="adj"/></l><r>پیسکولجیك<s n="adj"/></r></p></e>
       <e><p><l>nitelikli<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
       <e><p><l>kritik<s n="adj"/></l><r>خطر<s n="adj"/></r></p></e>
       <e><p><l>nitelikli<s n="adj"/></l><r>نیتلکلی<s n="adj"/></r></p></e>
@@ -1850,7 +1854,7 @@
       <e><p><l>dahi<s n="adj"/></l><r>داهى<s n="adj"/></r></p></e>
       <e><p><l>milli<s n="adj"/></l><r>وطنى<s n="adj"/></r></p></e>
       <e><p><l>yönelik<s n="adj"/></l><r>مقستلی<s n="adj"/></r></p></e>
-      <e><p><l>i<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
+      <e><p><l>i<s n="cop"/></l><r>ى<s n="cop"/></r></p></e>
       <e><p><l>orta<s n="adj"/></l><r>اورتا<s n="adj"/></r></p></e>
       <e><p><l>gizli<s n="adj"/></l><r>ساكلى<s n="adj"/></r></p></e>
       <e><p><l>mümkün<s n="adj"/></l><r>ممكن<s n="adj"/></r></p></e>
@@ -3011,7 +3015,7 @@
       <e><p><l>dikkat<b/>et<s n="v"/><s n="iv"/></l><r>ديقات<b/>ئت<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>beraber<b/>git<s n="v"/><s n="iv"/></l><r>بيربيريزله<b/>گيت<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tarif<b/>et<s n="v"/><s n="tv"/></l><r>تعريف<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>kabul<b/>et<s n="v"/><s n="tv"/></l><r>قابول<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
+
       <e><p><l>ilan<b/>et<s n="v"/><s n="tv"/></l><r>إعلان<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>video<b/>çek<s n="v"/><s n="iv"/></l><r>تصوير<b/>ئت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>iziyet<b/>et<s n="v"/><s n="iv"/></l><r>عزيت<b/>ئت<s n="v"/><s n="iv"/></r></p></e>
@@ -3878,7 +3882,7 @@
       <e><p><l>sonra<s n="post"/></l><r>سورا<s n="post"/></r></p></e>
       <e><p><l>rağmen<s n="post"/></l><r>رغمن<s n="post"/></r></p></e>
       <e><p><l>boyunca<s n="post"/></l><r>بوينجه<s n="post"/></r></p></e>
-      <e><p><l>karşı<s n="post"/></l><r>قانشار<s n="post"/></r></p></e>
+
       <e><p><l>hakkında<s n="post"/></l><r>حه<b/>قنده<s n="post"/></r></p></e>
       <e><p><l>gerek<s n="post"/></l><r>گرك<s n="post"/></r></p></e>
       <e><p><l>göre<s n="post"/></l><r>گورأ<s n="post"/></r></p></e>
