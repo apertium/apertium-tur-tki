@@ -1631,6 +1631,7 @@
       <e><p><l>kabul<s n="n"/></l><r>قابول<s n="n"/></r></p></e>
       <e><p><l>uyum<s n="n"/></l><r>انسجام<s n="n"/></r></p></e>
       <e><p><l>özellik<s n="n"/></l><r>خاص<s n="n"/></r></p></e>
+      <e><p><l>tolerans<s n="n"/></l><r>مسامحه<s n="n"/></r></p></e>
 
 
       <!-- SECTION: Adjectives -->
@@ -2449,6 +2450,8 @@
       <e><p><l>süratle<s n="adj"/></l><r>سرعتلا<s n="adj"/></r></p></e>
       <e><p><l>evvelki<s n="adj"/></l><r>أولكى<s n="adj"/></r></p></e>
       <e><p><l>biliçsel<s n="adj"/></l><r>إدراكى<s n="adj"/></r></p></e>
+      <e><p><l>Fizyolojik<s n="adj"/></l><r>فسيولوجي<s n="adj"/></r></p></e>
+      <e><p><l>değişken<s n="adj"/></l><r>دیشن<s n="adj"/></r></p></e>
       <!--SECTION INTERJECTION-->
       <e><p><l>falan<s n="ij"/></l><r>فلان<s n="ij"/></r></p></e>
       <e><p><l>ey<s n="ij"/></l><r>أى<s n="ij"/></r></p></e>
@@ -2659,7 +2662,7 @@
       <e><p><l>ta<s n="adv"/></l><r>تا<s n="adv"/></r></p></e>
       <e><p><l>kaç<s n="adv"/></l><r>قاچ<s n="adv"/></r></p></e>
       <e><p><l>ayla<s n="adv"/></l><r>ایلا<s n="adv"/></r></p></e>
-      <e><p><l>doğal<s n="adv"/></l><r>تبیعی<s n="adv"/></r></p></e>
+     
       <e><p><l>şu<b/>an<s n="adv"/></l><r>حالن<s n="adv"/></r></p></e>
       <e><p><l>neyse<s n="adv"/></l><r>عمومن<s n="adv"/></r></p></e>
       <e><p><l>o<b/>kadar<b/>çok<s n="adv"/></l><r>او<b/>قدر<b/>چوخ<s n="adv"/></r></p></e>
@@ -3871,6 +3874,7 @@
       <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
       <e><p><l>dahi<s n="post"/></l><r>داهى<s n="post"/></r></p></e>
       <e><p><l>ile<s n="post"/></l><r>إيلا<s n="post"/></r></p></e>
+      <e><p><l>olarak<s n="post"/></l><r>اولارغ<s n="post"/></r></p></e>
       <e><p><l>ötürü<s n="post"/></l><r>أوترو<s n="post"/></r></p></e>
       <e><p><l>aleyhine<s n="post"/></l><r>علیهینه<s n="post"/></r></p></e>
       <e><p><l>dolayı<s n="post"/></l><r>سببتن<s n="post"/></r></p></e>
@@ -3969,6 +3973,7 @@
       <e><p><l>ki<s n="cnjcoo"/></l><r>كى<s n="cnjcoo"/></r></p></e>
       <e><p><l>sanki<s n="cnjcoo"/></l><r>كأنما<s n="cnjcoo"/></r></p></e>
       <e><p><l>ki<s n="cnjsub"/></l><r>كى<s n="cnjsub"/></r></p></e>
+      <e><p><l>olarak<s n="cnjsub"/></l><r>اولارغ<s n="cnjsub"/></r></p></e>
       <e><p><l>ki<s n="cnjadv"/></l><r>كى<s n="cnjadv"/></r></p></e>
       <e><p><l>halbuki<s n="cnjcoo"/></l><r>هالبوکی<s n="cnjcoo"/></r></p></e>
       <e><p><l>hele<s n="cnjadv"/></l><r>هلا<s n="cnjadv"/></r></p></e>
