@@ -702,7 +702,7 @@
       <e><p><l>rezilik<s n="n"/></l><r>رزيليغ<s n="n"/></r></p></e>
       <e><p><l>yar<s n="n"/></l><r>يار<s n="n"/></r></p></e>
       <e><p><l>ümre<s n="n"/></l><r>عومره<s n="n"/></r></p></e>
-      <e><p><l>türkçe<s n="n"/></l><r>تورکچه<s n="n"/></r></p></e>
+      <e><p><l>Türkçe<s n="n"/></l><r>تورکچه<s n="n"/></r></p></e>
       <e><p><l>en<s n="n"/></l><r>أن<s n="n"/></r></p></e>
       <e><p><l>devam<s n="n"/></l><r>دوام<s n="n"/></r></p></e>
       <e><p><l>delege<s n="n"/></l><r>مندوب<s n="n"/></r></p></e>
@@ -2975,7 +2975,7 @@
       <e><p><l>gerçekleş<s n="v"/><s n="iv"/></l><r>گرچکلهش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>de<s n="v"/><s n="tv"/></l><r>دا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>duyur<s n="v"/><s n="tv"/></l><r>إیشیت<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>al<s n="v"/><s n="tv"/></l><r>ال<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>al<s n="v"/><s n="tv"/></l><r>الا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>gül<s n="v"/><s n="iv"/></l><r>گول<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>duy<s n="v"/><s n="tv"/></l><r>إيشيت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sor<s n="v"/><s n="tv"/></l><r>سور<s n="v"/><s n="tv"/></r></p></e>
@@ -3182,6 +3182,7 @@
       <e><p><l>yüksel<s n="v"/><s n="iv"/></l><r>يوكسل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kaydet<s n="v"/><s n="tv"/></l><r>تسجيل<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yücel<s n="v"/><s n="iv"/></l><r>يوجل<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>destekle<s n="v"/><s n="tv"/></l><r>دستکله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uygula<s n="v"/><s n="tv"/></l><r>تطبيق<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <!--section ProperNouns-->
       <e><p><l>Kemal<s n="np"/><s n="ant"/><s n="m"/></l><r>کمال<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3962,7 +3963,7 @@
       <e><p><l>olmadığı<b/>için<s n="post"/></l><r>اولمادغی<b/>إیچین<s n="post"/></r></p></e>
       <e><p><l>belki<s n="post"/></l><r>بلکی<s n="post"/></r></p></e>
       <e><p><l>benzeyen<s n="post"/></l><r>بنزیه‌ین<s n="post"/></r></p></e>
-      <e><p><l>üzere<s n="post"/></l><r>إيستينه<s n="post"/></r></p></e>
+      <e><p><l>üzere<s n="post"/></l><r>أوزره<s n="post"/></r></p></e>
       <e><p><l>haline<s n="post"/></l><r>حالنه<s n="post"/></r></p></e>
       <e><p><l>gibi<s n="post"/></l><r>كيمن<s n="post"/></r></p></e>
       <e><p><l>özgü<s n="post"/></l><r>خاص<s n="post"/></r></p></e>
