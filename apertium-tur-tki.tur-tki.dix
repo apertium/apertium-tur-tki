@@ -1633,7 +1633,9 @@
       <e><p><l>uyum<s n="n"/></l><r>انسجام<s n="n"/></r></p></e>
       <e><p><l>özellik<s n="n"/></l><r>خاص<s n="n"/></r></p></e>
       <e><p><l>tolerans<s n="n"/></l><r>مسامحه<s n="n"/></r></p></e>
-
+      <e><p><l>tutar<s n="n"/></l><r>توتار<s n="n"/></r></p></e>
+      <e><p><l>anonim<s n="n"/></l><r>مچهول<s n="n"/></r></p></e>
+      <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
@@ -1646,6 +1648,7 @@
       <e><p><l>huzursuz<s n="adj"/></l><r>حوزورسوز<s n="adj"/></r></p></e>
       <e><p><l>iç<b/>güdüsel<s n="adj"/></l><r>غریزی<s n="adj"/></r></p></e>
       <e><p><l>aşrı<s n="adj"/></l><r>فازلا<s n="adj"/></r></p></e>
+      <e><p><l>istekli<s n="adj"/></l><r>إيستكلى<s n="adj"/></r></p></e>
       <e><p><l>gelmeli<s n="adj"/></l><r>گلملی<s n="adj"/></r></p></e>
       <e><p><l>duygusal<s n="adj"/></l><r>عاطفى<s n="adj"/></r></p></e>
       <e><p><l>psikolojik<s n="adj"/></l><r>پیسکولجیك<s n="adj"/></r></p></e>
