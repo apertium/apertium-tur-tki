@@ -167,6 +167,7 @@
        <e><p><l>tane<s n="n"/></l><r>دانه<s n="n"/></r></p></e>
        <e><p><l>efendi<s n="n"/></l><r>أفندي<s n="n"/></r></p></e>
        <e><p><l>öğrenci<s n="n"/></l><r>تلابه<s n="n"/></r></p></e>
+       <e><p><l>başkent<s n="n"/></l><r>عاصمه<s n="n"/></r></p></e>
        <e><p><l>oğlan<s n="n"/></l><r>اوغلان<s n="n"/></r></p></e>
        <e><p><l>çocuk<s n="n"/></l><r>أوشاغ<s n="n"/></r></p></e>
        <e><p><l>başkentlik<s n="n"/></l><r>عاصمه<s n="n"/></r></p></e>
@@ -781,6 +782,7 @@
       <e><p><l>yasa<s n="n"/></l><r>قانون<s n="n"/></r></p></e>
       <e><p><l>mevcut<s n="n"/></l><r>موجود<s n="n"/></r></p></e>
       <e><p><l>özellik<s n="n"/></l><r>سفات<s n="n"/></r></p></e>
+      <e><p><l>geçmiş<s n="n"/></l><r>گچمیش<s n="n"/></r></p></e>
       <e><p><l>teslim<s n="n"/></l><r>تسليم<s n="n"/></r></p></e>
       <e><p><l>şahıs<s n="n"/></l><r>شخص<s n="n"/></r></p></e>
       <e><p><l>anlaşma<s n="n"/></l><r>انلاشما<s n="n"/></r></p></e>
@@ -1636,7 +1638,8 @@
       <e><p><l>özellik<s n="n"/></l><r>خاص<s n="n"/></r></p></e>
       <e><p><l>tolerans<s n="n"/></l><r>مسامحه<s n="n"/></r></p></e>
       <e><p><l>tutar<s n="n"/></l><r>توتار<s n="n"/></r></p></e>
-      <e><p><l>anoni	m<s n="n"/></l><r>مچهول<s n="n"/></r></p></e>
+      <e><p><l>anonim<s n="n"/></l><r>مچهول<s n="n"/></r></p></e>
+      <e><p><l>güzellik<s n="n"/></l><r>گوزلیغ<s n="n"/></r></p></e>
       <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -1646,6 +1649,9 @@
       <e><p><l>istemli<s n="adj"/></l><r>إيرادلى<s n="adj"/></r></p></e>
       <e><p><l>fizyolojik<s n="adj"/></l><r>فسيولوجيه<s n="adj"/></r></p></e>
       <e><p><l>değişken<s n="adj"/></l><r>متغير<s n="adj"/></r></p></e>
+      <e><p><l>geçmiş<s n="adj"/></l><r>گچمیش<s n="adj"/></r></p></e>
+      <e><p><l>ihtişamlı<s n="adj"/></l><r>فخم<s n="adj"/></r></p></e>
+      <e><p><l>muhteşem<s n="adj"/></l><r>موحتشم<s n="adj"/></r></p></e>
       <e><p><l>fiziki<s n="adj"/></l><r>جسمى<s n="adj"/></r></p></e>
       <e><p><l>huzursuz<s n="adj"/></l><r>حوزورسوز<s n="adj"/></r></p></e>
       <e><p><l>iç<b/>güdüsel<s n="adj"/></l><r>غریزی<s n="adj"/></r></p></e>
@@ -3400,6 +3406,7 @@
       <e><p><l>Beşiktaş<s n="np"/><s n="org"/></l><r>بشیکتاش<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>PKK<s n="np"/><s n="org"/></l><r>PKK<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>AKP<s n="np"/><s n="org"/></l><r>AKP<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>UNESCO<s n="np"/><s n="org"/></l><r>اليونسكو<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>TBMM<s n="np"/><s n="org"/></l><r>TBMM<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>CHP<s n="np"/><s n="org"/></l><r>CHP<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>FETÖ<s n="np"/><s n="org"/></l><r>فتو<s n="np"/><s n="org"/></r></p></e>
@@ -3977,7 +3984,7 @@
       <e><p><l>ise<s n="post"/></l><r>إيسه<s n="post"/></r></p></e>
       <e><p><l>halinde<s n="post"/></l><r>حالينده<s n="post"/></r></p></e>
       <!--section Conjunctions -->
-      <e><p><l>ve<s n="cnjcoo"/></l><r>وأ<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ve<s n="cnjcoo"/></l><r>وا<s n="cnjcoo"/></r></p></e>
       <e><p><l>ki<s n="cnjcoo"/></l><r>كى<s n="cnjcoo"/></r></p></e>
       <e><p><l>sanki<s n="cnjcoo"/></l><r>كأنما<s n="cnjcoo"/></r></p></e>
       <e><p><l>ki<s n="cnjsub"/></l><r>كى<s n="cnjsub"/></r></p></e>
