@@ -1642,6 +1642,9 @@
       <e><p><l>anonim<s n="n"/></l><r>مچهول<s n="n"/></r></p></e>
       <e><p><l>güzellik<s n="n"/></l><r>گوزلیغ<s n="n"/></r></p></e>
       <e><p><l>alan<s n="n"/></l><r>الان<s n="n"/></r></p></e>
+      <e><p><l>iklim<s n="n"/></l><r>مناخ<s n="n"/></r></p></e>
+      <e><p><l>himaye<s n="n"/></l><r>حيمايه<s n="n"/></r></p></e>
+      <e><p><l>geçiş<s n="n"/></l><r>گچیش<s n="n"/></r></p></e>
       <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -3332,6 +3335,7 @@
       <e><p><l>AB<s n="np"/><s n="top"/><s n="acr"/></l><r>AB<s n="np"/><s n="top"/><s n="acr"/></r></p></e>
       <e><p><l>Kerkük<s n="np"/><s n="top"/></l><r>كركوك<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Asya<s n="np"/><s n="top"/></l><r>اسيا<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Akdeniz<s n="np"/><s n="top"/></l><r>بحر<b/>الابيض<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kıbrıs<s n="np"/><s n="top"/></l><r>قبرص<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Beykoz<s n="np"/><s n="top"/></l><r>بيكوز<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amasya<s n="np"/><s n="top"/></l><r>اماسیا<s n="np"/><s n="top"/></r></p></e>
