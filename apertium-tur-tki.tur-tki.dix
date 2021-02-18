@@ -342,6 +342,7 @@
       <e><p><l>al<b/>yazısı<s n="n"/></l><r>ال<b/>يازسى<s n="n"/></r></p></e>
       <e><p><l>torun<s n="n"/></l><r>تورون<s n="n"/></r></p></e>
       <e><p><l>yıl<s n="n"/></l><r>يل<s n="n"/></r></p></e>
+      <e><p><l>dilim<s n="n"/></l><r>ديليم<s n="n"/></r></p></e>
       <e><p><l>devlet<s n="n"/></l><r>دولت<s n="n"/></r></p></e>
       <e><p><l>terör<s n="n"/></l><r>رعب<s n="n"/></r></p></e>
       <e><p><l>pişmanlık<s n="n"/></l><r>پيشمانلغ<s n="n"/></r></p></e>
@@ -1640,6 +1641,7 @@
       <e><p><l>tutar<s n="n"/></l><r>توتار<s n="n"/></r></p></e>
       <e><p><l>anonim<s n="n"/></l><r>مچهول<s n="n"/></r></p></e>
       <e><p><l>güzellik<s n="n"/></l><r>گوزلیغ<s n="n"/></r></p></e>
+      <e><p><l>alan<s n="n"/></l><r>الان<s n="n"/></r></p></e>
       <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -1650,6 +1652,7 @@
       <e><p><l>fizyolojik<s n="adj"/></l><r>فسيولوجيه<s n="adj"/></r></p></e>
       <e><p><l>değişken<s n="adj"/></l><r>متغير<s n="adj"/></r></p></e>
       <e><p><l>geçmiş<s n="adj"/></l><r>گچمیش<s n="adj"/></r></p></e>
+      <e><p><l>ender<s n="adj"/></l><r>نادر<s n="adj"/></r></p></e>
       <e><p><l>ihtişamlı<s n="adj"/></l><r>فخم<s n="adj"/></r></p></e>
       <e><p><l>muhteşem<s n="adj"/></l><r>موحتشم<s n="adj"/></r></p></e>
       <e><p><l>fiziki<s n="adj"/></l><r>جسمى<s n="adj"/></r></p></e>
@@ -2465,6 +2468,7 @@
       <e><p><l>biliçsel<s n="adj"/></l><r>إدراكى<s n="adj"/></r></p></e>
       <e><p><l>Fizyolojik<s n="adj"/></l><r>فسيولوجي<s n="adj"/></r></p></e>
       <e><p><l>değişken<s n="adj"/></l><r>دیشن<s n="adj"/></r></p></e>
+      <e><p><l>başaran<s n="adj"/></l><r>باشاران<s n="adj"/></r></p></e>
       <!--SECTION INTERJECTION-->
       <e><p><l>falan<s n="ij"/></l><r>فلان<s n="ij"/></r></p></e>
       <e><p><l>ey<s n="ij"/></l><r>أى<s n="ij"/></r></p></e>
@@ -3194,6 +3198,7 @@
       <e><p><l>kaydet<s n="v"/><s n="tv"/></l><r>تسجيل<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yücel<s n="v"/><s n="iv"/></l><r>يوجل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>destekle<s n="v"/><s n="tv"/></l><r>دستکله<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>açıl<s n="v"/><s n="iv"/></l><r>اچل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>uygula<s n="v"/><s n="tv"/></l><r>تطبيق<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <!--section ProperNouns-->
       <e><p><l>Kemal<s n="np"/><s n="ant"/><s n="m"/></l><r>کمال<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3330,6 +3335,7 @@
       <e><p><l>Kıbrıs<s n="np"/><s n="top"/></l><r>قبرص<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Beykoz<s n="np"/><s n="top"/></l><r>بيكوز<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amasya<s n="np"/><s n="top"/></l><r>اماسیا<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Boğaziçi<s n="np"/><s n="top"/></l><r>بوغازایچی<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Azerbaycan<s n="np"/><s n="top"/></l><r>أزربيجان<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Tanrı<s n="np"/><s n="top"/></l><r>تانرى<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Muammer<s n="np"/><s n="top"/></l><r>معممار<s n="np"/><s n="top"/></r></p></e>
