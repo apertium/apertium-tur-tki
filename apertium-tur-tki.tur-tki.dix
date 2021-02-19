@@ -432,7 +432,8 @@
       <e><p><l>fazlalaşma<s n="n"/></l><r>فازلالشما<s n="n"/></r></p></e>
       <e><p><l>yardımcı<s n="n"/></l><r>مدير<s n="n"/></r></p></e>
       <e><p><l>mediya<s n="n"/></l><r>إعلام<s n="n"/></r></p></e>
-      <e><p><l>sayfa<s n="n"/></l><r>ياردمجى<s n="n"/></r></p></e>
+      <e><p><l>sayfa<s n="n"/></l><r>صفحه‌<s n="n"/></r></p></e>
+      <e><p><l>keyif<s n="n"/></l><r>كييف<s n="n"/></r></p></e>
       <e><p><l>kaçaklık<s n="n"/></l><r>قاچاقچلغ<s n="n"/></r></p></e>
       <e><p><l>genelkurmay<s n="n"/></l><r>الأركان<b/>العامة<s n="n"/></r></p></e>
       <e><p><l>üretim<s n="n"/></l><r>إنتاج<s n="n"/></r></p></e>
@@ -1645,6 +1646,8 @@
       <e><p><l>iklim<s n="n"/></l><r>مناخ<s n="n"/></r></p></e>
       <e><p><l>himaye<s n="n"/></l><r>حيمايه<s n="n"/></r></p></e>
       <e><p><l>geçiş<s n="n"/></l><r>گچیش<s n="n"/></r></p></e>
+      <e><p><l>kıta<s n="n"/></l><r>قطب<s n="n"/></r></p></e>
+      <e><p><l>kent<s n="n"/></l><r>مملکت<s n="n"/></r></p></e>
       <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -1656,6 +1659,7 @@
       <e><p><l>değişken<s n="adj"/></l><r>متغير<s n="adj"/></r></p></e>
       <e><p><l>geçmiş<s n="adj"/></l><r>گچمیش<s n="adj"/></r></p></e>
       <e><p><l>ender<s n="adj"/></l><r>نادر<s n="adj"/></r></p></e>
+      <e><p><l>kentsel<s n="adj"/></l><r>حضرى<s n="adj"/></r></p></e>
       <e><p><l>ihtişamlı<s n="adj"/></l><r>فخم<s n="adj"/></r></p></e>
       <e><p><l>muhteşem<s n="adj"/></l><r>موحتشم<s n="adj"/></r></p></e>
       <e><p><l>fiziki<s n="adj"/></l><r>جسمى<s n="adj"/></r></p></e>
@@ -2900,7 +2904,12 @@
       <e><p><l>anlat<s n="v"/><s n="tv"/></l><r>انلاد<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>گچیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öğren<s n="v"/><s n="tv"/></l><r>أوگرن<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>uza<s n="v"/><s n="iv"/></l><r>اوزا<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>kesiş<s n="v"/><s n="iv"/></l><r>کسیش<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>uzan<s n="v"/><s n="iv"/></l><r>اوزان<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>inan<s n="v"/><s n="tv"/></l><r>إنان<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yükle<s n="v"/><s n="tv"/></l><r>يوكله<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yüklen<s n="v"/><s n="tv"/></l><r>يوكلن<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>hisset<s n="v"/><s n="tv"/></l><r>حیست<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ayırt<b/>et<s n="v"/><s n="tv"/></l><r>أيرد<b/>أت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>karış<s n="v"/><s n="tv"/></l><r>قارش<s n="v"/><s n="tv"/></r></p></e>
