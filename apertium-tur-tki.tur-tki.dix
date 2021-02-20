@@ -920,6 +920,7 @@
       <e><p><l>komutanlık<s n="n"/></l><r>قومتانلغ<s n="n"/></r></p></e>
       <e><p><l>ibare<s n="n"/></l><r>عباره<s n="n"/></r></p></e>
       <e><p><l>dolar<s n="n"/></l><r>دولار<s n="n"/></r></p></e>
+      <e><p><l>komut<s n="n"/></l><r>امر<s n="n"/></r></p></e>
       <e><p><l>komutan<s n="n"/></l><r>قائد<s n="n"/></r></p></e>
       <e><p><l>ordu<s n="n"/></l><r>جيش<s n="n"/></r></p></e>
       <e><p><l>milletvekili<s n="n"/></l><r>نائب<s n="n"/></r></p></e>
@@ -1648,6 +1649,9 @@
       <e><p><l>geçiş<s n="n"/></l><r>گچیش<s n="n"/></r></p></e>
       <e><p><l>kıta<s n="n"/></l><r>قطب<s n="n"/></r></p></e>
       <e><p><l>kent<s n="n"/></l><r>مملکت<s n="n"/></r></p></e>
+      <e><p><l>programlama<s n="n"/></l><r>برمجه<s n="n"/></r></p></e>
+      <e><p><l>derleyici<s n="n"/></l><r>درليجى<s n="n"/></r></p></e>
+      <e><p><l>makine<s n="n"/></l><r>مکنه‌<s n="n"/></r></p></e>
       <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -2905,6 +2909,8 @@
       <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>گچیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öğren<s n="v"/><s n="tv"/></l><r>أوگرن<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uza<s n="v"/><s n="iv"/></l><r>اوزا<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>ایشله<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>çalış<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kesiş<s n="v"/><s n="iv"/></l><r>کسیش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>uzan<s n="v"/><s n="iv"/></l><r>اوزان<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>inan<s n="v"/><s n="tv"/></l><r>إنان<s n="v"/><s n="tv"/></r></p></e>
