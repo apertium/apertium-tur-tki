@@ -1029,10 +1029,14 @@
       <e><p><l>mektup<s n="n"/></l><r>مکتوپ<s n="n"/></r></p></e>
       <e><p><l>tutuklu<s n="n"/></l><r>مکتوپ<s n="n"/></r></p></e>
       <e><p><l>gazete<s n="n"/></l><r>جریده<s n="n"/></r></p></e>
+      <e><p><l>cebir<s n="n"/></l><r>جبر<s n="n"/></r></p></e>
+      <e><p><l>cebir<s n="n"/></l><r>جبر<s n="n"/></r></p></e>
       <e><p><l>program<s n="n"/></l><r>برنامج<s n="n"/></r></p></e>
+      <e><p><l>lineer<s n="n"/></l><r>خطى<s n="n"/></r></p></e>
       <e><p><l>mahalle<s n="n"/></l><r>محڵه<s n="n"/></r></p></e>
       <e><p><l>kişilik<s n="n"/></l><r>شخصيه<s n="n"/></r></p></e>
       <e><p><l>kan<s n="n"/></l><r>قان<s n="n"/></r></p></e>
+      <e><p><l>yazılım<s n="n"/></l><r>برمجه<s n="n"/></r></p></e>
       <e><p><l>iptal<s n="n"/></l><r>إلغاء<s n="n"/></r></p></e>
       <e><p><l>esna<s n="n"/></l><r>أسنا<s n="n"/></r></p></e>
       <e><p><l>albay<s n="n"/></l><r>البای<s n="n"/></r></p></e>
@@ -1652,7 +1656,13 @@
       <e><p><l>programlama<s n="n"/></l><r>برمجه<s n="n"/></r></p></e>
       <e><p><l>derleyici<s n="n"/></l><r>درليجى<s n="n"/></r></p></e>
       <e><p><l>makine<s n="n"/></l><r>مکنه‌<s n="n"/></r></p></e>
+      <e><p><l>hesaplama<s n="n"/></l><r>حیسبلاما<s n="n"/></r></p></e>
       <e><p><l>bağışçı<s n="n"/></l><r>فاعل<b/>خیر<s n="n"/></r></p></e>
+      <e><p><l>raporlama<s n="n"/></l><r>تقرير<s n="n"/></r></p></e>
+      <e><p><l>slogan<s n="n"/></l><r>شعار<s n="n"/></r></p></e>
+      <e><p><l>programcı<s n="n"/></l><r>مبرمج<s n="n"/></r></p></e>
+      <e><p><l>sabırsızlık<s n="n"/></l><r>صبرسزلغ<s n="n"/></r></p></e>
+      <e><p><l>tembellik<s n="n"/></l><r>تمبليغ<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
@@ -1663,6 +1673,7 @@
       <e><p><l>değişken<s n="adj"/></l><r>متغير<s n="adj"/></r></p></e>
       <e><p><l>geçmiş<s n="adj"/></l><r>گچمیش<s n="adj"/></r></p></e>
       <e><p><l>ender<s n="adj"/></l><r>نادر<s n="adj"/></r></p></e>
+      <e><p><l>sayısal<s n="adj"/></l><r>حیسابی<s n="adj"/></r></p></e>
       <e><p><l>kentsel<s n="adj"/></l><r>حضرى<s n="adj"/></r></p></e>
       <e><p><l>ihtişamlı<s n="adj"/></l><r>فخم<s n="adj"/></r></p></e>
       <e><p><l>muhteşem<s n="adj"/></l><r>موحتشم<s n="adj"/></r></p></e>
@@ -2480,6 +2491,8 @@
       <e><p><l>Fizyolojik<s n="adj"/></l><r>فسيولوجي<s n="adj"/></r></p></e>
       <e><p><l>değişken<s n="adj"/></l><r>دیشن<s n="adj"/></r></p></e>
       <e><p><l>başaran<s n="adj"/></l><r>باشاران<s n="adj"/></r></p></e>
+      <e><p><l>modüler<s n="adj"/></l><r>معيارى<s n="adj"/></r></p></e>
+      <e><p><l>pratik<s n="adj"/></l><r>عملى<s n="adj"/></r></p></e>
       <!--SECTION INTERJECTION-->
       <e><p><l>falan<s n="ij"/></l><r>فلان<s n="ij"/></r></p></e>
       <e><p><l>ey<s n="ij"/></l><r>أى<s n="ij"/></r></p></e>
@@ -2909,6 +2922,7 @@
       <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>گچیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öğren<s n="v"/><s n="tv"/></l><r>أوگرن<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uza<s n="v"/><s n="iv"/></l><r>اوزا<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>ilerle<s n="v"/><s n="iv"/></l><r>إيلارله‌<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>ایشله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çalış<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kesiş<s n="v"/><s n="iv"/></l><r>کسیش<s n="v"/><s n="iv"/></r></p></e>
@@ -3400,6 +3414,8 @@
       <e><p><l>CEE<s n="np"/><s n="al"/></l><r>CEE<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>ad<s n="np"/><s n="al"/></l><r>اد<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>TV<s n="np"/><s n="al"/></l><r>TV<s n="np"/><s n="al"/></r></p></e>
+      <e><p><l>Matlab<s n="np"/><s n="al"/></l><r>ماتلاب<s n="np"/><s n="al"/></r></p></e>
+      <e><p><l>Perl<s n="np"/><s n="al"/></l><r>Perl<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>www<s n="np"/><s n="al"/></l><r>www<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>WMTR<s n="np"/><s n="al"/></l><r>WMTR<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Bağdat<s n="np"/><s n="top"/></l><r>بغداد<s n="np"/><s n="top"/></r></p></e>
