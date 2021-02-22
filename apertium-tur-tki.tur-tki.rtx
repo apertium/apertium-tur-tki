@@ -117,6 +117,8 @@ vP: (if (1.fin_nonfin in tense)
 			1(vP_inf)
 		elseif (1.fin_nonfin in ger)
 			1(vP_ger)
+		else              ! just choose something because
+			1(vP_fin)      ! there needs to be an else "just in case"
 		);
 
 
