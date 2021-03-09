@@ -1097,7 +1097,7 @@
       <e><p><l>net<s n="n"/></l><r>نت<s n="n"/></r></p></e>
       <e><p><l>metin<s n="n"/></l><r>نص<s n="n"/></r></p></e>
       <e><p><l>spor<s n="n"/></l><r>رياضه<s n="n"/></r></p></e>
-      <e><p><l>değişiklik<s n="n"/></l><r>ديشيكليك<s n="n"/></r></p></e>
+      <e><p><l>değişiklik<s n="n"/></l><r>ديشيغليغ<s n="n"/></r></p></e>
       <e><p><l>yargılama<s n="n"/></l><r>یارگلما<s n="n"/></r></p></e>
       <e><p><l>özgürlük<s n="n"/></l><r>حریه<s n="n"/></r></p></e>
       <e><p><l>plan<s n="n"/></l><r>خطه<s n="n"/></r></p></e>
@@ -1419,6 +1419,7 @@
      <e><p><l>başarı<s n="n"/></l><r>بشارى<s n="n"/></r></p></e>
      <e><p><l>vicdan<s n="n"/></l><r>وجدان<s n="n"/></r></p></e>
      <e><p><l>tarz<s n="n"/></l><r>زوق<s n="n"/></r></p></e>
+     <e><p><l>dizi<s n="n"/></l><r>ديزى<s n="n"/></r></p></e>
      <e><p><l>gam<s n="n"/></l><r>غم<s n="n"/></r></p></e>
      <e><p><l>direk<s n="n"/></l><r>ديرك<s n="n"/></r></p></e>
      <e><p><l>zat<s n="n"/></l><r>شخص<s n="n"/></r></p></e>
@@ -2688,7 +2689,6 @@
       <e><p><l>buyana<s n="adv"/></l><r>بوینا<s n="adv"/></r></p></e>
       <e><p><l>o<b/>dakikada<s n="adv"/></l><r>او<b/>داکادی<s n="adv"/></r></p></e>
       <e><p><l>burada<s n="adv"/></l><r>بوردا<s n="adv"/></r></p></e>
-      <e><p><l>herkeş<s n="adv"/></l><r>هرکش<s n="adv"/></r></p></e>
       <e><p><l>olunca<s n="adv"/></l><r>اولونجا<s n="adv"/></r></p></e>
       <e><p><l>hatta<s n="adv"/></l><r>حاتا<s n="adv"/></r></p></e>
       <e><p><l>madem<s n="adv"/></l><r>مادام<s n="adv"/></r></p></e>
@@ -2703,8 +2703,7 @@
       <e><p><l>yıldan<b/>yıla<s n="adv"/></l><r>یلدن<b/>یله‌<s n="adv"/></r></p></e>
       <e><p><l>ta<s n="adv"/></l><r>تا<s n="adv"/></r></p></e>
       <e><p><l>kaç<s n="adv"/></l><r>قاچ<s n="adv"/></r></p></e>
-      <e><p><l>ayla<s n="adv"/></l><r>ایلا<s n="adv"/></r></p></e>
-     
+      <e><p><l>ayla<s n="adv"/></l><r>ایلا<s n="adv"/></r></p></e> 
       <e><p><l>şu<b/>an<s n="adv"/></l><r>حالن<s n="adv"/></r></p></e>
       <e><p><l>neyse<s n="adv"/></l><r>عمومن<s n="adv"/></r></p></e>
       <e><p><l>o<b/>kadar<b/>çok<s n="adv"/></l><r>او<b/>قدر<b/>چوخ<s n="adv"/></r></p></e>
