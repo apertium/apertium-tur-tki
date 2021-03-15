@@ -178,7 +178,7 @@
        <e><p><l>çadır<s n="n"/></l><r>چادر<s n="n"/></r></p></e>
        <e><p><l>dayı<s n="n"/></l><r>دايى<s n="n"/></r></p></e>
        <e><p><l>amca<s n="n"/></l><r>عمى<s n="n"/></r></p></e>
-       <e><p><l>anne<s n="n"/></l><r>نينه<s n="n"/></r></p></e>
+       <e><p><l>anne<s n="n"/></l><r>نینه‌<s n="n"/></r></p></e>
        <e><p><l>isim<s n="n"/></l><r>آد<s n="n"/></r></p></e>
        <e><p><l>baba<s n="n"/></l><r>ده‌ده‌<s n="n"/></r></p></e>
        <e><p><l>nine<s n="n"/></l><r>عننه<s n="n"/></r></p></e>
@@ -1667,6 +1667,7 @@
       <e><p><l>tembellik<s n="n"/></l><r>تمبليغ<s n="n"/></r></p></e>
       <e><p><l>ukalalık<s n="n"/></l><r>كيبيرليك<s n="n"/></r></p></e>
       <e><p><l>fonksiyon<s n="n"/></l><r>فونكسيون<s n="n"/></r></p></e>
+      <e><p><l>koyun<s n="n"/></l><r>قویون<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
@@ -3024,7 +3025,7 @@
       <e><p><l>git<s n="v"/><s n="iv"/></l><r>گیت<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gerçekle<s n="v"/><s n="iv"/></l><r>گرچکله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gerçekleş<s n="v"/><s n="iv"/></l><r>گرچکلهش<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>de<s n="v"/><s n="tv"/></l><r>دا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>de<s n="v"/><s n="tv"/></l><r>ده‌<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>duyur<s n="v"/><s n="tv"/></l><r>إیشیت<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>al<s n="v"/><s n="tv"/></l><r>الا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>gül<s n="v"/><s n="iv"/></l><r>گول<s n="v"/><s n="iv"/></r></p></e>
@@ -3190,7 +3191,7 @@
       <e><p><l>bil<s n="v"/><s n="tv"/></l><r>بیل<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bin<s n="v"/><s n="iv"/></l><r>بین<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>boğ<s n="v"/><s n="tv"/></l><r>بوغ<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>bul<s n="v"/><s n="tv"/></l><r>بول<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>bul<s n="v"/><s n="tv"/></l><r>تاپ<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>borçlan<s n="v"/><s n="iv"/></l><r>بورچلان<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>başar<s n="v"/><s n="tv"/></l><r>باشار<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>boşalat<s n="v"/><s n="tv"/></l><r>بوشالت<s n="v"/><s n="tv"/></r></p></e>
