@@ -213,7 +213,7 @@
       <e><p><l>çarşı<s n="n"/></l><r>اسواق<s n="n"/></r></p></e>
       <e><p><l>market<s n="n"/></l><r>ماركت<s n="n"/></r></p></e>
       <e><p><l>deprem<s n="n"/></l><r>زلزال<s n="n"/></r></p></e>
-      <e><p><l>yer<s n="n"/></l><r>ير<s n="n"/></r></p></e>
+      <e><p><l>yer<s n="n"/></l><r>یر<s n="n"/></r></p></e>
       <e><p><l>asman<s n="n"/></l><r>عصمان<s n="n"/></r></p></e>
       <e><p><l>duvar<s n="n"/></l><r>دوار<s n="n"/></r></p></e>
       <e><p><l>dam<s n="n"/></l><r>دام<s n="n"/></r></p></e>
@@ -2812,6 +2812,7 @@
       <e><p><l>gün<b/>geçtikçe<s n="adv"/></l><r>گون<b/>گچتیکچه<s n="adv"/></r></p></e>
       <e><p><l>mesele<s n="adv"/></l><r>مسله<s n="adv"/></r></p></e>
       <e><p><l>zorla<s n="adv"/></l><r>زورلا<s n="adv"/></r></p></e>
+      <e><p><l>ardından<s n="adv"/></l><r>انن<s n="adv"/></r></p></e>
       <e><p><l>fazla<s n="adv"/></l><r>فازلا<s n="adv"/></r></p></e>
       <e><p><l>bu<b/>yana<s n="adv"/></l><r>بو<b/>یانا<s n="adv"/></r></p></e>
       <e><p><l>bildir<s n="adv"/></l><r>بیلدر<s n="adv"/></r></p></e>
@@ -2911,6 +2912,7 @@
       <e><p><l>hiçbir<s n="prn"/><s n="qnt"/></l><r>هیچبیر<s n="prn"/><s n="qnt"/></r></p></e>
       <e><p><l>herkes<s n="prn"/><s n="qnt"/></l><r>هرکش<s n="prn"/><s n="qnt"/></r></p></e>
       <e><p><l>kendi<s n="det"/><s n="ref"/></l><r>اوزو<s n="det"/><s n="ref"/></r></p></e>
+      <e><p><l>öz<s n="det"/><s n="ref"/></l><r>أوز<s n="prn"/><s n="ref"/></r></p></e>
       <e><p><l>her<b/>şekilden<s n="det"/><s n="qnt"/></l><r>هر<b/>شيكلدن<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>ondan<s n="det"/><s n="qnt"/></l><r>اوندان<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hangi<b/>biri<s n="det"/><s n="ind"/></l><r>ناخسى<b/>بيری<s n="det"/><s n="ind"/></r></p></e>
@@ -3939,6 +3941,7 @@
       <e><p><l>için<s n="post"/></l><r>إيچين<s n="post"/></r></p></e>
       <e><p><l>dahi<s n="post"/></l><r>داهى<s n="post"/></r></p></e>
       <e><p><l>ile<s n="post"/></l><r>إيلا<s n="post"/></r></p></e>
+      <e><p><l>ardından<s n="post"/></l><r>انن<s n="post"/></r></p></e>
       <e><p><l>olarak<s n="post"/></l><r>اولارغ<s n="post"/></r></p></e>
       <e><p><l>ötürü<s n="post"/></l><r>أوترو<s n="post"/></r></p></e>
       <e><p><l>aleyhine<s n="post"/></l><r>علیهینه<s n="post"/></r></p></e>
@@ -3983,7 +3986,7 @@
       <e><p><l>öyle<s n="adv"/></l><r>بلا<s n="adv"/></r></p></e>
       <e><p><l>dolayısıyla<s n="adv"/></l><r>او<b/>سببتن<s n="adv"/></r></p></e>
       <e><p><l>hiçbir<b/>şey<s n="prn"/><s n="neg"/></l><r>هیچبیر<b/>شی<s n="prn"/><s n="neg"/></r></p></e>
-      <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>سىن<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>سه‌ن<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>ben<s n="prn"/><s n="pers"/></l><r>مه‌ن<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>اوننار<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
       <e><p><l>nerde<s n="prn"/><s n="ind"/></l><r>هاردا<s n="prn"/><s n="itg"/></r></p></e>
@@ -4067,7 +4070,7 @@
       <e><p><l>eğer<s n="cnjcoo"/></l><r>أگر<s n="cnjcoo"/></r></p></e>
       <e><p><l>da<s n="cnjcoo"/></l><r>دا<s n="cnjcoo"/></r></p></e>
       <e><p><l>hemde<s n="cnjcoo"/></l><r>همده<s n="cnjcoo"/></r></p></e>
-      <e><p><l>yani<s n="cnjcoo"/></l><r>يعني<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yani<s n="cnjcoo"/></l><r>يعنى<s n="cnjcoo"/></r></p></e>
       <e><p><l>ancak<s n="cnjcoo"/></l><r>انجاغ<s n="cnjcoo"/></r></p></e>
       <e><p><l>hem<s n="cnjcoo"/></l><r>هم<s n="cnjcoo"/></r></p></e>
       <e><p><l>ha<s n="cnjcoo"/></l><r>ها<s n="cnjcoo"/></r></p></e>
@@ -4111,7 +4114,7 @@
       <e><p><l>dört<s n="num"/></l><r>دورت<s n="num"/></r></p></e>
       <e><p><l>beş<s n="num"/></l><r>بيش<s n="num"/></r></p></e>
       <e><p><l>altı<s n="num"/></l><r>التىِ<s n="num"/></r></p></e>
-      <e><p><l>yedi<s n="num"/></l><r>يدی<s n="num"/></r></p></e>
+      <e><p><l>yedi<s n="num"/></l><r>یدی<s n="num"/></r></p></e>
       <e><p><l>sekiz<s n="num"/></l><r>سكيز<s n="num"/></r></p></e>
       <e><p><l>dokuz<s n="num"/></l><r>دوقوز<s n="num"/></r></p></e>
       <e><p><l>on<s n="num"/></l><r>آون<s n="num"/></r></p></e>
