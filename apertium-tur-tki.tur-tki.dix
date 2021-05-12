@@ -1672,12 +1672,15 @@
       <e><p><l>ukalalık<s n="n"/></l><r>کیبیرلیك<s n="n"/></r></p></e>
       <e><p><l>fonksiyon<s n="n"/></l><r>فونکسیون<s n="n"/></r></p></e>
       <e><p><l>koyun<s n="n"/></l><r>قویون<s n="n"/></r></p></e>
+      <e><p><l>dışişleri<s n="n"/></l><r>شوئون<b/>خارجیه<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
       <e><p><l>yedek<s n="adj"/></l><r>إحتیات<s n="adj"/></r></p></e>
       <e><p><l>artık<s n="adj"/></l><r>ارتغ<s n="adj"/></r></p></e>
+      <e><p><l>nükleer<s n="adj"/></l><r>نووی<s n="adj"/></r></p></e>
       <e><p><l>artık<s n="adj"/></l><r>مسل<s n="adj"/></r></p></e>
+      <e><p><l>siyasi<s n="adj"/></l><r>سیاسی<s n="adj"/></r></p></e>
       <e><p><l>istemli<s n="adj"/></l><r>إیرادلی<s n="adj"/></r></p></e>
       <e><p><l>fizyolojik<s n="adj"/></l><r>فسیولوجیه<s n="adj"/></r></p></e>
       <e><p><l>değişken<s n="adj"/></l><r>متغیر<s n="adj"/></r></p></e>
@@ -3915,6 +3918,7 @@
       <e><p><l>Turhan<s n="np"/><s n="cog"/><s n="mf"/></l><r>تورهان<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Albay<s n="np"/><s n="cog"/><s n="mf"/></l><r>البای<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Gürses<s n="np"/><s n="cog"/><s n="mf"/></l><r>گورسس<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Obama<s n="np"/><s n="cog"/><s n="mf"/></l><r>اوباما<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Büyükçelebi<s n="np"/><s n="cog"/><s n="mf"/></l><r>بویوگچلبی<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Ekşioğlu<s n="np"/><s n="cog"/><s n="mf"/></l><r>أکشی<b/>اوغلو<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <!--section Postpositions-->
