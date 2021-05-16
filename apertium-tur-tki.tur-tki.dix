@@ -1672,6 +1672,7 @@
       <e><p><l>ukalalık<s n="n"/></l><r>کیبیرلیك<s n="n"/></r></p></e>
       <e><p><l>fonksiyon<s n="n"/></l><r>فونکسیون<s n="n"/></r></p></e>
       <e><p><l>koyun<s n="n"/></l><r>قویون<s n="n"/></r></p></e>
+      <e><p><l>oran<s n="n"/></l><r>نسبه<s n="n"/></r></p></e>
       <e><p><l>dışişleri<s n="n"/></l><r>شوئون<b/>خارجیه<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -3377,8 +3378,8 @@
       <e><p><l>Yılmaz<s n="np"/><s n="ant"/><s n="m"/></l><r>یلماز<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Ziya<s n="np"/><s n="ant"/><s n="m"/></l><r>زیا<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>تورکیا<s n="np"/><s n="top"/></r></p></e>
-      <e><p><l>ABD<s n="np"/><s n="top"/><s n="acr"/></l><r>ABD<s n="np"/><s n="top"/><s n="acr"/></r></p></e>
-      <e><p><l>AB<s n="np"/><s n="top"/><s n="acr"/></l><r>AB<s n="np"/><s n="top"/><s n="acr"/></r></p></e>
+     <!-- <e><p><l>ABD<s n="np"/><s n="top"/><s n="acr"/></l><r>ABD<s n="np"/><s n="top"/><s n="acr"/></r></p></e>-->
+      <e><p><l>AB<s n="np"/><s n="top"/></l><r>AB<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kerkük<s n="np"/><s n="top"/></l><r>کرکوك<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Asya<s n="np"/><s n="top"/></l><r>اسیا<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Bastamlı<s n="np"/><s n="top"/></l><r>بسطاملی<s n="np"/><s n="top"/></r></p></e>
@@ -3654,7 +3655,13 @@
       <e><p><l>Çerkez<s n="np"/><s n="top"/></l><r>چرکز<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Gümüş<b/>hane<s n="np"/><s n="top"/></l><r>گوموش<b/>هانه<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Muş<s n="np"/><s n="top"/></l><r>موش<s n="np"/><s n="top"/></r></p></e>
-      <e><p><l>Floransa<s n="np"/><s n="top"/></l><r>فولرنسا<s n="np"/><s n="top"/></r></p></e>    
+      <e><p><l>Floransa<s n="np"/><s n="top"/></l><r>فولرنسا<s n="np"/><s n="top"/></r></p></e> 
+      <e><p><l>Kore<s n="np"/><s n="top"/></l><r>کوریا<s n="np"/><s n="top"/></r></p></e>   
+      <e><p><l>Afganistan<s n="np"/><s n="top"/></l><r>افغانستان<s n="np"/><s n="top"/></r></p></e> 
+      <e><p><l>ABD<s n="np"/><s n="top"/></l><r>ABD<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ABD<s n="np"/><s n="top"/></l><r>ABD<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Libya<s n="np"/><s n="top"/></l><r>لیبیا<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Japonya<s n="np"/><s n="top"/></l><r>یابان<s n="np"/><s n="top"/></r></p></e>
       
 
       <!--Orginzation-->
@@ -3881,11 +3888,13 @@
       <e><p><l>Coşkun<s n="np"/><s n="ant"/><s n="m"/></l><r>جوشکون<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Eren<s n="np"/><s n="ant"/><s n="m"/></l><r>أرن<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>İhsan<s n="np"/><s n="ant"/><s n="m"/></l><r>إحسان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Williams<s n="np"/><s n="ant"/><s n="m"/></l><r>ویلیامس<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>ÖZTÜRK<s n="np"/><s n="cog"/><s n="mf"/></l><r>إوزتورك<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Selçuk<s n="np"/><s n="cog"/><s n="mf"/></l><r>أرتغرول<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>اتاتورك<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></l><r>اردوغان<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>İnönü<s n="np"/><s n="cog"/><s n="mf"/></l><r>إننو<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Kaddafi<s n="np"/><s n="cog"/><s n="mf"/></l><r>قدافی<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Şafak<s n="np"/><s n="cog"/><s n="mf"/></l><r>شفق<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Ersoy<s n="np"/><s n="cog"/><s n="mf"/></l><r>ارسوی<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Erkut<s n="np"/><s n="cog"/><s n="mf"/></l><r>أرقوت<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -4134,6 +4143,8 @@
       <!--<e><p><l>.<s n="sent"/></l><r>۰<s n="sent"/></r></p></e>-->
       <!--<e><p><l>?<s n="sent"/></l><r>؟<s n="sent"/></r></p></e>-->
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <!--<e><re>ABD</re>          <p><l><s n="np"/><s n="acr"/></l>  <r><s n="np"/><s n="acr"/></r></p></e>-->
+    
 
    </section>
 </dictionary>
