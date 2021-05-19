@@ -369,7 +369,6 @@
       <e><p><l>otogar<s n="n"/></l><r>ناقلیت<s n="n"/></r></p></e>
       <e><p><l>rica<s n="n"/></l><r>ریجا<s n="n"/></r></p></e>
       <e><p><l>uzatma<s n="n"/></l><r>تمدید<s n="n"/></r></p></e>
-      <e><p><l>büyüklük<s n="n"/></l><r>بیوگلوك<s n="n"/></r></p></e>
       <e><p><l>öz<b/>milletı<s n="n"/></l><r>أوز<b/>میلتی<s n="n"/></r></p></e>
       <e><p><l>borc<s n="n"/></l><r>بورج<s n="n"/></r></p></e>
       <e><p><l>tazminat<s n="n"/></l><r>طازمینات<s n="n"/></r></p></e>
@@ -1674,6 +1673,13 @@
       <e><p><l>koyun<s n="n"/></l><r>قویون<s n="n"/></r></p></e>
       <e><p><l>oran<s n="n"/></l><r>نسبه<s n="n"/></r></p></e>
       <e><p><l>dışişleri<s n="n"/></l><r>شوئون<b/>خارجیه<s n="n"/></r></p></e>
+      <e><p><l>TL<s n="n"/></l><r>لیره<s n="n"/></r></p></e>
+      <e><p><l>uçak<s n="n"/></l><r>طیاره<s n="n"/></r></p></e>
+      <e><p><l>kurtarma<s n="n"/></l><r>قورترما<s n="n"/></r></p></e>
+      <e><p><l>demokrat<s n="n"/></l><r>دیمقراطیه<s n="n"/></r></p></e>
+      <e><p><l>artış<s n="n"/></l><r>ارتش<s n="n"/></r></p></e>
+      <e><p><l>büyüklük<s n="n"/></l><r>بویوگلوغ<s n="n"/></r></p></e>
+      <e><p><l>cenaze<s n="n"/></l><r>جنازا<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
@@ -2942,8 +2948,10 @@
       <e><p><l>ilerle<s n="v"/><s n="iv"/></l><r>إیلارله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>إیشله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çalış<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>açıkla<s n="v"/><s n="tv"/></l><r>اچکلا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kesiş<s n="v"/><s n="iv"/></l><r>کسیش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>pudrala<s n="v"/><s n="tv"/></l><r>پودرلا<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yarala<s n="v"/><s n="tv"/></l><r>یارالا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uzan<s n="v"/><s n="iv"/></l><r>اوزان<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>inan<s n="v"/><s n="tv"/></l><r>أنان<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yükle<s n="v"/><s n="tv"/></l><r>یوکله<s n="v"/><s n="tv"/></r></p></e>
@@ -3249,6 +3257,7 @@
       <e><p><l>kaydet<s n="v"/><s n="tv"/></l><r>تسجیل<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yücel<s n="v"/><s n="iv"/></l><r>یوجل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>destekle<s n="v"/><s n="tv"/></l><r>دستکله<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>kaybet<s n="v"/><s n="tv"/></l><r>إیتیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>açıl<s n="v"/><s n="iv"/></l><r>اچل<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>uygula<s n="v"/><s n="tv"/></l><r>تطبیق<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <!--section ProperNouns-->
@@ -3385,6 +3394,7 @@
       <e><p><l>Bastamlı<s n="np"/><s n="top"/></l><r>بسطاملی<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Akdeniz<s n="np"/><s n="top"/></l><r>بحر<b/>الابیض<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kıbrıs<s n="np"/><s n="top"/></l><r>قبرص<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Sudan<s n="np"/><s n="top"/></l><r>سودان<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Beykoz<s n="np"/><s n="top"/></l><r>بیکوز<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amasya<s n="np"/><s n="top"/></l><r>اماسیا<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Boğaziçi<s n="np"/><s n="top"/></l><r>بوغازإیچی<s n="np"/><s n="top"/></r></p></e>
@@ -3469,6 +3479,7 @@
       <e><p><l>UNESCO<s n="np"/><s n="org"/></l><r>الینسکو<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>TBMM<s n="np"/><s n="org"/></l><r>TBMM<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>CHP<s n="np"/><s n="org"/></l><r>CHP<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>Galatasaray<s n="np"/><s n="org"/></l><r>غلاتاسرای<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>FETÖ<s n="np"/><s n="org"/></l><r>فتو<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MHP<s n="np"/><s n="org"/></l><r>MHP<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>YÖK<s n="np"/><s n="org"/></l><r>YÖK<s n="np"/><s n="org"/></r></p></e>
@@ -3662,6 +3673,7 @@
       <e><p><l>ABD<s n="np"/><s n="top"/></l><r>ABD<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Libya<s n="np"/><s n="top"/></l><r>لیبیا<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Japonya<s n="np"/><s n="top"/></l><r>یابان<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>İtalya<s n="np"/><s n="top"/></l><r>إیطالیا<s n="np"/><s n="top"/></r></p></e>
       
 
       <!--Orginzation-->
@@ -3894,6 +3906,7 @@
       <e><p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>اتاتورك<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></l><r>اردوغان<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>İnönü<s n="np"/><s n="cog"/><s n="mf"/></l><r>إننو<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Davutoğlu<s n="np"/><s n="cog"/><s n="mf"/></l><r>داود<b/>اوغلو<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Kaddafi<s n="np"/><s n="cog"/><s n="mf"/></l><r>قدافی<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Şafak<s n="np"/><s n="cog"/><s n="mf"/></l><r>شفق<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Ersoy<s n="np"/><s n="cog"/><s n="mf"/></l><r>ارسوی<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -4128,6 +4141,7 @@
       <e><p><l>buçuk<s n="num"/></l><r>بوچوغ<s n="num"/></r></p></e>
       <e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
       <e><p><l>m<s n="abbr"/></l><r>م<s n="abbr"/></r></p></e>
+      <e><p><l>A<s n="abbr"/></l><r>ا<s n="abbr"/></r></p></e>
       <e><p><l>B<s n="abbr"/></l><r>ب<s n="abbr"/></r></p></e>
       <e><p><l>S<s n="abbr"/></l><r>س<s n="abbr"/></r></p></e>
       <e><p><l>H<s n="abbr"/></l><r>چ<s n="abbr"/></r></p></e>
@@ -4136,7 +4150,10 @@
       <e><p><l>P<s n="abbr"/></l><r>پ<s n="abbr"/></r></p></e>
       <e><p><l>Dr<s n="abbr"/></l><r>د<s n="abbr"/></r></p></e>
       <e><p><l>Y<s n="abbr"/></l><r>ی<s n="abbr"/></r></p></e>
+      <e><p><l>I<s n="abbr"/></l><r>إ<s n="abbr"/></r></p></e>
       <e><p><l>Prof<s n="abbr"/></l><r>پروف<s n="abbr"/></r></p></e>
+      <e><p><l>km<s n="abbr"/></l><r>کم<s n="abbr"/></r></p></e>
+
       <e r="LR"><p><l>mı<s n="qst"/></l><r></r></p></e>
       <!--<e r="RL"><p><l></l><r>mı<s n="qst"/></r></p></e>-->
       <e><re>[\?;:!…¿¶']</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
