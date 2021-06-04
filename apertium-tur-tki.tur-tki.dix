@@ -179,7 +179,7 @@
        <e><p><l>çadır<s n="n"/></l><r>چادر<s n="n"/></r></p></e>
        <e><p><l>dayı<s n="n"/></l><r>دایی<s n="n"/></r></p></e>
        <e><p><l>amca<s n="n"/></l><r>عمی<s n="n"/></r></p></e>
-       <e><p><l>anne<s n="n"/></l><r>نینە<s n="n"/></r></p></e>
+       <e><p><l>anne<s n="n"/></l><r>نینه<s n="n"/></r></p></e>
        <e><p><l>isim<s n="n"/></l><r>آد<s n="n"/></r></p></e>
        <e><p><l>baba<s n="n"/></l><r>دەدە<s n="n"/></r></p></e>
        <e><p><l>nine<s n="n"/></l><r>عننه<s n="n"/></r></p></e>
@@ -249,7 +249,7 @@
       <e><p><l>kürt<s n="n"/></l><r>کورد<s n="n"/></r></p></e>
        <e><p><l>hırıstiyan<s n="n"/></l><r>خرستیان<s n="n"/></r></p></e>
        <e><p><l>mesih<s n="n"/></l><r>مسیح<s n="n"/></r></p></e>
-       <e><p><l>musulman<s n="n"/></l><r>موسلمان<s n="n"/></r></p></e>
+
        <e><p><l>latin<s n="n"/></l><r>لاتین<s n="n"/></r></p></e>
        <e><p><l>kazak<s n="n"/></l><r>قازاق<s n="n"/></r></p></e>
        <e><p><l>tatar<s n="n"/></l><r>تاتار<s n="n"/></r></p></e>
@@ -1680,6 +1680,21 @@
       <e><p><l>artış<s n="n"/></l><r>ارتش<s n="n"/></r></p></e>
       <e><p><l>büyüklük<s n="n"/></l><r>بویوگلوغ<s n="n"/></r></p></e>
       <e><p><l>cenaze<s n="n"/></l><r>جنازا<s n="n"/></r></p></e>
+      <e><p><l>petrol<s n="n"/></l><r>نفت<s n="n"/></r></p></e>
+      <e><p><l>müslüman<s n="n"/></l><r>موسورمان<s n="n"/></r></p></e>
+      <e><p><l>Müslüman<s n="n"/></l><r>موسورمان<s n="n"/></r></p></e>
+      <e><p><l>İlsam<s n="n"/></l><r>إسلام<s n="n"/></r></p></e>
+      <e><p><l>Amerikalı<s n="n"/></l><r>أمریکلای<s n="n"/></r></p></e>
+      <e><p><l>bugün<s n="n"/></l><r>بوگون<s n="n"/></r></p></e>
+      <e><p><l>puan<s n="n"/></l><r>درجه<s n="n"/></r></p></e>
+      <e><p><l>müzik<s n="n"/></l><r>معنی<s n="n"/></r></p></e>
+      <e><p><l>sözcü<s n="n"/></l><r>محامی<s n="n"/></r></p></e>
+      <e><p><l>söz<s n="n"/></l><r>سوز<s n="n"/></r></p></e>
+      <e><p><l>yürek<s n="n"/></l><r>أورگ<s n="n"/></r></p></e>
+      <e><p><l>ilkokul<s n="n"/></l><r>إبتدائی<s n="n"/></r></p></e>
+      <e><p><l>Allah<s n="n"/></l><r>الله<s n="n"/></r></p></e>
+      <e><p><l>aşiret<s n="n"/></l><r>عشرت<s n="n"/></r></p></e>
+      <e><p><l>şafak<s n="n"/></l><r>شافق<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
@@ -1687,7 +1702,9 @@
       <e><p><l>artık<s n="adj"/></l><r>ارتغ<s n="adj"/></r></p></e>
       <e><p><l>nükleer<s n="adj"/></l><r>نووی<s n="adj"/></r></p></e>
       <e><p><l>artık<s n="adj"/></l><r>مسل<s n="adj"/></r></p></e>
+      <e><p><l>aşırı<s n="adj"/></l><r>اشری<s n="adj"/></r></p></e>
       <e><p><l>siyasi<s n="adj"/></l><r>سیاسی<s n="adj"/></r></p></e>
+      <e><p><l>yaralı<s n="adj"/></l><r>یارالی<s n="adj"/></r></p></e>
       <e><p><l>istemli<s n="adj"/></l><r>إیرادلی<s n="adj"/></r></p></e>
       <e><p><l>fizyolojik<s n="adj"/></l><r>فسیولوجیه<s n="adj"/></r></p></e>
       <e><p><l>değişken<s n="adj"/></l><r>متغیر<s n="adj"/></r></p></e>
@@ -1724,6 +1741,7 @@
 <e><p><l>muayyen<s n="adj"/></l><r>معیین<s n="adj"/></r></p></e>
       <e><p><l>ilave<s n="adj"/></l><r>إضافه<s n="adj"/></r></p></e>
       <e><p><l>taraflı<s n="adj"/></l><r>یانلی<s n="adj"/></r></p></e>
+      <e><p><l>süper<s n="adj"/></l><r>ممتاز<s n="adj"/></r></p></e>
       <e><p><l>süreli<s n="adj"/></l><r>سورلی<s n="adj"/></r></p></e>
       <e><p><l>korkunç<s n="adj"/></l><r>قورخونج<s n="adj"/></r></p></e>
       <e><p><l>dinsel<s n="adj"/></l><r>دینجی<s n="adj"/></r></p></e>
@@ -2529,6 +2547,9 @@
       <e><p><l>ah<s n="ij"/></l><r>آه<s n="ij"/></r></p></e> 
       <e><p><l>tamam<s n="ij"/></l><r>تمام<s n="ij"/></r></p></e> 
       <e><p><l>yo<s n="ij"/></l><r>یو<s n="ij"/></r></p></e> 
+      <e><p><l>yani<s n="ij"/></l><r>یعنی<s n="ij"/></r></p></e> 
+      <e><p><l>yok<s n="ij"/></l><r>یوخ<s n="ij"/></r></p></e>
+      <e><p><l>evet<s n="ij"/></l><r>هە<s n="ij"/></r></p></e>
       
     
       <!-- SECTION: Adverbs -->
@@ -2539,6 +2560,8 @@
       <e><p><l>herkes<s n="adv"/></l><r>هرکش<s n="adv"/></r></p></e>
       <e><p><l>geçici<s n="adv"/></l><r>گچیجی<s n="adv"/></r></p></e>
       <e><p><l>geç<s n="adv"/></l><r>گچ<s n="adv"/></r></p></e>
+      <e><p><l>nedir<s n="adv"/></l><r>ندی<s n="adv"/></r></p></e>
+      <e><p><l>aşırı<s n="adv"/></l><r>اشری<s n="adv"/></r></p></e>
       <e><p><l>kontrolü<s n="adv"/></l><r>کونترول<s n="adv"/></r></p></e>
       <e><p><l>aynen<s n="adv"/></l><r>عینن<s n="adv"/></r></p></e>
       <e><p><l>evvel<s n="adv"/></l><r>اول<s n="adv"/></r></p></e>
@@ -2909,6 +2932,8 @@
       <e><p><l>bir<b/>takım<s n="det"/><s n="qnt"/></l><r>بیر<b/>تاخیم<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bir<b/>miktar<s n="det"/><s n="qnt"/></l><r>بیر<b/>میقدار<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bazı<s n="det"/><s n="qnt"/></l><r>بعزی<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>nedir<s n="prn"/><s n="itg"/></l><r>ندی<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>niçin<s n="adv"/><s n="itg"/></l><r>نیجی<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>kimi<s n="det"/><s n="qnt"/></l><r>کیمی<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bir<b/>kısım<s n="det"/><s n="qnt"/></l><r>بیر<b/>قسیم<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bu<b/>kadar<s n="det"/><s n="qnt"/></l><r>بو<b/>قدر<s n="det"/><s n="qnt"/></r></p></e>
@@ -2948,6 +2973,11 @@
       <e><p><l>ilerle<s n="v"/><s n="iv"/></l><r>إیلارله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>إیشله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çalış<s n="v"/><s n="tv"/></l><r>اوخو<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>düşün<s n="v"/><s n="tv"/></l><r>دوشون<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>kurtul<s n="v"/><s n="tv"/></l><r>خالص<b/>اول<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>var<s n="v"/><s n="iv"/></l><r>وار<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>yap<s n="v"/><s n="tv"/></l><r>یاپ<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>coş<s n="v"/><s n="iv"/></l><r>جوشپ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>açıkla<s n="v"/><s n="tv"/></l><r>اچکلا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kesiş<s n="v"/><s n="iv"/></l><r>کسیش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>pudrala<s n="v"/><s n="tv"/></l><r>پودرلا<s n="v"/><s n="tv"/></r></p></e>
@@ -2978,7 +3008,7 @@
       <e><p><l>bölün<s n="v"/><s n="iv"/></l><r>بولون<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>dile<s n="v"/><s n="tv"/></l><r>دیله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>inan<s n="v"/><s n="iv"/></l><r>إنان<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>izle<s n="v"/><s n="tv"/></l><r>باخ<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>izle<s n="v"/><s n="tv"/></l><r>باخ<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>geliş<s n="v"/><s n="iv"/></l><r>گلیش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>geliştir<s n="v"/><s n="iv"/></l><r>تطور<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>değiştir<s n="v"/><s n="tv"/></l><r>دەگیشتیر<s n="v"/><s n="tv"/></r></p></e>
@@ -2991,6 +3021,7 @@
       <e><p><l>sağla<s n="v"/><s n="tv"/></l><r>ساغلا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>işlen<s n="v"/><s n="iv"/></l><r>إشلن<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>dön<s n="v"/><s n="iv"/></l><r>دون<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>ver<s n="v"/><s n="tv"/></l><r>وی<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çıkar<s n="v"/><s n="tv"/></l><r>چخار<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>işle<s n="v"/><s n="tv"/></l><r>إشله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bahset<s n="v"/><s n="tv"/></l><r>بحست<s n="v"/><s n="tv"/></r></p></e>
@@ -3022,6 +3053,7 @@
       <e><p><l>gir<s n="v"/><s n="iv"/></l><r>گیر<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gir<s n="v"/><s n="tv"/></l><r>گیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>oy<s n="v"/><s n="tv"/></l><r>اوی<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>kız<s n="v"/><s n="iv"/></l><r>قیز<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>göster<s n="v"/><s n="tv"/></l><r>گوستر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>اوینا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sezinle<s n="v"/><s n="tv"/></l><r>سز<s n="v"/><s n="tv"/></r></p></e>
@@ -3043,7 +3075,6 @@
       <e><p><l>katıl<s n="v"/><s n="iv"/></l><r>مشارکه<b/>ات<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>görün<s n="v"/><s n="iv"/></l><r>گورون<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>dinle<s n="v"/><s n="tv"/></l><r>دینله<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>git<s n="v"/><s n="iv"/></l><r>گیت<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gerçekle<s n="v"/><s n="iv"/></l><r>گرچکله<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gerçekleş<s n="v"/><s n="iv"/></l><r>گرچکلش<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>de<s n="v"/><s n="tv"/></l><r>دە<s n="v"/><s n="tv"/></r></p></e>
@@ -3066,7 +3097,7 @@
       <e><p><l>söyle<s n="v"/><s n="tv"/></l><r>سله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>otu<s n="v"/><s n="iv"/></l><r>اوتو<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>saklan<s n="v"/><s n="iv"/></l><r>ساخلان<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>git<s n="v"/><s n="iv"/></l><r>گیت<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>git<s n="v"/><s n="iv"/></l><r>گید<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>اول<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>konuş<s n="v"/><s n="tv"/></l><r>قونوش<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uyu<s n="v"/><s n="iv"/></l><r>یات<s n="v"/><s n="iv"/></r></p></e>
@@ -3259,6 +3290,8 @@
       <e><p><l>destekle<s n="v"/><s n="tv"/></l><r>دستکله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kaybet<s n="v"/><s n="tv"/></l><r>إیتیر<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>açıl<s n="v"/><s n="iv"/></l><r>اچل<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>götür<s n="v"/><s n="tv"/></l><r>أپار<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>iste<s n="v"/><s n="tv"/></l><r>إیستە<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uygula<s n="v"/><s n="tv"/></l><r>تطبیق<b/>ات<s n="v"/><s n="tv"/></r></p></e>
       <!--section ProperNouns-->
       <e><p><l>Kemal<s n="np"/><s n="ant"/><s n="m"/></l><r>کمال<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3267,6 +3300,7 @@
       <e><p><l>Behiç<s n="np"/><s n="ant"/><s n="f"/></l><r>بهیچ<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
       <e><p><l>Fevzi<s n="np"/><s n="ant"/><s n="m"/></l><r>فوزی<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Erhan<s n="np"/><s n="ant"/><s n="m"/></l><r>أرهان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Robbie<s n="np"/><s n="ant"/><s n="m"/></l><r>روبیا<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Erdem<s n="np"/><s n="ant"/><s n="m"/></l><r>أردم<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Rafet<s n="np"/><s n="ant"/><s n="m"/></l><r>رافت<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Şükrü<s n="np"/><s n="ant"/><s n="m"/></l><r>شوکرو<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3396,6 +3430,7 @@
       <e><p><l>Kıbrıs<s n="np"/><s n="top"/></l><r>قبرص<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Sudan<s n="np"/><s n="top"/></l><r>سودان<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Beykoz<s n="np"/><s n="top"/></l><r>بیکوز<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Filistin<s n="np"/><s n="top"/></l><r>فلسطین<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amasya<s n="np"/><s n="top"/></l><r>اماسیا<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Boğaziçi<s n="np"/><s n="top"/></l><r>بوغازإیچی<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Azerbaycan<s n="np"/><s n="top"/></l><r>أزربیجان<s n="np"/><s n="top"/></r></p></e>
@@ -3467,6 +3502,8 @@
       <e><p><l>Tavuk<s n="np"/><s n="top"/></l><r>تاوغ<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Tezze<s n="np"/><s n="top"/></l><r>تزه<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Aksu<s n="np"/><s n="top"/></l><r>اکسو<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>karaname<s n="np"/><s n="top"/></l><r>مرسوم<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Ermenistan<s n="np"/><s n="top"/></l><r>أرمنیستان<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Fırat<s n="np"/><s n="top"/></l><r>فرات<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Fransız<s n="np"/><s n="top"/></l><r>فرانسز<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Çay<s n="np"/><s n="top"/></l><r>چای<s n="np"/><s n="top"/></r></p></e>
@@ -3479,6 +3516,8 @@
       <e><p><l>UNESCO<s n="np"/><s n="org"/></l><r>الینسکو<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>TBMM<s n="np"/><s n="org"/></l><r>TBMM<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>CHP<s n="np"/><s n="org"/></l><r>CHP<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>WikiLeaks<s n="np"/><s n="org"/></l><r>ویکیلیکس<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>KKTC<s n="np"/><s n="org"/></l><r>KKTC<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>Galatasaray<s n="np"/><s n="org"/></l><r>غلاتاسرای<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>FETÖ<s n="np"/><s n="org"/></l><r>فتو<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MHP<s n="np"/><s n="org"/></l><r>MHP<s n="np"/><s n="org"/></r></p></e>
@@ -3898,12 +3937,14 @@
       <e><p><l>Mehmet<s n="np"/><s n="ant"/><s n="m"/></l><r>ممەد<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Sevgi<s n="np"/><s n="ant"/><s n="f"/></l><r>سیوگی<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
       <e><p><l>Coşkun<s n="np"/><s n="ant"/><s n="m"/></l><r>جوشکون<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>İslam<s n="np"/><s n="ant"/><s n="m"/></l><r>إسلام<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Eren<s n="np"/><s n="ant"/><s n="m"/></l><r>أرن<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>İhsan<s n="np"/><s n="ant"/><s n="m"/></l><r>إحسان<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Williams<s n="np"/><s n="ant"/><s n="m"/></l><r>ویلیامس<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>ÖZTÜRK<s n="np"/><s n="cog"/><s n="mf"/></l><r>إوزتورك<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Selçuk<s n="np"/><s n="cog"/><s n="mf"/></l><r>أرتغرول<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>اتاتورك<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Karzai<s n="np"/><s n="cog"/><s n="mf"/></l><r>کارزای<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></l><r>اردوغان<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>İnönü<s n="np"/><s n="cog"/><s n="mf"/></l><r>إننو<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Davutoğlu<s n="np"/><s n="cog"/><s n="mf"/></l><r>داود<b/>اوغلو<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -4045,6 +4086,7 @@
       <e><p><l>ve<s n="cnjcoo"/></l><r>وا<s n="cnjcoo"/></r></p></e>
       <e><p><l>ta<s n="cnjcoo"/></l><r>إلا<s n="cnjcoo"/></r></p></e>
       <e><p><l>ki<s n="cnjcoo"/></l><r>کی<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yani<s n="cnjcoo"/></l><r>یعنی<s n="cnjcoo"/></r></p></e>
       <e><p><l>sanki<s n="cnjcoo"/></l><r>کأنما<s n="cnjcoo"/></r></p></e>
       <e><p><l>ki<s n="cnjsub"/></l><r>کی<s n="cnjsub"/></r></p></e>
       <e><p><l>olarak<s n="cnjsub"/></l><r>اولارغ<s n="cnjsub"/></r></p></e>
@@ -4054,6 +4096,8 @@
       <e><p><l>lakin<s n="cnjcoo"/></l><r>لکن<s n="cnjcoo"/></r></p></e>
       <e><p><l>adeta<s n="cnjadv"/></l><r>تقریبا<s n="cnjadv"/></r></p></e>
       <e><p><l>örneğin<s n="cnjadv"/></l><r>مسلن<s n="cnjadv"/></r></p></e>
+      <e><p><l>yoksa<s n="cnjadv"/></l><r>یوخسا<s n="cnjadv"/></r></p></e>
+      <e><p><l>yani<s n="cnjadv"/></l><r>یعنی<s n="cnjadv"/></r></p></e>
       <e><p><l>peki<s n="cnjadv"/></l><r>پکی<s n="cnjadv"/></r></p></e>
       <e><p><l>zira<s n="cnjadv"/></l><r>بالنسبه<s n="cnjadv"/></r></p></e>
       <e><p><l>ile<s n="cnjcoo"/></l><r>إیلا<s n="cnjcoo"/></r></p></e>
@@ -4116,7 +4160,7 @@
       <e><p><l>sıfır<s n="num"/></l><r>صفر<s n="num"/></r></p></e>
       <e><p><l>bir<s n="num"/></l><r>بیر<s n="num"/></r></p></e>
       <e><p><l>iki<s n="num"/></l><r>إیکی<s n="num"/></r></p></e>
-      <e><p><l>üç<s n="num"/></l><r>إوچ<s n="num"/></r></p></e>
+      <e><p><l>üç<s n="num"/></l><r>أوچ<s n="num"/></r></p></e>
       <e><p><l>dört<s n="num"/></l><r>دورت<s n="num"/></r></p></e>
       <e><p><l>beş<s n="num"/></l><r>بیش<s n="num"/></r></p></e>
       <e><p><l>altı<s n="num"/></l><r>التی<s n="num"/></r></p></e>
