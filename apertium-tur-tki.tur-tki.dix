@@ -401,6 +401,7 @@
       <e><p><l>beceri<s n="n"/></l><r>قابلیت<s n="n"/></r></p></e>
       <e><p><l>hariç<s n="n"/></l><r>خاریج<s n="n"/></r></p></e>
       <e><p><l>aslı<s n="n"/></l><r>آصلی<s n="n"/></r></p></e>
+      <e><p><l>akraba<s n="n"/></l><r>خسم<s n="n"/></r></p></e>
       <e><p><l>özel<s n="n"/></l><r>خوصوصیات<s n="n"/></r></p></e>
       <e><p><l>kitaplık<s n="n"/></l><r>ماعراز<s n="n"/></r></p></e>
       <e><p><l>bilgi<s n="n"/></l><r>ماعلومات<s n="n"/></r></p></e>
@@ -1695,6 +1696,8 @@
       <e><p><l>Allah<s n="n"/></l><r>الله<s n="n"/></r></p></e>
       <e><p><l>aşiret<s n="n"/></l><r>عشرت<s n="n"/></r></p></e>
       <e><p><l>şafak<s n="n"/></l><r>شافق<s n="n"/></r></p></e>
+      <e><p><l>altın<s n="n"/></l><r>التن<s n="n"/></r></p></e>
+      <e><p><l>yad<s n="n"/></l><r>یاد<s n="n"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>güzel<s n="adj"/></l><r>گوزل<s n="adj"/></r></p></e>
@@ -2977,6 +2980,7 @@
       <e><p><l>kurtul<s n="v"/><s n="tv"/></l><r>خالص<b/>اول<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>var<s n="v"/><s n="iv"/></l><r>وار<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yap<s n="v"/><s n="tv"/></l><r>یاپ<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>tembihle<s n="v"/><s n="tv"/></l><r>تمهله<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>coş<s n="v"/><s n="iv"/></l><r>جوشپ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>açıkla<s n="v"/><s n="tv"/></l><r>اچکلا<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kesiş<s n="v"/><s n="iv"/></l><r>کسیش<s n="v"/><s n="iv"/></r></p></e>
