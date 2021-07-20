@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[BitXsSBHcdOU#0] ^اج<adj>/aç<adj>$ ^*گرين/*گرين$
+[/BitXsSBHcdOU]
+[EwyTkdNY57VO#0] ^*0مد/*0مد$
+[/EwyTkdNY57VO]
+[Oc3aDd9r_zmy#0] ^*جریدهدین/*جریدهدین$
+[/Oc3aDd9r_zmy]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[_x34dD3nlELS#0] ^*فلارنی/*فلارنی$
+[/_x34dD3nlELS]
+[io3oI9XtPhJ0#0] ^?<sent>/?<sent>$
+[/io3oI9XtPhJ0]
+[nzsGSAbNBmUg#0] ^*اصلیوه/*اصلیوه$
+[/nzsGSAbNBmUg]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]

@@ -1,0 +1,10 @@
+{
+    "tki-tur": {
+        "input": "tki-tur-input.txt",
+        "mode": "tki-tur"
+    },
+    "tur-tki": {
+        "input": "tur-tki-input.txt",
+        "mode": "tur-tki"
+    }
+}

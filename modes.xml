@@ -51,7 +51,7 @@
       <program name="cg-proc -w">
         <file name="tki-tur.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="tki-tur.prob"/>
       </program>
 
