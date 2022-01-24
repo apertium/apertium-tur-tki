@@ -1,0 +1,720 @@
+Anasayfa:
+"Wikimedia Topluluğu Kullanıcı Grubu "'Türkiye
+Wikimedia Community User Group Turkey""'
+__İÇİNDEKİLERYOK__
+
+Wikimedia Türkiye:
+Wikimedia Türkiye ya da diğer adıyla Özgür Bilgi Grubu/Girişimi, Türkiye Cumhuriyeti sınırları dahilinde özgür bilginin gelişimi ve yayılması amacıyla hareket eden bir oluşumdur. Hukuki olarak resmiyet kazanmamıştır ve çalışmalarını bir süreliğine gayriresmî olarak sürdürecektir. Gerekli şartlar oluştuğunda "Dernek", "Vakıf" ya da "Şirket" olarak resmî bir oluşum haline gelecek ve Wikimedia Vakfı'na resmî onay için başvuracaktır.
+Oluşum 3 Ocak 2010 tarihinde kurulmuştur. 2-3 sene süreyle resmî bir yapıya bürünmesi beklenmemektedir.
+Aktif projeler.
+Wikimedia Türkiye, ilk proje olarak Haftanın İş Birliği Projesi için belirlenen ödülü finanse edecektir. 
+2010'un ilk 26 haftasında en çok birincilik kazanan kullanıcıya bir internet kitapçısından 100 TL, ikinciye 50 TL, üçüncüye de 25 TL'lik hediye çeki armağan edilecektir. Yarışmanın koşulları ilgili sayfadan öğrenilebilir.
+Sonraki projeler resmî üyeler tarafından belirlenecektir.
+Kapsam.
+Wikimedia Türkiye, başta Türkçe olmak üzere Türkiye Cumhuriyeti'nde konuşulan tüm dilleri destekler ve Wikimedia Vakfı'nın bu dillerdeki projelerinin gelişimi için çaba harcar, proje üretir.
+IRC.
+Wikimedia Türkiye'nin resmi IRC kanalı, irc.freenode.net sunucusundaki #wikimedia-tr kanalıdır.
+E-posta listesi.
+Wikimedia Türkiye'nin e-posta listesi https://lists.wikimedia.org/mailman/listinfo/wikimedia-tr adresindedir.
+Üyelik.
+Üyelik için belirlenen ücret, 2010 yılı için 25 TL'dir. İstekliler daha fazla bir tutar ile katkıda bulunarak bağışçılar listesinde yer alabilir ya da anonim kalmayı seçebilir.
+Üyelik için bir banka hesabı oluşturulacak, ayrıca Paypal ve Moneybokers üzerinden de para gönderimi mümkün olacaktır. Hesap ilk etapta tarafından kontrol edilecek ve atanacak 2 denetçi tarafından internet bankacılığı üzerinden kontrol edilebilecektir.
+Banka hesabı henüz açılmadığı için katılmayı düşünen kullanıcıların isimlerini aşağıya eklemeleri rica olunur.
+
+Hakkımızda:
+Wikimedia Türkiye (ya da Özgür Bilgi Grubu), Türkiye Cumhuriyeti sınırları dahilinde faaliyet gösteren ve başta projeleri olmak üzere, Türkçe özgür bilgi ve içeriğin gelişimi ve desteklenmesi için çalışan bir oluşumdur.
+Wikimedia Türkiye, Wikimedia Vakfı’ndan farklı bir oluşumdur ve vakfın projeleri üzerinde herhangi bir kontrole sahip değildir. Oluşumun amacı, Wikimedia Vakfı projelerinin de dahil olduğu projelerin desteklenmesi suretiyle özgür lisans kullanımının teşvik edilmesi, özgür lisanslı içeriğin toplanması, geliştirilmesi ve dağıtımına katkıda bulunulmasıdır.
+Oluşum, başta Türkçe olmak üzere Türkiye Cumhuriyeti'nde konuşulan tüm dilleri desteklemekte, Wikimedia Vakfı'nın bu dillerdeki projelerinin gelişimi için çaba harcamakta ve proje üretmektedir.
+
+Projeler:
+Wikimedia Türkiye tarafından geliştirilen projelerin ham listesi aşağıdadır:
+
+Bize ulaşın:
+__İÇİNDEKİLERYOK__
+__DEĞİŞTİRYOK__
+
+Bağış:
+
+Üyelik:
+Üyelik için WMTR Yönetim Komitesi'ne wmtr@wikimedia.community adresinden başvuruda bulunabilirsiniz. Başvuru için karşılamanız gereken kriterler:
+
+Oluşum ismi:
+Oluşum isminin belirlenmesi.
+Bu oluşumunun amacı "Wikimedia Turkey Chapter" kurmaktır
+Tartışma.
+"Böyle bir tartışma devam ederken, belki başlamadan önce neden logo ve ana sayfadaki adlandırmalar değiştirildi?" diye sormuş nazif. aynen katılırım. denemeyi geri alırsanız konu daha sağlıklı tartışılmış olur. -- 12:35, 5 Kasım 2011 (EET)
+Geç olsun güç olmasın :)
+Nasıl MediaWiki yazılımı özel bir isimse ve yerelleştirilmiyorsa, aynı şekilde Wikimedia Vakfının özel ismi olan bir sözcüğün de yerelleştirilmemesi gerektiği düşüncesindeyim. Wikipedia gibi bir ansiklopedinin isminin yerelleştirilmesi olağandır. Ancak Wikimedia'yı yerelleştirmek ile Microsoft veya Facebook'u yerelleştirmek arasında çok bir fark göremiyorum açıkçası.
+Wikimedia Türkiye adını zaten resmi bir oluşum haline gelmeden kullanma hakkımız yok. Sadece bu viki üzerinde bir kullanım olanağı söz konusu. O yüzden isim ne olsun konusuna çok da takılmaya gerek yok derim ben. Çünkü önümüzdeki 5 yıl içinde bir kurumsallaşma öngöremiyorum ben.
+Hukuki sıkıntılar halen çok büyük bir problem teşkil ediyor ve bu nedenle resmi olmayan bir oluşum olarak yapabileceğimiz her şeyi yapmak, şu noktada en doğru adım olur. Projeleri tartışalım bence şu noktada, ki yukarıdaki katılımcı sayısının beni çok mutlu ettiğini de söylemeden geçmeyeyim yeri gelmişken.
+
+Milletvekilleri:
+
+Projeler/Wikimania:
+İstanbul, Türkiye'nin en kalabalık, iktisadi ve kültürel açıdan da en önemli şehridir. Dünyanın şehirler bazında 29. büyük ekonomisine sahip İstanbul, belediye sınırları göz önüne alınarak yapılan sıralamaya göre Avrupa'nın en yüksek nüfuslu şehridir. 2012 sayımına göre toplam 13.854.740 nüfusa sahiptir.
+Dünyanın en eski şehirlerinden biri olan ve üç dünya imparatorluğuna başkentlik yapan İstanbul, bu özellikleriyle geçmişle bugün arasında çok kuvvetli ve ihtişamlı bir köprüdür. İnsan eliyle yapılmış sayısız yapının yanında muhteşem doğal güzelliklere de sahiptir. UNESCO tarafından Dünya Mirası Listesi'ne eklenen İstanbul, 2010 yılında Avrupa Kültür Başkenti seçilmiştir. Birleşmiş Milletler Turizm Örgütü'nden yapılan açıklamaya göre, 2012 yılında en çok ziyaret edilen 6. altıncı ülke olan Türkiye'ye bir yılda 35,7 milyon turist gelmiştir. Türkiye'nin güzide turist merkezlerinden birisi olan İstanbul'un da bu başarıdaki payı oldukça büyüktür.
+Şehir çağlar boyunca farklı uygarlık ve kültürlere ev sahipliği yapmış, yüzyıllar boyu çeşitli din, dil ve ırktan insanların bir arada yaşadığı kozmopolit ve metropolit yapısını korumuş ve tarihsel süreçte eşsiz bir mozaik halini almıştır. Uzun zaman dilimleri boyunca her alanda merkez olmayı ve iktidarda kalmayı başaran dünyadaki ender yerleşim yerlerinden biri olan İstanbul, geçmişten günümüze bir dünya başkentidir.
+İstanbul hakkında.
+Tarih.
+İstanbul, yerleşim tarihi 300 bin, kentsel tarihi yaklaşık 3 bin, başkentlik tarihi 1600 yıla kadar uzanan Avrupa ile Asya kıtalarının kesiştiği noktada bulunan bir dünya kentidir. 
+İstanbul'un tarihi üç yüz bin yıl öncesine kadar uzanmaktadır. Şehrin MÖ 6500'lü yıllara kadar uzanan kalıntıları bulunmuştur. MÖ 685 yılında günümüzde İstanbul'un olduğu yerde Yunanlar bir koloni kurdu. İstanbul şehrinin ilk şekli olarak kabul edilen Byzantion'un kuruluşu ise MÖ 667 yılına rastlar.
+324 - 1453 yılları arasında Bizans'a başkentlik yaptı. I. Konstantinus şehri ele geçirip Roma İmparatorluğu'nun başkenti yaptıktan sonra, şehir ayrıca Roma'nın doğusunun yönetim merkezi oldu. Döneminde dünyanın en büyük katedrali olan Ayasofya'yı 360'da kuran Konstantin; böylece Roma İmparatorluğu'nun dinini de Hıristiyanlık olarak değiştirdi.
+Şehir 29 Mayıs 1453'de Osmanlı İmparatorluğu'nun himayesine geçti. İstanbul'un fethi, dünya tarihinde bazı tarihçilere göre Orta Çağ'ın sonunu simgelemektedir. İstanbul, uzun bir süre Osmanlı'ya başkentlik yapmıştır.
+Osmanlı'nın ele geçirmesinden sonra; Topkapı Sarayı ve Kapalı Çarşı kuruldu. 
+İstanbul, I. Dünya Savaşı'nın sonlarında 13 Kasım 1918'de İtilaf Devletleri donanmasınca da işgal edildi. İstanbul'un 2500 yıllık başkentlik dönemi 29 Ekim 1923'de, Türkiye Cumhuriyeti'nin ilanıyla sona erdi.
+1973 yılına gelindiğinde de Asya ve Avrupa'yı birleştiren Boğaziçi Köprüsü hizmete açıldı.
+Coğrafya.
+İstanbul 41° K, 29° D koordinatlarında yer alır. İstanbul Boğazı boyunca ve Haliç'i çevreleyecek şekilde Türkiye'nin kuzeybatısında kurulmuştur. Batıda Çatalca Yarımadası, doğuda Kocaeli Yarımadası'ndan oluşur. İstanbul'u oluşturan yarımadalardan Çatalca Avrupa, Kocaeli ise Asya anakaralarındadır. Kentin ortasındaki İstanbul Boğazı ise bu iki kıtayı birleştirir. Boğazdaki Fatih Sultan Mehmet ve Boğaziçi Köprüleri ile yapımı 29 Mayıs 2015 tarihinde tamamlanması planlanan Üçüncü Boğaz Köprüsü şehrin iki yakasını birbirine bağlamaktadır.
+İklim.
+İstanbul'un iklimi, Karadeniz iklimi ile Akdeniz iklimi arasında geçiş özelliği gösteren bir iklimdir, dolayısıyla İstanbul'un iklimi ılımandır. İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır. Nem yüzünden, hava sıcaklığı olduğundan daha sıcak; soğukluk da olduğundan daha soğuk hissedilebilir. En sıcak aylar Temmuz-Ağustos dönemleridir ve bu aylarda ortalama sıcaklık 24°C'dir.
+Konferansın düzenlenmesi planlanan tarihler, İstanbul'un en sıcak olduğu günlere denk gelmektedir.
+Para birimi.
+Türk lirası (ISO 4217 kodu: TRY, sembol: ), Türkiye Cumhuriyeti'nin para biriminin adıdır. Türk lirası banknotlar 6 farklı kupürden oluşmaktadır. Bunların değeri küçükten büyüğe doğru sırasıyla; 5, 10, 20, 50, 100 ve 200 liradır. Tedavülde olan 6 farklı madeni para küpürlerinin değerleri ise küçükten büyüğe doğru sırasıyla; 1, 5, 10, 25, 50 kuruş ve 1 liradır.
+Birçok yerde rastlayabileceğiniz döviz bürolarında, yabancı para birimleri ile dönüşüm yaptırmak mümkündür.
+Döviz kurları.
+"Bu bilgiler en son 26.11.2010 15:30'da güncellenmiştir. Güncel olmayabilir."
+Buluşma yeri.
+Atatürk Havalimanı'na ve Fuar Alanı metro istasyonuna yürüme mesafesinde olan WOW Convention İstanbul'daki Ana Salon; Görüş açısının engellenmediği tamamı kolonsuz 3.108 m2 alana sahiptir. Birçok teknik ve fiziksel özelliğe sahip olan konferans merkezi en güçlü alternatiflerden biridir.
+Fırat Kültür Merkezi'ndeki Büyük Salon, 911 koltuk kapasitesine, yüksek teknik donanıma ve akustik bir görünüme sahiptir. Fırat Kültür Merkezi'ne ulaşımın da kolay olacağı düşünülmektedir. T1 tramvay seferleri, kültür merkezinin hemen önünde bulunan Çemberlitaş istasyonundan geçmektedir.
+Ulaşım.
+İstanbul içi ulaşım.
+İstanbul, 2015'te hizmette olması planlananlarla birlikte 300km'yi aşan yaygın bir hızlı ulaşım ağına sahiptir. Bunun yanı sıra, toplam sayıları 5.000'e yaklaşan otobüs, 300'ün üzerinde metrobüs, 167 tramvay, 88 vapur, 8 teleferik ve 6 füniküler ile kapsamlı ve sürekli büyüyen bir ulaşım ağına sahiptir.
+Anonim istanbulkart.
+istanbulkart, herkesin satın alıp yükleme yapabileceği ve tüm ulaşım araçlarında kullanabileceği kişiselleştirilmemiş bir seyahat kartıdır. İstanbul genelinde sayıları 1.500'ü aşan İETT gişeleri ve özel bayilerden temin edilebilir. 6 ödeyerek bakiyesi boş bir Anonim istanbulkart edinebilir ve satın aldığınız karta, İETT gişeleri ve özel bayilerin yanı sıra durak ve istasyonlarda bulunan OSM'lerden de yükleme yapabilirsiniz.
+Tarife ücretleri:
+Sınırlı kullanımlı bilet.
+Sınırlı Kullanımlı Bilet, herkesin satın alıp tüm ulaşım araçlarında kullanabileceği bir, iki, üç, beş veya on geçiş hakkı sağlayan sınırlı kullanımlı seyahat kartıdır. İstanbul genelinde sayıları 1.500'ü aşan İETT gişeleri ve özel bayilerden temin edilebilir. Bu biletlere, yeniden yükleme yapılmaz, bakiyeniz bittiğinde yenisini almanız gerekir.
+Kart ücretleri:
+Vize gereksinimleri.
+Vize istenmeyen ülkeler.
+"Bu bölümde devam eden bir çalışma var. Çalışma sona erince bu yazı kaldırılacaktır."
+Aşağıdaki ülkelerin vatandaşları Türkiye'ye vizesiz giriş yapabilir: 
+Türk dillerindeki Vikimedya projeleri hakkında.
+Wikimania 2012 İstanbul, Türkçe ve Azerice Vikipediler ve Vikimedya projeleri tarafından desteklenmektedir. Bu iki Vikipedi, hızla büyümektedir. Daha önce bu Vikiler tarafından organize edilen buluşmalar gerçekleşmiştir. Bunlar İzmir 2006, Ankara 2006, İstanbul 2006, Ankara 2007, İstanbul 7 Temmuz 2007, İstanbul 10 Kasım 2007, İzmir 2007, İzmir 2008 ve Bakü 2009 buluşmalarıdır. Ayrıca 18 Ocak 2008 tarihinde İstanbul'da Jimmy Wales'in de katılımıyla Altivi Wikipedia Semineri adlı bir toplantı gerçekleştirilmiştir.
+Vikipedi buluşmalarından görüntüler:
+
+WMTR Toplantıları:
+Topluluk, yüzyüze ve çevrimiçi sesli/görüntülü görüşme yolu ile toplantılar gerçekleştirmektedir. Katılımcıların tuttuğu toplantı notlarına buradan ulaşabilirsiniz.
+
+WMTR Toplantıları/2017-04-12:
+'" Wikimedia Topluluğu Kullanıcı Grubu Trükiye 
+12 Nisan 2017 Toplantı Notları"'
+Hazırlayan: 
+WMTR Toplantıları
+12.04.2017 günü saat: 21.30'da toplantı başladı. moderatörlüğünde hazır olan üyelerimizle Hangouts üzerinden sesli/görüntülü icra edilen toplantıda aşağıda özeti belirtilen kararlar alındı;
+
+WMTR Toplantıları/2017-04-19:
+'" Wikimedia Topluluğu Kullanıcı Grubu Türkiye 
+19 Nisan 2017 Toplantı Notları"'
+Hazırlayan: 
+WMTR Toplantıları
+19.04.2017 günü saat: 22.00-23:30 arasında Hangouts üzerinden sesli/görüntülü toplantı gerçekleştirildi. 
+Katılımcılar: , , , , , , , 
+Wikimedia Vakfı'ndan Asaf Bartov, ile Topluluk Kapasitesi Geliştirme Programı üzerinde konuşuldu. Asaf, vakıfta "Gelişmekte Olan Topluluklar" (Emerging Communities) sorumlu olduğunu açıkladı ve Türkçe Vikipedi topluluğu da bir ""gelişmekte olan topluluklar""dan birisi.
+Asaf bize Topluluk Kapasitesi Geliştirme Programı’na ait şu adreste yer alan bilgileri özetleyerek programı kısaca tanıttı: 
+Bu girişim hakkında özetle, ihtiyaç duydukları alan(lar)da vikipedi topluluklarına Vakfın eğitim alma imkanı sağlayarak, vakıftan kişilerin topluluğa danışmanlık yapmasını sağlayarak yardımcı olması denebilir. Yukarıdaki linkten detaylarına ulaşılabilecek 6 kapasite alanı belirlenmiş durumda. Toplantıya katılanlar, topluluğun sorunu olarak gördükleri konuları dile getirdiler ve “bu sorunları çözmek için hangi kapasitemizi geliştirmemiz gerek, Vakıf’tan nasıl bir destek alırız” konusunda bilgi istediler. 
+Asaf'a topluluğumuzun başlıca sorunlarından birisinin şu olduğu aktarıldı:"""Türkçe Vikipedi’yi geliştirmek üzere wiki’de mesai harcamanın dışında wiki-dışı toplantılar, etkinlikler gerekli ama bizler bir araya gelmekte zorluk çekiyoruz ve bu tür etkinlikler planlayamıyoruz. Bir araya gelmediğimiz için birbirimizi tanımıyoruz; toplulukta güven duygusu az, anonim kalmak isteyenler çok.""
+Asaf, "bazı kişilerin anonim kalmak istemesi, wiki-dışı etkinliklere katılmak istememesi normal; ancak istekli olanları bir araya getirip, birlikte çalışma motivasyonunu arttırmak gerek; insanların birbirini yüzyüze tanıması büyük fark yaratıyor” diyerek; vakfın desteğiyle ülke çapında bir vikipedist toplantısı/konferansı düzenlenmesini veya bir dizi bölgesel toplantı düzenlenmesini önerdi. Böyle bir etkinlik düzenlenmesi halinde Vakfın katılımcıların seyahat masrafları dahil masraflara destek olabileceğini, yurtdışından konuşmacı gönderilebileceğini aktardı. 
+Toplantıya katılanlar bu fikre olumlu yaklaştılar, çeşitli yer önerileri dile getirildi: Kıbrıs ODTÜ kampüsü, Bilgi Üniversitesi, Üsküdar Üniversitesi, ODTÜ Ankara kampüsü...ulusal bir etkinlik değil, farklı şehirlerdeki küçük etkinliklerin mi faydalı olacağı katılabilen vikipedistleri bir yerde toplayacak büyük bir etkinlik düzenlenmesinin mi daha uygun olduğu konusunda değişik görüşler paylaşıldı. Öte yandan vikipedistlerin böyle bir etkinlik düzenleme konusuna aktaracak yeterli zaman ve enerjisinin olmaması konusunda endişeler ile böyle bir birlikteliğin Vikipedi’deki çatışmalı konulara dikkat çekeceği ve kullanıcı adlarının arkasında daha güvenli konumda olan vikipedistlerin bilinir/ulaşılır kılması konusunda endişeler dile getirildi. 
+Asaf, ayrıca daha kısa zamanda Mayıs-Haziran gibi bir eğitim planlanırsa topluluğun istediği konuda eğitim vermek için gelebileceğini, seyahat masrafları dahil eğitimin masraflarının Vakıfça karşılanabileceğini belirtti. Örneğin Çatışma Yönetimi (anlaşmazlıkların giderilmesi) konusunda isteklilere örneğin hizmetlilerden isteyenlere özel bir eğitim verilmesi söz konusu olabilir. Bu eğitim, mevcut çatışmaları çözmek için değil ama topluluğun çatışmaları yönetme becerisini arttırmak, en azından daha “iyi”çatışmalar yaşanmasını sağlamaya yarıyor. Daha geniş bir gruba Vikiveri eğitimi verilebilir.
+Asaf’ın bir diğer önerisi, wiki-dışı etkinliklere katılımı cesaretlendirmek en azından daha olumlu yaklaşılmasını sağlamak için bu tür etkinliklerde ilke olarak neleri yapıyoruz, neleri yapmıyoruz’u içeren bir detaylı metin (bir tür anlaşma metni/politika) hazırlanması. Başka topluluklarda vikipedistlerin “basına vikipedist olarak açıklama yapma hakkına saha kim verdi? Üniversitede vikipedi konusunda konuşma yapma yetkisini nerden aldın” türünde tepkiler alabildiğini, ülkedeki/toplumdaki gerginliklerin de yanlış anlamaları arttıran bir unsur olduğunu; ilke metni gibi bir metnin gerginlikleri önlemede faydalı olduğunu belirtti. 
+Ayrıca yapılan etkinliklerin katılmayanlar tarafından takip edilebileceği ortam yaratılmasının öneminden bahsetti. Etkinlikler sonrasında mutlaka rapor yazmak gerektiği, bunun başkalarının katılım motivasyonunu arttırmada önemli olduğu belirtildi. Ancak bunun kişilerin insiyatifine bırakılmaması, rapor yazma konusunda bir politika olması gerektiği ifade edildi.
+Tüm bu konular katılabilecek olanlarla Cuma akşamı yüzyüze olarak İstanbul’da görüşülecek. Cuma akşamı toplantıya katılabilecek olanlar buluşma için Zafer’le iletişime geçsin lütfen.
+
+Kronoloji:
+Bu sayfada Wikimedia Türkiye kullanıcı grubunun gerçekleştirdiği etkinlikler kronolojik olarak sıralanmaktadır.
+2014.
+WMTR öncesi.
+10 Mayıs 2014 - Başlangıçta her şey bir hayal ve fikir bulutuydu.
+
+WMCON/2017/Basak:
+Hazırlayan: 
+WMCON
+31 Mart-2 Nisan arasında gerçekleşen Wikimedia Konferası (WMCON)'na "" ile ilgili oturumları izlemek üzere katıldım. 
+Bu sene konferans önceki senekilerden daha büyük ve kalabalık idi. Çünkü bu sene Wikimedia Hareketi, önümüzdeki 15 yılın stratejisini belirlemeye çalışıyor. ""15 yıldır Vikipedi dünyadaki gereksinimlere cevap verebilen ve başarılı bir proje idi. önümüzdeki 15 yıl ne olacak? Dünyadaki gereksinimlere cevap verebilen bir hareket olarak kalmak için ne yapmalı, neye odaklanmalıyız? "sorularına cevap arıyor. Wikimania'ya kadar devam edecek bu sürecin bir parçası olarak Berlin'deki yıllık konferansta normal konferans programına ek olarak Hareket Stratejisi ile ilgili bir program eklenmiş ve bu programa katılmak üzere insanlar davet edilmişti. Ben de Hareket Stratejisi ile ilgili davet alıp gittim ve normal konferans programını değil, strateji belirlemeye yönelik programı takip ettim. 
+Üç gün süren toplantıların tamamı, şu soruya cevap için düzenlenmişti: "Wikimedia hareketi, 2030’da ne noktada olmak istiyor?" Üç gün boyunca katılımcıların bu soruya odaklanması ve adım adım ilerlemesi için bir dizi etkinlik gerçekleştirildi.
+1. Gün.
+Sığırcık sürüsü müyüz biz?
+Günün ilk aktiviteleri Wikimedia hareketinin çetrefilliğini anlamak üzere tasarlanmıştı. Komutları yerine getirdik. Örneğin “"Geldiğiniz ülkeye göre salonda bir dünya haritası oluşturacak şekilde dizilin"". Ardından ""Kendinizi en rahat ifade ettiğiniz dile göre gruplanın"" (diller salonun bir ucundan diğerine alfabetik olarak sıralansın)!!" Her gruptan mikrofon uzatılan bir kişiden bugün niye burada olduğunu kendi dilinde anlatması istenince salondakiler belki hayatlarında bir daha duymayacakları dilleri duymuş oldu. Örneğin ben hayatımda ilk defa Yorubaca konuşan birini duydum. 
+Bir başka komut: ""Rastgele oluşturulmuş beş kişilik gruplar oluşturarak Wikimedia hareketinin amacını ifade eden birer ‘canlı heykel’ yaratın"". Sonuç: 
+Enteresan bir egzersiz de Canlı Sistem Simülasyonu idi. Yani herkesin rastgele iki kişi seçip her ikisini de eşit uzaklıkta kalmaya, kendisi ve o iki kişinin bir ikiz kenar üçgen oluşturmasına çalışması. Böylece tıpkı her bir kuşun, hareketin tamamı ile ilgilenmeden sadece çevresindekileri takip ettiği ama bu arada farkında olmadan topluca bir akış halinde olduğu sığırcık sürüsü gibi bir hareketin ortaya çıktığını görüp (Sığırcık sürüsünün hareketi için bakınız: Sığırcık videosu) bununla Wikimedia hareketi arasında nasıl bağlantı kurulabileceği üzerine konuşuldu. 
+Son olarak herkes bu konferansa ilişkin umdukları ve korktukları birer şeyi renkli yapışkan kağıtlara yazdı ve benzer şeyleri ifade eden kağıtlar panolarda birkaç başlıkta gruplandırıldı.
+İkinci grup aktivite, ""2030'da nereye gitmek, ne olmak istiyoruz?"" sorusuna yanıt vermeden önce ""şu anda neredeyiz?"" ve ""dünya nereye gidiyor?"", ""Wikimedia hareketi nereye gidiyor"", konularında katılımcıların sezgilerini paylaşmak üzereydi. Oturumun tek sunumu bu sırada yapıldı: Ana Strateji Ekibinin hareketin geleceğine etkisi olabilecek trendler üzerine hazırladığı sunumu indirebilirsiniz.. 
+Bu sunumda nüfus, eğitim, teknoloji konularındaki dünyadaki bazı trendler aktarılıyor (Örn. 2030'a kadar dünyadaki nüfus artışının çoğu Afrika ve Asya'da olacak; okur yazarlık artacak ama milyarlarca kişi ortaöğrenim sonrası eğitime ulaşamıyor olacak, dünyanın yarısı interneti ve kamerası olan akıllı telefon sahibi olacak). Wikimedia projelerinin bazı trendleri de aktarıldı (örn. Nüfusun %11’ini oluşturan Avrupalılar, Vikipedi içeriğnin %53’ünü oluşturuyor, insanların katkıda bulunma sebebi sosyal bir misyona katkı isteği, bağışçıların bağış yapma sebebi Wikimedia’yı yararlı bir kaynak olarak görmeleri ve kâr amacı gütmediğini, varlığının devamı için bağış gerektiğini bilmeleri). Şu sorular ortaya atıldı: 
+""Tüm bunların Wikimedia’nın geleceği için anlamı ne olabilir? Wikimedia'yı bir 'hareket' yapan (çevre hareketi, mikrofinans hareketi, kadın hareketi gibi bir hareket) nedir? Ne bakımdan bir harekettir, ne bakımdan değildir? Bir hareket olalım ya da olmayalım, daha etkili olmak, dünyada istediğimiz yönde değişim yaratmak için başka hareketlerden öğreneceklerimiz nedir?"
+Günün son etkinlikleri Wikimedia’nın geleceğini düşünürken gözönüne alınacak dünyadaki ve Wikimedia içindeki trendleri belirlemek üzereydi. Yeni yeni beliren/yerleşmiş olan/bitmekte olan iç ve dış trendlerin neler olduğunu küçük gruplar halinde çalışıp tartışıp yapışkan kağıtlara yazmamız istendi. Yapışkan kağıtları panolara yapıştırınca daha çok dünyada "yeni beliren" trendlerden bahsedildiği ve yeni beliren trend olarak en çok "olgu-ötesi toplum" (post-fact society) ve "popülist söylem" kavramlarının telaffuz edildiği görüldü. Yerleşmiş trendler olarak "sosyal medya" ve "mobil araçlar"; biten trendler olarak ise "medyaya, kapitalizme, uzmanlara güvenden bahsedildiği görüldü. Wikimedia-içinde beliren trendler olarak otomasyon, önyargı ile mücadele, katılımı teşvik; yerleşmiş trendler olarak GLAM ve benzeri ortaklıklar, Wikimedistler arası iletişim ve içeriğin işlenme şekli (özellikle silinmesi) gündeme geldi.
+2. Gün.
+İkinci gün, Wikmedia'nın meseleleri ve fırsatları konusunda ""Açık Alan Teknolojisi"" yöntemi ile tartışma günü idi. Bu, şu demek oluyor: oturumu düzenleyenler konu/gündem belirlemiş, konuşma/sunum hazırlamış veya konuşmacı davet etmiş DEĞİLDİ. Bütün işleri biz katılımcılara yaptırdılar! "Konuşulmasını önerdiğiniz konu varsa yazıp panoya asın; yarım saatlik bir zaman dilimi seçin; o konuyu konuşmak için o zaman diliminde yanınıza gelen 3-5 kişiyle grup olarak konuyu tartışın ve sonra da bir tartışma raporu yazın."" dediler. Bir de "Konu önermiyorsanız panoda asılı önerileri okuyun, istediğiniz gruba katılıp tartışmaya katılın ya da dinleyin ya da ayrılıp başka bir gruba katılın."" Bu toplantı yöntemine ilk defa tanık oldum. Olanı biteni şaşkın şaşkın izledim diyebilirim. Sonuçta toplam 84 konu, 3 raundda tartışıldı.
+Ben birinci raundda "Hareket Olma" konusunu tartışan gruba katıldım. Bu konuyu öneren Lukas'ın kafasında şu soru vardı: ""kendisini vikipedist/vikimedist olarak tanımlayan bazı kişiler kendilerini Wikimedia hareketi diye bir hareketin içinde görmeyebilirler. Örneğin Almanya’da “hareket” denince "politik hareket" anlaşılıyor ve insanlar "ben hiçbir hareketin parçası değilim" diyecekler, hareket lafından hoşlanmayacaklardır. Biz niye kendimizi hareket olarak tanımlayıp bu hareketin stratejisini belirlemeye çalışıyoruz? Ve eğer bu bir hareket ise, daha geniş özgür bilgi hareketinin içindeki yeri nedir?"" 
+İkinci ve üçüncü raundda katıldığım "Kaynaksız bilgi” ve "Kaybolan Tarih" gruplarında şunlar tartışıldı: "Wikimedia projelerinde sözel tarihi, halk kültürü kaynakları vb.'yi göz ardı ederek taraflı bakış açısı mı üretiyoruz, bu tür kaynaklarını nasıl kullanabileceğimiz kaynaklar haline getirebiliriz. Bir basılı yayın haline getirilmemiş sözel bilgileri video-söyleşiler halinde commons’a yükleyip değerlendirmek mümkün olur mu? Tarafsızlık nasıl sağlanacak? Forumlardaki, Q&A sayfalarındaki bilgilerin değerlendirilmesini nasıl sağlayabiliriz? Bu tür kaynakların kullanılıp değerlendirilebileceği yeni bir wiki platformu çözüm olur mu?2'
+Günün sonunda son görev, bu tartışmalarda ortaya çıkan stratejik açıdan daha önemli olabilecek noktaları seçip yapışkan kağıtları yazmaktı (örn. ""Eğitimcilerin Wikimedia projelerine güvenmesi ve kullanması", "okuyucuların topluluğun bir parçası olarak görülmesi", "Linguistik çeşitliliği koruma", "Wikimedia içeriği dünyayı yansıtmalı, sadece editörleri değil", "Doğrulanabilir bilgiye yeniden inanç duyulmasını sağlamaya katkı"") Son olarak herkes yazılanları okuyup benzer olanları bir araya getirdi; böylece 15 başlık ortaya çıktı (örn: "Farklı dillerde erişim, Bilgi açıkları ve önyargılar, yeni toplulukların desteklenmesi, Otomasyon, Eğitim, Yenilik, Teknolojik bağlama uyum, Değerlerimiz, Güvenilirlik ve kalite...")
+Günün sonunda Creative Commons CEO'su Ryan Merkley bir konuşma yaptı. '"Creative Commons" da çok kısa bir süre önce 18 aylık strateji belirleme sürecini tamamlamış olduğundan kendi deneyimlerini paylaşmak üzere gelmişti. 
+Kendisinin de aynı zamanda bir vikipedist ve bir mozilla gönüllüsü olduğunu, açık erişim hareketinin içindeki herkesin birden çok role sahip olduğunu söyledi. Açık erişimin politik bir eylem olduğunu kabul etmek gerektiğini ve elele vermek gerektiğini ifade etti. Kendi strateji süreçlerinde 20 kişilik bir taslak oluşturma ekibinin çalıştığını, taslağın oluşturulup eleştiri ve yorumlar alındıktan sonra tekrar çalışıldığını ve Nisan ayındaki Creative Commons Zirvesi’nde gönüllü topluluğuna sunulduğunu anlattı. 
+""Burada yaptığınız iş ilk bakışta sadece panolara renkli yapışkan notlar yapıştırıp durmak gibi görünüyor ama önemli bir iş yapıyorsunuz. Strateji üzerinde düşünmek zor bir iştir"" dedi. Konuşmayı oldukça dramatik biçimde bitirdi: 
+"Çok tuhaf insanlarsınız...Ben de öyleyim. Bizim derinden önemsediğimiz konular, çoğu kimsenin önemli konular listesinin ilk 10'una girmez. Bizler (garip insanlar) açık erişimin herkese faydası olduğunu biliyoruz. Bu işte beraberiz.”
+3. Gün.
+Üçüncü gün işimiz zordu. Artık stratejiye katkı vermek üzere bir tematik cümle yazmamız gerekiyordu; bu üç günün ürünü bu cümle olacaktı. Bir gün önce belirlenen 15 başlıktan kendimizi en yakın hissettiğimiz başlığı belirledikten sonra aynı başlığı seçen 3-4 kişilik gruplar oluşturup çalışıldı. 37 grup oluştu. Her grup taslak cümle oluşturduktan sonra üzerinde ""muhalefet ritüeli"" ve ""beğeni ritüeli"" denen yöntemlerle çalışmaya devam etti ve cümlelere son hali verildi. 
+37 cümle panolara yerleştikten sonra değerlendirme ve yorum yapma süreci başladı. Konferansın tüm katılımcıları bu cümlelere kırmızı, mavi, yeşil noktalar yapıştırarak cümlede ""Wikimedia'nın odaklanması gereken bir yön"" mü ifade edilmiştir, ""kendilerinin kişisel olarak katkı vermek isteyecekleri bir şey""" midir için oy kullanıp gene yapışkan notlarla yorumlarını yazdı. Bu girdilerin 2017 sonuna kadar Wikimedia Hareketi'nin stratejisini belirlemede faydalı olması dileklerimizle cümleler ve onlara dair yorumlar, görüşler, 3 gün boyunca yapışkan kağıtlara yazılmış küçük notlar dahil her şey, üzerinde çalışıp bir anlam çıkarmaları ve stratejik yön belirlemeleri için Vakıf yetkilerine teslim edildi ve böylece konferans sona erdi. Bu da kapanış Mazingası :
+
+WMCON:
+Wikimedia Zirvesi (Wikimedia Summit), Wikimedia hareketindeki genel işbirliği ve gelişmeleri görüşmek üzere ve Wikimedia organizasyonlarının (kullanıcı grupları, tematik gruplar...) bir araya geldiği yıllık bir toplantıdır. Ev sahipliğini Wikimedia Deutschland (WMDE) ve Wikimedia Vakfı üstlenir. 
+Topluluğu Kullanıcı Grubu Türkiye'den konferanslara katılan üyelerin toplantı notlarını burada bulabilirsiniz.
+
+WMTR Toplantıları/2017-04-21:
+'" Wikimedia Topluluğu Kullanıcı Grubu Türkiye 
+19 Nisan 2017 Toplantı Notları"'
+Hazırlayan: Çeviren:
+WMTR Toplantıları
+Katılımcılar: , , , , 
+21.04.2017 akşamı İstanbul'da Wikmedia Vakfı'ndan ile bazı topluluk üyeleri buluşarak bir toplantı yaptılar. Asaf'ın İngilizce olarak hazırladığı toplantı notlarının orijinalini ve 'un çevirisini aşağıda bulabilirsiniz:
+Notlar.
+English.
+Topics discussed at  Istanbul meeting with Asaf from  Wikimedia Foundation:
+1. possibly organizing a national Wikiconference (for  community, not an outreach event) in  summer of 2017. WMF can support it with a grant to fund expenses, including local travel from all over Turkey, and to send international guests (either WMF staff or Wikimedia leaders from outside Turkey)
+2. The challenge of activating Wikipedians in off-wiki programmatic activity. Towards that, beside  conference idea, we also discussed holding more regular meetups (either in-person or online), and using a twofold model of meetup -- half social, and half information or skill exchange one participant demonstrating one tool, or one technique, or sharing experience from their outreach work, or a cool project outside Turkey they heard about, etc.. Such meetups can easily also include international "guests" (via Skype/Hangout, given a quiet venue), and Asaf would be happy to help secure a list of international guests who would be happy to take part and give 10-minute talks online in such meetups.
+3. We discussed conflict on Turkish Wikipedia, and agreed some training on conflict engagement could be useful. This training might be combined with  national wikiconference or it could be held separately.
+4. The issue of retaining (keeping) new editors was identified as a major problem for Turkish Wikipedia. There's a lot of sockpuppeting and there is some degree of suspicion of newbies. Towards that, in addition to training on conflict engagement above, we discussed  possibility of reviewing and possibly revising some policies, such as  current range-blocks with long durations, or  norm that a blocking admin is deferred to and expected to rule on a possible unblocking.
+Crucially, *possibly* revising such policies is and always will be a community matter. To address  fact there have been long (sometimes over many years) discussions about such policies without change, Asaf brought up  possibility of introducing data and deliberate experimentation to settle these arguments. If  argument for (possible) change can be articulated clearly and some testable success metrics can be defined for it, an experiment can be proposed with a clear timeline and clear next steps depending on  results of  experiment.
+For example,  long-discussed proposals to revise  appearance and layout of Turkish Wikipedia's main page: if those who favor change can articulate what outcomes they are aiming for (e.g. more click-throughs to  featured article,  did-you-know items,  today-in-history items, etc.),  community could agree to run an *experiment* of changing  main page for a given duration (perhaps a month or two), and gather pageview statistics and compare them to  baseline captured in advance, to see if  change actually delivers what  supporters of  change were hoping it would. Both sides of  argument would be in a better place to weigh  pros and cons after such an experiment. (and if  change isn't effective,  old design can be restored without drama, now that everyone has seen  new design doesn't actually achieve what it aimed to do.)
+Even if this particular experiment (let's say) fails, it would be a useful exercise in being flexible and open to (reasoned and well-argued) change, paving  way to a culture of experimentation and gradual improvement, with less frustrating and less eternal arguments. :)
+5. We discussed  question of unblocking users after a while. Asaf argued in favor of "a path for redemption", assuming some time has passed, past misbehavior or mistakes are acknowledged and apologized for, and a commitment is made to follow  rules.
+6. Another topic relevant for training was embracing Wikidata by a wider portion of  community. To that end, some basic training would be useful, as well as advanced training for  handful of Turkish Wikipedians already active in Wikidata and comfortable with  basics. Asaf made an open offer of Wikidata training -- perhaps over an entire weekend, to cover both basics and more advanced topics -- whenever  local community is confident it can attract at least 20 active editors into showing up. (Funding for domestic travel to  training would be available.)
+7. We agreed to discuss some of  possible approaches to new editor retention on-wiki. We also mentioned  possibility of producing some attractive introductory materials, such as a series of video tutorials or an interactive tutorial (computer-based training), as some communities have done.
+Asaf would post about this in English on-wiki and some of you would assist in translating into Turkish. Asaf would follow  discussion via machine translation, and ask for help if something is unclear.
+I think that's it, more or less. Do add anything I may have left out.
+Türkçe.
+Wikimedia Vakfı'ndan Asaf'ın katılımıyla gerçekleşen İstanbul toplantısında görüşülen konular:
+1. 2017 yazında '"ülke çapında bir Vikikonferan"s düzenlemek (sadece topluluk için, dışarı erişim için değil). Wikimedia Vakfı bu konferansı Türkiye içi ulaşım gibi masraflar konusunda destekleyebilir, uluslarlarası konuklar gönderebilir (WMF çalışanları veya Türkiye dışından Wikimedia liderleri)
+2. Vikipedistleri Viki-dışı aktivitelere daha çok katılmaya ikna etme zorluğu. Bu konuda, konferans fikri üzerine, daha fazla düzenli toplantı (dışarıda veya online) üzerine konuştuk ve iki bileşenli bir buluşma modelini tartıştık -- Yarı sosyal buluşma, yarı bilgi/yetenek paylaşımı buluşması (örneğin bir kullanıcı bir aracı diğerlerine tanıtabilir, bir tekniği açılayabilir, yeni kullanıcılara erişme çalışmalarındakini deneyimlerini aktarabilir, Türkiye dışından bir ülkedeki güzel bir projeyi anlatabilir). Bu tarz toplantılara uluslararası "konuklar" da (sessiz bir mekandaki toplantılara Skype/Hangout ile) kolaylıkla katılabilir. Asaf, bu tür toplantılarda 10 dakikalık online konuşmalar yapacak uluslararası konuklar bulmaktan mutluluk duyacaktır.
+3. Türkçe Vikipedi'deki tartışmalar üzerine konuştuk, tartışmalar/çatışmaların çözümlenmesi üzerine biraz eğitimin yararlı olabileceği üzerinde anlaştık. Bu eğitim ulusal Vikikonferansta veya ayrıca düzenlenebilir.
+4. Yeni editörleri elde tutma konusu Türkçe Vikipedi için önemli bir problem olarak konuşuldu. Fazla miktarda canlı kukla kullanımı ve bu sebeple yeni kullanıcılara karşı şüphe bulunuyor. Bu konuda, üstteki tartışma çözümlemeye ek olarak bazı kurallar/politikaların gözden geçirilebileceği üzerine konuştuk. Uzun süreli range IP engelleri ve engelleri, engeli veren hizmetlinin kaldırması yaklaşımlarının gözden geçirilebileceğini tartıştık.
+Temelde, bu tür politikaları gözden geçirmek her zaman toplulukla ilgili bir konu. Politikaları değiştirmeye yönelik çok uzun (bazen yıllarca) süren tartışmaları daha verimli hale getirmek için, Asaf bu tür tartışmalarda veri derleyip konu üzerine deneyler yaparak çözüm bulabileceğimizden bahsetti. Eğer bir değişiklik net şekilde tanımlanıp, ölçülebilir başarı kriterleri belirlenirse; değişiklik üzerine net bir zaman çizelgesi hazırlanarak bir deney yapılabilir ve sonuçları incelenebilir. 
+Örneğin Ana Sayfa tasarımı uzun süredir üzerinde tartışılan bir konu. Eğer değişiklik yapılmasını isteyen kullanıcılar, değişikliğin ölçülebilir olarak ne getireceğini ve neye odaklandığını (örneğin günün maddesi/biliyor muydunuz/haftanın maddesi için daha fazla okunma) belirlerse, topluluk ana sayfayı belirli bir süre için değiştirip (belki 1-2 ay) sayfa görüntülenme sayılarını daha önceki sayılarla kıyaslayarak değişikliğin getirdiği sonuçları ölçebilir. Bu sayede tartışmanın iki tarafı da artıları ve eksileri daha iyi değerlendirebilir. (Eğer deney başarısız olursa, eski tasarım kolayca geri getirilebilir).
+Bu deney başarısız olsa bile, Vikipedi'de esneklik ve (mantıklı ve iyi tartışılmış) değişime açıklık konusunda iyi bir çalışma olacaktır. Bu, sona ermeyen tartışmalar yerine deneylere yakın ve adım adım gelişime açık bir kültür yaratmakta da işe yarayabilir.
+5. Engelli kullanıcıların engelinin belirli bir süreden sonra açılması üzerine konuştuk. Asaf, engeli üzerinden belirli bir süre geçen ve geçmişteki hatalarını kabul edip özür dileyen kullanıcılar için bir "çıkış yolu" olması ve bu kullanıcıların kuralları takip etmeyi taahhütü konusunda öneride bulundu.
+6. Eğitimler hakkında konuştuğumuz bir diğer konu, Wikidata'yı topluluğun daha geniş bir kesimine ulaştırmak oldu. Bu konuda temel eğitimler ve Vikidata'yı halihazırda kullanan kullanıcılar için daha ileri eğitimler olabileceğini görüştük. Asaf Wikidata için bir eğitim teklifinde bulundu. En az 20 aktif kullanıcının katılımını ayarlayabilirsek, bir haftasonu hem temel hem de ileri konuları kapsayacak bir eğitimi düzenleyebileceğinden bahsetti. Türkiye içi ulaşım için gerekli bütçeyi Vakıf karşılayacak.
+7. Vikipedi'de yeni kullanıcıları elde tutma üzerine bazı farklı yaklaşımları görüştük. Bazı diğer toplulukların yaptığı gibi yeni kullanıcılara yönelik video serileri ve interaktif (bilgisayar temelli) eğitim gibi bazı tanıtıcı materyaller üzerine konuştuk.
+
+WMCON/2017/Sakhalinio:
+Hazırlayan: 
+WMCON
+Öncelikle geç rapor için kusuruma bakmayın. Konferans sonrası 1 hafta izinliydim ve sonrasında da işyerindeki yoğunluktan dolayı biraz geciktim.
+Öncelikle bu konferansa nasıl katıldığımı kısaca anlatayım. Aralık ayı sonunda Almanya schengen vizesi alarak bir seyehat gerçekleştirdim. Bu sırada nerden duyduğumu hatırlamıyorum ama 8 Ocak 2017’ye kadar konferansa katılım için başvuru olduğunu duydum. Schengen vizem de olduğu için fazla zorluk eçkmeyeceğimden başvuruların kapanmasına 1-2 gün kala meta’dan başvurdum. Ve kabul edildikten sonra uçak ve paylaşımlı bir oda da Perşembe girişli, Pazartesi çıkışlı otel rezervasyonum geldi. Uçak biletimin gidiş gelişini size bırakıyorlar bende 30 Mart Berlin gidiş, 8 Nisan Amsterdam dönüş bileti istedim. Oda arkadaşım Belarusça wikiden Mikhail Volchaktı. Ben eşime ayrıca başka otelde rezervasyon yaparak ve biletini alarak onuda Berlin'e götürdüm. 4 gece boyunca o başka bir otelde konakladı.
+İlk gittiğimiz akşam eskilerin yenilere yön göstermesi açısından düzenlenen Buddy_Project buluşması vardı. Ben önceden kayıt olmama rağmen ilk kez buunduğum bir ortam olduğu için katıldım. Herkes buddysini bulmakta çok zorlandı. Burada daha önceden bir online toplantı düzenlediğimiz Viki Anıtları Seviyor sorumlusu Leila ile görüşme imkanımız oldu ve verimli bir sohbet gerçekleştirdik.
+Ertesi sabah Orientation for Newcomers to  Wikimedia movement toplantısına biraz geçte olsa katıldım ve burada vakfın kuruluşu ve geçmişi ile bilgiler verildi. 
+Daha sonra herkesin katılımı ile gerçekleşen Start Together toplantısına katıldık. Açılış konuşmaları yapıldı. 370 kişinin üzerindeki katılımcı salondaydı. Konuşmaların ardından insanların birbirleri ile kaynaşması açısından bazı iletişim etkinlikleri düzenlendi. Yemek arasında Jimmy Wales ve diğer bazı kurul üyelerinin katıldığı Ask  Board of Trustees anything toplantısı vardı. Kurul üyeleri vakıfla ilgilli merak edilen soruları cevapladılar.
+Öğlen sonrası Grantle ilgili Intro to Wikimedia Foundation Grants toplantısına katıldım. Grantle ilgili sunumu burada bulabilirsiniz. Grant yardımları ile ilgili bilgi isteyenlerede öğrendiklerimi aktarabilirim. Hemen sonrasında Project Creation and Management’ta projelerin oluşturulmasındaki yönetim evreleri anlatıldı. Collaborative and Participatory Communication – A how-to guide toplantısında Bulgarca vikide gerçekleştirilen 100 Wiki günü proje ışığında çalışma grupları oluşturularak küçük projeler yapıldı. İlk günün son toplantısı New ambitions for Wiki Loves Monuments:Collaborating to discover, document, and share  world's built heritage idi. Burada Viki Anıtları Seviyor projesi ile ilgili bilgiler verildi ve benim için ilk günün en önemli toplantısı oldu. Özellikle wmflabs.org’ta yapılan senkronizasyon anıtlar projesinin çıktılarını görmek için çok etkileyici idi. İlgilenenlerin Berlin ile ilgili oluşturulan sayfayı ziyaret etmesini tavsiye ederim.
+İkinci gün yine ortak toplantıda buluşuldu. Bu buluşmada Başak Hanım’ın raporundaki şuradan inceleyebilirsiniz. Öğlen yemeğinden hemen önce grup fotoğrafı için yakında bulunan büyük bir merdivene gidildi ve fotoğraf çekildi. Yandaki fotoğrğaftan ne kadar kalabalık bir topluluğun olduğunu görebilirsiniz. Öğlenden sonra Global policy roundtable toplantısına katıldım. Burada projeler içinde ne gibi hukuki süreçler hakkında konuşuldu. Vakfın avukatlarından Stephen LaPorte bilgiler vedir. Özellikle Dimitar Dimitrov ile görüşmemiz çok faydalı geçti. Kendisi Brüksel’de Avrupa Konseyi ile sürekli iletişimi olan bir hukukçu. Bizim ileride yaşayabileceğimiz hukuki sorunlarda yardımcı olabileceğini belirtti. Sonrasında Working together:WMF Communications and Wikimedia movement affiliates toplantısında yer aldım. Burada özellikle değişen vakıf logosu, iletişimle ilgili öneriler ve sosyal medya iletişimleri ile ilgili bilgiler paylaşıldı. 16:15 organizasyonunda Türkçe konuşulan diller için 5 kişinin katılımı ile bir toplantı düzenledik. Bu toplantıda Başkurtça wikiden 1, Ukraynaca wikiden 1, Azerice wikiden 1 ve Başak Hanım ve ben katıldı. Ukraynaca wiki’den katılan arkadaşın Türkçe dilleri ile ilgili özel bir ilgisi var. Kendisi daha önce bir süre Ankara’da öğrenci değişimi ile eğitim görmüş. Bu toplantıda Türki diller konuşan vikiler için bir konferans düzenleyebileceğimiz konusunda görüş bildirildi. Bu konu üzerinde çalışacağız. Daha sonra şu anda gündemimizde de olan Community Capacity Development - Results and Future toplantısına katıldım. Burada Asaf toplulukların kapasite gelişimi ile ilgili neler yaptıklarını ve gelecek ile ilgili planlarını aktardı. Günün son toplantısı Design a Communication Strategy aligned with your organization's goals idi. Burada bazı workshoplar yaptık ancak çok kısa süreli idi ve sonuçları konuşulamadı.
+İkinci günü sonunda akşam bir parti düzenlendi. Bu partide katılımcılar birbirleri ile sosyal bir ortamda birlikte oldular. Ben çok uzun kalmadım. 22 civarında partiden ayrıldım.
+Son gün biraz geç başladı bu nedenle bende erken kalkıp kahvatı sonrası yakında bulunan ve 2008 yılında kapatılan na gittim ve birkaç fotoğraf çektim. Günün ilk toplantısı Give feedback on  Wikimedia Resource Center idi. Burada Vakfa yapılan workshoplarda bazı geri bildirimlerde bulunabilecek sonuçlar çıkarmaya çalıştık. Yapılan workshoplar ikişer kişilik gruplar halinde yapıldı. Konferansın son toplantısı Introduction to Wikimedia Foundation brand materials idi. Burada Wikimedia kullanmakta olduğu materyallerle ilgili bilgiler verildi. Bu materyalleri lokalde yaptırabilmek için örneklerini şurada bulabilirsiniz. Bu konu için ileriki günlerde Grant yardımı alarak yapacağımız organizasyonlarda dağıtmak için bazı küçük şeyler yaptırmayı planlıyoruz.
+Organizasyonun kapanış toplantısı yemek sonrası gerçekleşti. Genel olarak çok faydalı bir konfrerans oldu.
+
+Uluslararası toplantılar:
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, Wikimedia Hareketi içinde düzenlenen Orta Doğu ve Avrupa (CEE) Wikimedia Buluşması,Wikimedia Konferansı (WMCON) ve Wikimania Konferansı gibi uluslararası toplantı ve konferanslara Türkçe Vikipedi topluluğundan katılım sağlanması için çaba gösterir. 
+Son yıllardaki toplantı ve konferanslara katılan üyelerin paylaştığı toplantı notlarını burada bulabilirsiniz.
+
+CEE/2017/Delege:
+Wikimedia CEE Buluşması
+Orta ve Doğu Avrupa Vikimedistlerinin 6. yıllık toplantısı olan Wikimedia CEE 2017, 22-25 Eylül'de Varşova'da gerçekleşecek. Wikimedia CEE Toplantısına katılım için başvurular 15 Haziran 2017'de son buluyor. Toplantının katılım şartları ve süreci buradan görülebilir: Katılımcılar
+Özetle, bu toplantıya her chapter veya kullanıcı grubundan - ikisinin masrafları Vakıftan karşılanmak üzere - en fazla 6 delege katılabiliyor. Uluslararası organizatörlerin belirlediği prosedüre göre katılım başvurusu için delege adayı olduğuna dair chapter veya kullanıcı grubu tarafından verilmiş yazılı karar gerekli. Yazılı karardan sonra delege adayları, toplantıya katılım için kayıt formunu doldurabilecekler. Bir wiki'de veya herkese açık herhangi bir formattaki tartışma, yazılı karar olarak sunulabiliyor; masrafları kendisi karşılayacak kullanıcılar için kararda bunun belirtilmesi gerek.
+Bu sayfa delege adaylarının belirlenebilmesi ve delege başvurusunda bulunabilmeleri için oluşturulmuştur. Eğer Wikimedia CEE 2017 toplantısına katılmak istiyorsanız lütfen aşağıdaki listeye kendinizi tanıtan bir cümleyi (kullanıcı adınız, burs istiyor musunuz, yabancı diliniz) en geç 12 Haziran'a kadar ekleyiniz.
+Liste.
+Sayfada adı geçen tüm adayları desteklemekle birlikte, herhangi bir sorun ya da pürüz durumunda yedek olarak gidebilirim, diye not düşeyim. Vize sorunum yok, sunum yapabilirim. :)
+Karar.
+WMTR adına aşağıdaki kullanıcıların delege adayı olmasına karar verilmiştir. Hayırlı olsun.
+
+Wikimedia CEE Buluşması:
+Wikimedia CEE Buluşması, Orta ve Doğu Avrupa (CEE)'daki Vikipedi ve diğer kardeş projeler için çalışan gönüllülerin her yıl düzenlediği uluslararası toplantıdır. 
+
+Wikimania/2017/Basak:
+Hazırlayan: 
+Uluslararası toplantılar
+Ağustos başında Montreal'de gerçekleşen 13. Wikimania Konferansı'na katıldım. Bu, katıldığım ikinci Wikimania Konferansı. Her zamanki gibi konferans sırasında birbirine paralel çok sayıda oturum vardı ama bu sefer tek başıma olmadığım için oturumları paylaşma şansımız oldu. 
+Konferans, 11-12-13 Ağustos günlerindeydi. Ayrıca iki günlük "Konferans-öncesi Etkinlikler sırasında ""Wikimedia Vakfı Öğrenme Günleri"ne katılmak için kaydolmuştum; ilk gün, bu oturumlara katıldım. Öğrenme Günleri'nde katıldığım oturumlardan birisi Wikimedia Programları ve Etkinlikleri Düzenleme başlıklı oturumdu. Burada ""Mantık Modelleri"" tanıtıldı. Özellikle Vakıf'tan destek istenen projelerde, projenin bu çerçevede hazırlanması bekleniyor. Burada üzerinde durulan noktalardan birisi "çıktı" (output) ve "sonuç" (outcome) kavramları idi. Bugüne kadar farklı yerlerde gördüğüm proje eğitimlerinde hep çıktılara odaklanma öğretilirdi; burada sonuçlara vurgu yapılması ilginç geldi. Örneğin "bu etkinlikle şu kadar kişiye eğitim verildi/verilecek", "şu kadar madde üretildi/üretilecek" bilgisinin yanında sözkonusu etkinliğin sonunda katılımcıların hayatında kısa ve orta vadede ne değişti/değişecek" onun üzerinde düşünmeye önem veriliyor. Kısaca proje yazarken şu dört şeyi sunmak gerekiyor: Proje için gerekli girdiler (zaman, para vb.) nedir; çıktıları ne olacak (etkinlik nedir, kimi hedefliyor, faaliyet sonunda oluşacak ürün ne), kısa ve orta dönem sonuçları ne (kısa vadede geliştirilecek beceri ve tutumlar ile edinilecek bilgiler, orta vadede davranış ve eylemler) ve beklenen etki nedir (şartlarda ve hedef grubun dışında toplumda ne değişiklik yaratılacak, - "Dünyayı değiştireceğiz!" -) Bunları önceden belirlemek hem planlama hem de sonuçları daha sağlıklı değerlendirmeyi kolaylaştırıyor. Şuradan bu konuda sunuma ulaşabilirsiniz: Mantık Modelleri
+"Pilot Proje Nasıl Oluşturulur?" başlıklı oturum diğerinin devamı gibiydi. Vakfa bir proje için başvuru yaparken ne durumda önce pilot proje hazırlayıp onun için başvurmalı, pilot proje nasıl hazırlanmalı konusunda bir bilgilendirme idi. ""Pilot proje yapıp başarısız olursak sonra büyük proje için destek alma şansımız hiç kalmaz"" gibi kaygılarla pilot proje düzenlemekten kaçma gibi durumlar yaşandığı için böyle bir eğitim düzenleme ihtiyacı duyduklarını anlıyorum. ""Pilot projeler zaten projede neyin başarısızlığa yol açabileceğini düşünüp test etmek ve ona göre proje planını iyileştirmek için yapılan projelerdir; pilot projenin başarısız olması daha sonra hibe alma şansınızı azaltmaz."" vurgusu yapıldı. Özetle daha büyük bir girişimde bulunmadan önce becerilerimizi, kaynaklarımızı, süreçlerimizi, politikalarımızı sınamak, gerekiyorsa düzletmeler yapmak yani gelecekteki riski azaltmak için (boşa para harcamak, güven kaybetmek, gönüllüleri bıktırmak gibi riskler) pilot proje hazırlanır. Bir projede sadece bir faktör test edilir. Bir soruna çözüm olarak önerdiğimiz şeyin gerçekçi olup olmadığına bakarız. Eğer başarısız olursa projeden vazgeçebileriz ya da bu süreçte öğrendiğimiz bilgilere dayanarak projeyi geliştirebiliriz (bu durumda yeni bir pilot proje ile yeni varsayımlarımızı test etmemiz uygun olur). Slaytlar burada: Pilot Proje Nasıl Oluşturulur?
+Konferans sırasında izlediğim oturumlardan birisi "Vikipedi'yi Niçin Okuyoruz" başlıklı sunum idi. Dünyada saniyede 6000 Vikipedi sayfası okunmakta! Daha etkili bir biçimde eğitim içeriği sağlamak ve yaymak için bu sayfa görüntüleme sayılarının ardındaki motivasyonu çözmek gerekli. Vakfın bu amaçla yürüttüğü bir dizi anket çalışması var, bu çalışmalar tanıtıldı. Söz konusu anketlerde, bir maddeyi okurken okuyucunun karşısına çıkan üç soruyu yanıtlaması isteniyor; ne tür bir bilgi için maddeyi okuduğu (derinlemesine anlamak mı, genel fikir edinmek mi, spesifik bir bilgiyi edinmek için mi), konu hakkında önceden ne kadar bilgisinin olduğu (hiç bilmediği bir konuda ilk bilgiyi almak üzere mi Vikipedi maddesi okuyor, zaten bilgi sahibi olduğu bir konuda ne yazdığına mı bakıyor) ve hangi motivasyonla okuduğu (medyada o konuda bir şeyler duyup merak ettiği için mi; bir kitabı alıp almama ya da bir filmi seyredip seyretmeme gibi bir konuda karar vermek üzere mi, canı sıkıldığından vakit geçirmek için mi, güncel bir olay hakkında bilgi almak için mi...gibi). Sonuçları merak edenlerin şu slaytları incelemesini öneririm: Vikipedi'yi Niçin Okuyoruz?
+Akademisyenlerin çok iyi bildiği ve çok kullandığı Sci-Hub'ın kurucusu Alexandra Elbakyan ile söyleşi ilginç bir oturumdu ancak ses problemleri yüzünden pek takip edemediğimi itiraf edeyim. Video-chat ile kendisine bağlanıldı. Paralı bilimsel dergilerin veritabanına erişip makaleleri kopyalayan ve isteyen herkesin ücretsiz olarak ulaşabilmesini sağlayan Elbakyan, kimilerine göre hırsız ve sahtekâr ancak açık erişim hareketi içindekiler için çok popüler bir kahraman. Kendisi hakkında henüz bir Türkçe vikipedi maddesi yok, ilgilenenlere maddeyi oluşturmak için buradan çağrı yapmış olayım. (Alexandra Elbakyan)
+Kahraman demişken, Wikimania sırasında Suriyeli yazılımı Bassel Hartabil sık sık anıldı ve adına bir "edit-a-thon / hack-a-thon / transcript-a-thon" etkinliği düzenlendi. Bilgi sahibi olmak için ilgili maddeyi okuyabilir, geliştirebilirsiniz. 
+Dil komitesinin yuvarlak masa toplantısı şeklinde gerçekleşen Bir Vikipedi dil sürümünü destekleyebilecek en küçük topluluk nedir? oturumuna da katıldım. Katıldığım başka toplantılarda da gördüğüm kadarıyla çok az kişinin konuştuğu dilleri yaşatma çabasında kimseler, kendi dillerinde Vikipedi oluşturma, geliştirme çabalarını çok önemsiyor ve faydalı buluyor. Bu toplantıda bu konuda çaba gösteren dünyanın farklı yerlerinden kimseler tanışma, bilgi ve deneyim paylaşma, birbirine destek olma yollarını aramak için bir araya gelmişti. Türkiye'de yeni bir Vikipedi oluşturma (örneğin Lazca Vikipedi) ilgilenenler bu topluluktakilerle iletişim kurmak isteyebilirler.
+Bir oturumda üniversitelerle yapılan işbirliklerini göstermek üzere Edinburgh Üniversitesi'nden, Heidelberg Üniversitesi'nden temsilciler ile Meksika'da üniversitelerle yapılan çalışmaları yürüten bir vikipedist birer sunum yaptılar. Edinburg Üniversitesi'nde müdür yardımcısının sunumunu çok ilginç buldum. Dijital becerilerin geliştirilmesini çok önemsiyor ve bunun için Vikimedia projelerinden yararlanmayı olmazsa olmaz bir şey olarak görüyor. Bu projeler hakkında ve eğitimde nasıl kullanılacağı hakkında üniversitede, özellikle de öğretim üyeleri arasında farkındalık yaratmak, etkinlikler düzenlemek için tam zamanlı eleman çalıştıran üniversitelerden birisi Edinburgh Üniversitesi. Başka üniversitelerde bu tür elemanlar daha çok kurumun arşivini dijital ortama aktarmak gibi işlerle uğraşırken ve yarı zamanlı olarak istihdam edilirken Edinburgh Üniversitesi'ndeki yaklaşım ve bu konuya verdikleri önem çok ilginç geldi.
+"Irak reklamında Taylor Swift'le dans eden bir Papa İskeleti" şeklinde komik başlığı olan panelde Vakfın İletişim ile ilgili çalışmalarını yürüten ekip bir sunum yaptı ve dünyanın değişik yerlerinde Wikimedia projeleri hakkında farkındalık ve marka bilinirliği konusundaki araştırmalar ve çalışmalardan bahsedildi. 2016'da yapılan bir araştırma Nijerya, Hindistan ve Meksika'da birçoklarının Vikipedi'nin varlığından habersiz oldukları tespit edilmiş. Bu pazarlarda bilinirliği arttırmak için çalışmalar yürütülmekte. Bir çok yerde insanların pahalılık nedeniyle internet erişemedikleri, Vikipedi'ye erişememenin başlıca nedeninin bu olduğu saptanmış. Bu nedenle çeşitli hükümet kuruluşları, STK'lar ile işbirliği yaparak dünyada internet erişim ücretlerini düşürmek için çalışmalar yapılması (Wikipedia Zero gibi) ve Wikimedia içeriğinin çevrimdışı erişilebilir olması için çalışmalara yoğunlaşılması söz konusu. Yeni Okuyucular araştırmasının bulgularına şuradan erişilebilir: Yeni Okuyucular
+
+Wikimania/2017/BSRF:
+Hazırlayan: 
+Uluslararası toplantılar
+Bu yıl 9-13 Ağustos 2017'de Montreal'de düzenlenen 13. Wikimania Konferansı'na Türkçe Vikipedi'den Basak ve HakanIST ile birlikte katıldım. Bu, katıldığım ilk Wikimania Konferansı idi.
+Konferanstan önce "WMCON Follow-Up Day" etkinliğine katıldım. İlk olarak vakıf bütçesinin hangi etkinliklere aktarıldığı ile ilgili bir sunum yapıldı. Sonra küçük gruplar hâlinde fikir alışverişine geçildi. Burada katılımcılar kendileri için nelerin olmazsa olmaz, nelerin olmasının iyi olduğunundan bahsettiler. Daha sonra da konferanslarda deneyimlenen iyi şeyler ifade edildi. Detaylı notlar şurada mevcut.
+İlk gün önce "Birth of Bias: implicit bias’ permanence on Wikipedia" adlı oturuma katıldım. Sunumda önyargı ve örtük önyargı örneklerle açıklandı, bunlar arasındaki fark belirtildi. Önyargıların Vikipedi için nasıl sorun oluşturduğunun üzerinde duruldu. Önyargıları kırmak için yapılması gerekenlere değinildi. Sunuma şuradan ulaşılabilir. Ardından "Why We Read Wikipedia" adlı sunumu takip ettim. Basak kendi notlarında bu sunumdan bahsetmiş zaten. Ben ayrıca sunumu yapan LZia_(WMF) ile görüşüp sunumda yer alan anketi Türkçeye çevirme konusunda gönüllü olduğumu söyledim. Kendisi anket her dilde eş zamanlı yapıldığından şu an için Türkçe anket yapamayacağını ancak bir sonraki seferde anketin Türkçe yapılabileceğini ve bu konuda benimle iletişime geçeceğini söyledi. Umarım bu gerçekleşir ve sonuçları hep birlikte görürüz. Öğleden sonra Asaf'ın verdiği "A Gentle Introduction to Wikidata for Complete Beginners" sunumunu izledim. Vikidata'ya oldukça yabancı biri olarak bu sunumdan çok şey öğrendim. Sunuma buradan ulaşabilirsiniz. Ayrıca konuyla ilgili üç saatlik bir video da mevcut. İlk gün son olarak "Bringing all  voices to  conversation: what  Wikimedia movement has learned from lower awareness regions" oturumuna katıldım. Sunumda Wikimedia hareketinin az bilindiği ülkelerde yaşayan insanlarla yapılan röportajlar ve elde edilen veriler paylaşıldı. Sunumun sonunda katılımcılara bazı sorular yöneltildi ve katılımcıların görüşleri soruldu. Sunum şurada mevcut.
+İkinci gün önce "Shining Light on Legal Threats to Free Knowledge" oturumuna katıldım. Oturumda vakfın hukuk departmanının karşılaştığı hukuki sorunlara değinildi. Tahmin edersiniz ki Türkiye'deki engelden de bahsedildi. Detaylı notlar şurada mevcut. Ardından "New frontiers in digital censorship and circumvention for Wikipedia users" adlı sunumu izledim. Sunumda yeni sansür yöntemlerine, özellikle de web sitelerini ve uygulamaları hedef alan engellere değinildi ve bu engelleri aşmanın yolları anlatıldı. Konuşmacı, Access Now adlı kuruluşla bağlantılıydı. Kuruluşun çalışmalarından da bahsetti. Detaylı notlara şuradan ulaşılabilir. Öğleden sonra "Photography panel: 5 years of Festivalsommer, Diva in front of  camera, How I learnt basics of Photography" adlı oturuma katıldım. Fotoğrafçılık ile ilgili bir oturumdu. Kısa üç sunum yapıldı. Sonuncusunun slaytları şurada. İkinci gün son olarak "How to raise awareness for Wikipedia: lessons from Iraq & Nigeria" oturumuna katıldım. Vikipedi'yi bilenlerin oranı Irak'ta %11, Nijerya'da %23'müş. Bilinirlikteki bu eksiklik de Wikimedia hareketine yeni kullanıcıların katılmasının önündeki büyük engellerdenmiş. Irak'ta Vikipedi ile ilgili bir televizyon reklamı hazırlanmış. Sunum şurada mevcut.
+Üçüncü gün önce "Going green: How we can reduce  environmental impact of Wikipedia" adlı sunumu takip ettim. Dünyanın en çok ziyaret edilen web sitelerinden biri olan Vikipedi'nin karbon ayak izi oldukça fazlaymış. Vikipedi'nin yalnızca bir veri merkezi (Amsterdam'daki) tamamen yenilenebilir enerji ile çalışıyormuş. Vikipedi'nin kullandığı enerjinin %81'i fosil yakıtlar ve nükleer enerji kaynaklıymış. Vakıf, çevreye etkilerini azaltmayı taahhüt etmiş. Sunumda bunun için neler yapılabileceği de anlatıldı. Sunuma şuradan ulaşılabilir. Daha sonra "Bringing languages closer to enrich each other" oturumuna katıldım. İçerik Çevirme Aracı ile Haziran 2017 itibarıyla 230.000 madde oluşturulmuş. Günde ise ortalama 365 madde oluşturuluyormuş. Bazı maddelerde 200'ü geçen dil bağlantısı sayısı Kompakt Dil Bağlantıları özelliği ile azaltılıyor ve okuyucunun konumuna, tarayıcı ayarlarına vs. bakılarak yalnızca ilgili dil bağlantıları listeleniyor. Bu uygulama, küçük vikilerin görünürlüğünün ve trafiğinin azalacağı gerekçesiyle eleştirilmişse de yapılan araştırmalar hem küçük hem de büyük vikilerin trafiğinin arttığını göstermiş. Örneğin Türkçe interwiki bağlantılarının tıklanma oranı %442 artmış. Öğleden sonra "On-Wiki Campaigning to Engage New Editors" adlı oturumuna katıldım. Sunumda herhangi bir bütçe ayırmadan Vikipedi'ye nasıl yeni gönüllüler çekilebileceği anlatıldı. Her Vikipedi'de madde sayısı artarken kullanıcı sayısı azalıyormuş. Bu nedenle Almanca Vikipedi'de okuyucuları kullanıcılara dönüştürmek için bazı kampanyalar düzenlenmiş. Farklı zamanlarda farklı mesajlar içeren üç sitenotice hazırlanmış. En sade tasarımı olan sitenotice diğer ikisine göre daha başarılı sonuçlar vermiş. Slaytlara şuradan, sunum videosuna ise şuradan ulaşılabilir. Son olarak "A Medieval pope skeleton dancing with Taylor Swift in an Iraqi telecom commercial" sunumunu izledim. Basak kendi notlarında bu sunuma değindiği için detayları atlıyorum. Yukarıda bahsettiğim Irak'taki reklam filminden bu sunumda da bahsettiler. Söz konusu reklam filmi Asiacell abonelerinin Vikipedi'ye bağlantı ücreti ödemeden girebileceği ile ilgiliymiş. Video şuradan izlenebilir.
+
+Wikimania/2017/HakanIST:
+Hazırlayan: 
+Uluslararası toplantılar
+Bu yıl Montreal'de düzenlenen Wikimania 2017 konferansına ve konferans öncesi hackathonlara katılım sağladım. Bu benim ilk Wikimania tecrübemdi. Türkiye'den ve 'de katılımcıydılar. Herkes kendi ilgi/faaliyet alanları ile ilgili oturumlara katılım sağladığı için birçok oturumu takip edebildik. Verilen aralarda katıldığımız oturumlardaki edinimlerimizi paylaşma imkanı bulduk. Ayrıca görevim nedeniyle aktif olduğum birçok başka projelerdeki Vikipedistlerle yüzyüze iletişim kurma imkanı buldum, çok da davet aldım, hatta etkinlik sırasında telekonferans yoluyla yerel toplantılara misafir oldum. Bunların yanında Vakıf çalışanları hukukçular, geliştiriciler ve topluluk danışmanları ile bağlantı kurdum.
+Hackathon.
+Hackathonlar projelerde yapılacak teknik işlemlerle ilgilenenler için çeşitli oturumlar içermekteydi. Bu kapsamda aşağıdaki oturumlara katıldım. 
+Oturumlar dışında hackathon için ayrılmış özel alanda geliştirici, tasarımcı, çevirmenler ile ortaklaşa çalışarak oturumlarda değinilen konuların uygulaması yaptık. Bu sürede ben de mediawiki yazılımı, phabricator, git-review ve gerrit kullanımını tecrübe etmek amacıyla üstlendim ve bir yama yüklemesi yaptım. Ayrıca ilgili de test amaçlı bir yama yüklemesi yaptım. Bu sunumların tamamında sunumları yapan kişilerle birebir soru sorma ve yardım alma imkanı oldu, çok bilinçlendirici olduğunu söyleyebilirim.
+Konferans.
+Ana konferans çerçevesinde Structured Commons, Vikiveri ve ilişkili olarak sanat eseri modellemeleri, Vikipedi tarafında kullanılabilecek bilgi kutusu çözümleri ve istatistiki sorgulamarın ve OpenStreetMap'in anlatıldığı teknik içerikli sunumların yanında, başka toplulukların kütüphanelerle işbirliklerinin anlatıldığı, Wikimania konferansının geleceğinin tartışıldığı, Vikipedisi bulunmayan dillerin nasıl bir yol izlemesi gerektiği, ifade özgürlüğü ve kişilerin haklarının korunmasıyla ilgili oturumlara katıldım.
+Bu sunumlardan en çok etkilendiğim görsellerin vikiverisi olarak adlandırılabilecek Structured Commons sunumuydu. Sunum içerisinde projenin geliştiricisi de vardı ve bazı taslak görseller paylaştı. Çokça fikir ve öneri istedi. Sunum notlarında görülebileceği üzere çok verimli geçti. 
+Vikiveri ve Bilgi kutuları sunumu Vikipedideki bilgi kutuları ile ilgili uzun süredir aradığımız sorulara cevaplar içeriyordu. İbranice ve Katalanca vikipedi kullanıcıları kendi uygulamalarını anlattılar, ayrıca yakında tüm vikilere yüklenecek Capiunto eklentisini de inceleme fırsatım oldu.
+Son olarak Wikimania'nın geleceği oturumu çok ilgi çekiciydi, yapılanlar, yapılacaklar, tavsiyeler, eleştiriler detaylı olarak tartışıldı. Oturumun notları da buradan erişilebilir. 
+
+Haberler:
+
+WMCON/2018/Delege belirleme:
+Wikimedia Konferansı
+Bu sayfa, 20-22 Nisan 2018'de gerçekleşecek Wikimedia Konferansı (WMCON 2018) için Wikimedia Topluluğu Kullanıcı Grubu Türkiye (WMTR)'nin delege adaylarını belirlemek üzere oluşturulmuştur.
+Her yıl Wikimedia Deutschland (WMDE) tarafından Wikimedia Vakfı işbirliği ile Berlin'de düzenlenen Wikimedia Konferanslarının amacı, Wikimedia hareketinin geleceğinin işbirliği, yapısal ve kurumsal gelişimi bakımından tartışılmasıdır. Konferansa Wikimedia topluluklarını temsil etmek üzere belirlenmiş delegeler katılır. Konferans dili İngilizce'dir. 
+WMCON 2018'e katılım süreci hakkında bilgiye buradan erişilebilir:WMCON 2018 Başvurusu. Özetle, kendi kullanıcı topluluğu tarafından belirlenmiş delege adayları en geç 15 Ocak'a kadar konferans kayıt formunu doldurarak başvuru yaparlar; WMCON 2018 organizasyon komitesi, kayıt formlarını değerlendirerek katılımcıları belirler.
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye'nin iki delege adayı belirleme hakkı vardır. Eğer WMCON 2018'e grubu temsilen katılmak istiyorsanız, delege adayı olabilmek için lütfen aşağıdaki listeye kendinizi, sizi tanıtan bir kaç cümle ile birlikte (kullanıcı adınız, ne seviyede İngilizce bilmektesiniz, WMTR içinde yer aldığınız veya yer almayı düşündüğünüz etkinlikler nelerdir) en geç 17 Aralık 2017 tarihinde ekleyiniz.
+Kullanıcı grubu üyeleri her bir adayın altına ""Destekliyorum"", ""Desteklemiyorum"" şeklinde görüşlerini bildirerek katılımcıları belirleyecektir. En son 24 Aralık 2017'de görüş bildirilebilir. Delege seçerken aşağıdaki tavsiyeler göz önüne alınmalıdır (Konferans organizatörlerinin hazırladığı yazısının çevirisidir.) 
+""Wikimedia Konferansı katılım demektir. Konferansın başarılı olması için davet edilen toplulukların delegelerini özenle belirlemesi çok önemlidir. Katılımcılar Berlin'e öğrenmek ve paylaşmanın yanı sıra geri dönerken bilgi ve kazanımlarını götürmek için gelmelidirler. Konferans öncesinde, konferans sırasında ve sonrasında topluluklarını temsil etmiş ve edebilecek olan delegeler arıyoruz. İdeal delegeler şu özelliktedir:
+Her topluluğun en az bir erkek-olmayan temsilci seçmesi tavsiye edilmektedir.
+Katılımcılar kendi topluluklarının etkisini arttırmak için çaba göstermeye olduğu gibi strateji tartışmalarına katılmaya da istekli; kurumlarla, fon sağlayıcılara ve benzer kafa yapısındaki kurumlarla işbirlikleri konusunda tutkulu olmalı. Lütfen çok da fazla düşünmeyin, bunları sadece seçim yaparken akılda tutulacak noktalar olarak kabul edin." "
+
+Wikimedia Hareketi Stratejik Yönünün Kabülü:
+Sevgili Kullanıcı Grubu Üyeleri, 
+Wikimedia Hareketinin 2030 yılındaki rolü ile ilgili strateji belirleme tartışmalarının ilk döngüsü bir süre önce tamamlandı. Bu sürece katkı sağlayan, görüş bildiren herkese teşekkürler. Stratejik planlara uzun vadede yön gösterecek olan stratejik yönümüz: "Hizmet ve Eşitlik". Metni aşağıda bulabilirsiniz (Orijinal İngilizce versiyon için ). 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye (WMTR) olarak bu stratejik yön metninin kabul edilmesini* onaylayıp onaylamadığınız konusunda görüşlerinizi 26 Aralık 2017'ye kadar paylaşmanızı rica ediyoruz. Destekliyorum. Karşıyım. Çekimserim. bölümlerinin altına imzanızı ekleyerek görüş bildiriniz (oturum açmanız gerekir). 
+
+WMCON/2018/Basak:
+Hazırlayan: 
+WMCON
+20-22 Nisan arasında gerçekleşen Wikimedia Konferansı (WMCON)'na ve öncesindeki iki günlük pre-konferans etkinliklerine WMTR delegesi olarak katıldım. Konferansta ""Hareket Stratejisi"", ""Kapasite Geliştirme"" ve ""Ortaklıklar"" başlıkları altında birbirine paralel oturumlar düzenlendi. Programı oluşturanların kendi ifadesi ile bu oturumlar birer yemek sofrası gibi düzenlenmişti: Hareket Stratejisi oturumları çorbadan-tatlıya kadar "hazır bir menü"; diğerleri "açık büfe" sofra gibiydi. Ben, istediğimiz oturumlara girip çıkabildiğimiz Kapasite Geliştirime ve Ortaklıklar başlıklı oturumlara girdim. Katıldığım bazı oturumlar ile ilgili notları aşağıda bulabilirsiniz. 
+Kapasite Geliştirme ve Ortaklıklar.
+Organizasyonlarda Çatışma ve Uzlaşma oturumu: Sorunun kökenine inmek için "5 neden yöntemi" uygulanması üzerinde duruldu. 5 neden yönteminden başka oturumlarda da hep bahsedildi. Bu, bir sorununun asıl nedenini öğrenmek için en az beş defa neden diye sormak demek ( örn: “ Neden geç kalktın? “ Fotokopicide sıra beklemek zorunda kaldım” / Neden? - “Ofisteki makine kullanım dışı” / Neden? “ Kartuş bitmiş” / Neden? Yedek kartuş vaktinde alınmamış. ..) Ardından gruplara ayrılıp bize verilen senaryoya göre görüş ayrılığı yaşayan bir kullanıcı grubu olarak bir konuda karar vermeye çalıştık (Elimizdeki bütçeyi nasıl harcamalıyız; etkinlik düzenleyeceğiz hangi şehirde olmalı gibi konular) ve kendi tartışmamızda yaşadıklarımızı değerlendirdik. 
+İletişim Planı oturumu. İletişim planının çerçevesini oluşturma üzerinde duruldu. Bir proje hazırlandığında (bir edit-a-thon, eğitim projesi, Glam projesi vb.) o projeyi Vakfa anlatırken hazırlanacak metinde çerçeve oluşturulmalı ve çerçevede kavramlar-değerler-neden mutlaka yer almalı. “Bunu yaparak şunu başaracağımıza inanıyoruz” şeklinde ifade edilmeli. Gerçekleştirilmesi gereken şeyler adım adım listelenmeli. 
+Lightining Talks. Farklı ülkelerden projelerin sunulduğu bölüm. Afrika’nın dört ülkesinde (Fildişi Sahili- Nijerya-Kamerun ve Gana) gerçekleştirilen "Viki Kadınları Seviyor" etkinliklerinin sunumu etkileyici idi. Fransızca Vikipedi’de 450bin erkek biyografi maddesine karşılık 75bin kadının biyografisi var ve Fransızca Vikipedi'de ""Sayfasızlar"" projesine bu dört ülkedeki vikipedistler Afrikalı kadınların biyografilerini oluşturarak önemli bir katkı sağlıyor. Vikipedi farkındalığı geliştirme konusunda farklı ülkelerde gerçekleştirilenleri gösteren videoların sunumu yapıldı. Bir örneği burada: . Polonya’da 17 deniz fenerini fotoğraflayıp maddesini oluşturma projesi gibi projeler tanıtıldı.
+Hareket Stratejisi.
+Hareket Stratejisinde strateji belirleme sürecinin ikinci aşamasında; yani birinci aşamada kararlaştırılanların nasıl uygulanacağını belirleme aşamasındayız. Artık "Strateji süreci" yerine "değişim süreci" ifadesi kullanılıyor. Değişim sürecinin "yapısal değişim" ayağındayız ve roller, kaynaklar, sorumluluklara ilişkin tartışmalar devam ediyor. Konferansta gerçekleşen Hareket Stratesji oturumlarını gün gün anlatan çok detaylı (100 sayfalık! ) bir rapor şu adreste (İngilizce): , Özeti burada (Türkçe) : 
+
+Wii:
+Wii,Nintendo'nun 2006 yılında piyasaya çıkardığı bir oyun konsoludur.Wii'nin en büyük özeliği de WiiMote adlı kumandasının kızılötesi ile konsolun sensörüne bağlanmasıdır
+
+WMCON/2018/Elmacenderesi:
+Hazırlayan: 
+WMCON
+İdeal!
+Bu sayfalara yazmak, değiştirmek, okumak ve bazen yüklenen bir fotoğrafı/resmi izlemek en büyük keyiflerimden birisi. Yazar olarak katıldığım bu kutsal sayfaların yaratıcılığı her Vikipedistte olduğu gibi bende de idealizme giden yolu aydınlatmakta. Bu hisleri taşıyan bünyem beni, 20-22 Nisan arasında Almanya'nın Berlin şehrinde gerçekleşen Wikimedia Konferansı'na, yani bu yapıyı oluşturan başkaca Vikipedistlerle tanışmaya/gözlem yapmaya davet etti. Ben de heyecan dolu bu yolculuğa katılmak ve deneyimlerimi paylaşmakla beraber, şahsen tanımadığım ama bir kısmı ile on yıldan fazla süredir gönüllü sürdürdüğüm bu projeye katkıda bulunan arkadaşlarımı görmeye gittim.
+Delege seçimleri sonucunda Başak Hanım ile birlikte hazırlıklara başladık ve Wikimedia Deutschland tarafından sağlanan belge ve bilgilendirmeler sonucunda katılım sürecini sorunsuz şekilde netleştirdik. Bu süreçte özellikle ansiklopedi yazarlığının kattığı disiplini hissediyorsunuz. Kitap ve klavye kurtları Berlin hazırlıklarını tamamladıktan sonra sıra yola koyulma aşamasına geldi!
+Eğitim.
+Öğrenme günleri, konferans öncesi düzenlenen ve katılımcıların Vikipedi macerasına dair disiplinleri öğrendikleri, paylaştıkları ve yorumladıkları bir yapıya sahip. Bu sayfada öğrenme günlerine dair ayrıntılı bir bilgilendirme bulacaksınız. Bu süreçte en çok GLAM projelerine dair bilgilendirmeler ilgimi çekti. Bildiğiniz gibi GLAM, Vikipedi bünyesindeki önemli projelerden bir tanesi. Bu raporu okuyan ve merak edenler olur ise bu sayfadan projeyi inceleyebilir ve katılım sağlayabilirler. Toplantıda yer alan GLAM projesi katılımcısı arkadaşlarım ile birlikte, gerçekleştirilen lokal çalışmalara dair fikir alışverişi gerçekleştirdik.
+Eğitim günlerinde, özellikle etkinlikleri yürütmek için gönüllü olan Vikipedistlerin, gerçekleştirecekleri etkinlik ve projelere dair tasarım, değerlendirme, kaynak edinme, öğrenme ve topluluk katılımı hakkında bir atölye şeklinde geçtğini söyleyebiliriz. Gerçekleştirilmiş etkinlikleri duydukça üzülmemek elde değil! Keşke bizim topluluğumuz da bu tip çalışmaları gerçekleştirse demeden duramıyorsunuz!
+Konferans.
+Eğitim sonrasında başlayan konferans, bir açılış konuşması ile tüm katılımcıları bir araya topladı. Büyük resim adı verilen bu başlangıç ile birlikte, katılımcıların en çok ilgilendikleri konulara yönelmesi sağlandı.
+Hareket Stratejisi, isminden de anlaşılacağı gibi bir ideal içermekte. Konferans süresince temel olarak verilmeye çalışılan ana unsur aslında Vikipedi projelerinin insana kattığı özgüven ile birlikte doğru bilgiyi, etkinliği, sosyalliği dikkatli şekilde planlayabilmek ve bu dinamikleri yönetebilmek. Katıldığım ve dinlediğim süreçlerin çoğunda; Vakıf'ın bu süreçteki rolü, hareket alanı ve karar verme noktasındaki becerisi üzerineydi. Çatının ne şekilde örüldüğünü bilirseniz yağmura o denli hazır olursunuz! Belirli roller edinen lokal Viki zümreleri için (örnek biz!) global ve lokal çalışmaları ne şekilde planlamalıyız, bu planlara dair ekonomiyi nasıl düzenlemeliyiz, yeni kişilere nasıl ulaşmalıyız ve projeyi nasıl anlatmalıyız şeklinde konuşmalar yapıldı. Bu çalışmaları deneyimlemiş katılımcılar gerçekleştirdikleri projelerden bahsederek artı ve eksileri zümre ile paylaştı. Biz de önümüzdeki yıl, Konuşan Vikipedi üzerine bir çalışma yaparak deneyimlerimizi anlatmayı hedefliyoruz!
+Kalemlerin masalarda gezindiği renkli görüntülerle birlikte çalışma grupları oluşturuldu ve idealdeki hareket için fikir önerileri istendi. "Önemli bir konuya odaklanmak hedef olmalı!" Hedef ile birlikte karar alma sürecinin geliştirilmesi, koordinasyonun uygun şekilde sağlanması ve gerektiği zaman insana özgü yapının değiştirilebilmesi, yenisinin sağlıklı şekilde kurulabilmesi tartışıldı. Kısaca bahsetmeye çalıştığım tüm yapıya bu sayfadan da ulaşabilirsiniz.
+Yukarıda da bahsettiğim gibi; önümüzdeki yıl mutlaka bir proje sunumu yaparak topluluğumuzu daha etkin temsil etmeyi düşünüyoruz.
+
+Wikimedia CEE Buluşması/2018/Delege belirleme:
+Wikimedia CEE Buluşması
+Bu sayfa, 13-15 Ekim 2018 tarihleri arasında Lviv'de gerçekleşecek Wikimedia CEE Toplantısı Konferansı (CEE 2018) için Wikimedia Topluluğu Kullanıcı Grubu Türkiye (WMTR)'nin delege adaylarını belirlemek üzere oluşturulmuştur.
+Her yıl bölgedeki değişik bir ülkede gerçekleştirilen CEE Toplantılarının bu yıl yedincisi düzenlenmektedir. Konferansa Wikimedia topluluklarını temsil etmek üzere belirlenmiş delegeler katılır. Konferans dili İngilizce'dir. 
+WMCON 2018'e katılım süreci hakkında bilgiye buradan erişilebilir:CEE 2018 Katılım bilgisi. Özetle, kendi kullanıcı topluluğu tarafından belirlenmiş delege adayları en geç 10 Ağustos'a kadar konferans kayıt formunu doldurarak başvuru yaparlar; 2018 organizasyon komitesi, kayıt formlarını değerlendirerek katılımcıları belirler.
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye'nin iki delege adayı belirleme hakkı vardır. Eğer CEE 2018 Toplantısı'e grubu temsilen katılmak istiyorsanız, delege adayı olabilmek için lütfen aşağıdaki listeye kendinizi, sizi tanıtan bir kaç cümle ile birlikte (kullanıcı adınız, ne seviyede İngilizce bilmektesiniz, WMTR içinde yer aldığınız veya yer almayı düşündüğünüz etkinlikler nelerdir) en geç 5 Ağustos 2018 tarihinde ekleyiniz.
+Kullanıcı grubu üyeleri her bir adayın altına ""Destekliyorum"", ""Desteklemiyorum"" şeklinde görüşlerini bildirerek katılımcıları belirleyecektir. En son 7 Ağustos 2018'de görüş bildirilebilir. 
+Kriterler.
+Delege seçerken aşağıdaki tavsiyeler göz önüne alınmalıdır (Konferans organizatörlerinin hazırladığı yazısının çevirisidir.) 
+"Konferansın başarısı için delegelerin özenli seçilmesi önemlidir. Katılımcılar Lviv'e öğrenmek ve paylaşmak için olduğu gibi bilgi getirmek ve öğrendiklerini götürmek için gelmeliler. Konferans öncesinde, sırasında ve sonrasında aktif katılım gösterecek delegeler arıyoruz. İdeal delegeler şu kişilerdir:
+Sonuç.
+Üç aday eşit sayıda destek oyu aldı. Aralarındaki anlaşmaya sonucu aşağıdaki iki isim delege olarak belirlnedi. Tebrikler!
+
+Vpn:
+vpn hakkında çalışmalar yapmak istiyorum denemeler yazmak istiyorum bakalım olacakmı vpn hakkında çalışmalar yapmak istiyorum denemeler yazmak istiyorum bakalım olacakmı vpn hakkında çalışmalar yapmak istiyorum denemeler yazmak istiyorum bakalım olacakmı vpn hakkında çalışmalar yapmak istiyorum denemeler yazmak istiyorum bakalım olacakmı
+
+CEE/2018/HakanIST:
+, WMCEE Meeting Lviv 2018.
+13-15 Ekim tarihleri arasında katılım sağladığım Ukrayna'ın Lviv kentinde gerçekleştirilen. hakkındaki deneyimlerimi paylaşmak istiyorum. Bu etkinliğin ana hedefi farklı kültürel ve etnik özelliklere sahip toplulukların birlikte çalışmasını desteklemek ve geliştirmek. 
+Etkinliğe Wikimedia Kullanıcı Grubu Türkiye temsilcisi olarak katıldım. 7.si düzenlenen bu organizasyona ilk defa katıldım. Etkinlikte kullanıcı grubumuzdan 2 delege vardı. Genel olarak gün boyu süren 3 ayrı paralel oturumlarda sunumlar yapıldı. Diğer delege arkadaşımız ile farklı oturumlara katılarak grubumuzun daha fazla oturuma katılmasını sağladık. 
+Etkinlik boyunca özellikle, Kazak, Macar, Litvanyalı, Avusturyalı, Bulgaristanlı, Polonyalı ve Ermenistanlı vikipedistlerle çeşitli işbirlikleri konuşma imkanımız oldu. Bu kapsamda yoğun olarak dil bilimi ve kaybolan dillerden bahsedildi. 
+İlk gün.
+Etkinlik Ukraynalı gönüllülerin hoşgeldin konuşmasıyla başladı. Daha sonra Kaarel Vaidla tarafından Strateji sunumu yapıldı. Önümüzdeki 15 yılın topluluk kaygılarının tartışıldığı bu sunum 20 dk sürdü ve tüm katılımcılar için ortak bir oturum oldu. Burada farklı topluluklardan gelen delegelerle gruplar oluşturarak katkılarımızı yaptık. Daha sonrasında Julia Kirchner tarafından sunumu yapıldı. Bu sunum 2 saat sürdü ve yine tüm katılımcılar için ortak bir oturum oldu. Bu sunum içerisinde tüm katılımcıları sahneye davet ederek sahnede etkinliğe gelirken katettikleri kilometre ve viki yaşları gibi çeşitli kriterlere göre sıraya girmeleri istendi. Sıradaki yerini bulabilmesi için kişilerin birbiriyle konuşup kıyaslama yapması gerekti. Daha sonrasında rastgele bir şekilde mikrofon uzatılarak kişilerden yorum alındı. Daha önce karşılaşmadığım çok başarılı bir sunum olduğunu düşünüyorum. 
+Daha sonrasında ben sırasıyla , ve oturumlarını takip ettim. Ortaklıklar oturumunda işbirliği yapılabilecek kurumların belirlenmesi yaklaşım ve vakfı temsil noktasında kendimizi nasıl tanımlayabileceğimiz, gerçekçi senaryolar ve olumsuz ihtimaller tartışıldı. 
+İkinci gün.
+İkinci gün o gün doğan vikipedistlerin doğum günlerinin kutlanmasıyla başladı. Doğum günü olan kullanıcılar sahneye davet edilip Lviv'i anlatan kitap hediyesi takdim edildi. Daha sonra oturumlara Kaarel Vaidla tarafundan yapılan sunumu ile devam edildi. Sonrasında sırasıyla , , , , başlıklı oturumlara katıldım. 
+Üçüncü gün.
+Üçüncü güne sunumuna katılarak başladım. Bu özellikle başka kullanıcı gruplarının olgunlaşma süreçlerinin paylaşıldığı bir oturumdu. Devamında, oturumuna katıldım. Burada Polonya topluluğunu yıllardır karşılaştığı sorunlara getirdiği çözümlerden bahsedildi. Daha sonra sırasıyla, ve sunumlarına katıldım. Kapanış konuşmasında bir sonraki etkinliğin Belgrad'da yapılacağı paylaşıldı. Etkinliğin son günü şehir turuyla sonuçlandı.
+
+Wikimedia Summit/2019/Delege belirleme:
+Bu sayfa, 28 Mart - 3 Nisan 2019'da gerçekleşecek Wikimedia Summit 2019 için Wikimedia Topluluğu Kullanıcı Grubu Türkiye (WMTR)'nin delege adayını belirlemek üzere oluşturulmuştur.
+Her yıl Wikimedia Deutschland (WMDE) tarafından Wikimedia Vakfı işbirliği ile Berlin'de düzenlenen Wikimedia Konferanslarının amacı, Wikimedia hareketinin geleceğinin işbirliği, yapısal ve kurumsal gelişimi bakımından tartışılmasıdır. Konferansa Wikimedia topluluklarını temsil etmek üzere belirlenmiş delegeler katılır. Konferans dili İngilizce'dir.
+Wikimedia Summit 2019'a katılım süreci hakkında bilgiye buradan erişilebilir:Wikimedia Summit 2019 Başvurusu. Özetle, kendi kullanıcı topluluğu tarafından belirlenmiş delege adayları en geç 17 Aralık'a kadar konferans kayıt formunu doldurarak başvuru yaparlar; Wikimedia Summit 2019 organizasyon komitesi, kayıt formlarını değerlendirerek katılımcıları belirler. Wikimedia Summit 2019, hareket stratejisi odaklı bir konferans olacağından dolayı, delege seçiminde bu alanda katkıda bulunabilecek adaylar tercih edilecektir. 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye'nin bir delege adayı belirleme hakkı vardır. Eğer Wikimedia Summit 2019'a grubu temsilen katılmak istiyorsanız, delege adayı olabilmek için lütfen aşağıdaki listeye kendinizi, sizi tanıtan bir kaç cümle ile birlikte (kullanıcı adınız, ne seviyede İngilizce bilmektesiniz, WMTR içinde yer aldığınız veya yer almayı düşündüğünüz etkinlikler nelerdir) en geç 03 Aralık 2018 tarihinde ekleyiniz. Kullanıcı grubu üyeleri her bir adayın altına "Destekliyorum", "Desteklemiyorum" şeklinde görüşlerini bildirerek katılımcıları belirleyecektir. En son 08 Aralık 2018'de görüş bildirilebilir. 
+
+WMTR Toplantıları/2019-01-20:
+'" Wikimedia Topluluğu Kullanıcı Grubu Türkiye 
+20 Ocak 2019 Toplantı Notları"'
+Hazırlayan: 
+WMTR Toplantıları
+Katılımcılar: , , , , 
+Kuzey Lefkoşa Karakod projesini görüşmek üzere 20.01.2019 günü Türkiye saati ile 20.30'da çevirimiçi bir toplantı gerçekleştirildi. 
+Seksen iki yüz kırk beş, Lefkoşe Belediyesi ile yaptığı görüşmeyi aktardı.
+""Belediye, sadece sokak levhaları değil, Lefkoşa'da sular içi bölgesindeki binalara qr kod yerleştirilmesi, kayda değer ise vikipedi sayfasına, değilse belediyenin sayfasına yönlendirilmesi konusuna sıcak baktı. Başkanın danışmanı ile görüşüldü; bu kişi düşünceyi başkana aktardı ve o da olumlu buldu. Şöyle bir iş planı uygun görüldü: Kodların yerleştirileceği yerlerin listesini çıkarma / listenin onaylanması /maddelerin hazırlanması / çeviri süreci- uluslararası yarışma düzenleme. Yarışmaa hediye olarak Kıbrıs'a özgü ürünlerin gönderilmesine sıcak baktı. İflas noktasında bir belediye ancak bu projenin maliyetinin çok yüksek olmayacağını düşünüyorlar.""
+130 maddelik bir liste Seksen iki yüz kırk beş tarafından oluşturulmuş durumda. Liste belediyeye gönderildi, inceleyip görüş bildirmeleri bekleniyor. Bir sonraki adımda arkeolog Tuncer Bağışkan ile iletişime geçip listeyi ona göstermek düşünülüyor. 
+Daha önce benzer proje yapmış kullanıcı grupları ile (örneğin Monmouth projesini yapmış olan kişiler ile) temasa geçip deneyimlerini ve tavsiyelerini öğrenmek önerildi. Binalara çivi çakılması konusunda sıkıntı olacağını sanmıyoruz. Vikipedi logosunun kullanılması konusu sıkıntı yaratır mı konusu vakfa sorulabilir. Sorun olacağını sanmıyoruz ama Sakhalino Vakıf ile bu konuda temasa geçecek, Salı veya Çarşamba görüşülecke.
+Monmouth ile iletişime geçme konusunda John Lubbock'dan destek alınabilir.
+Karekodların hazırlanması basit. Kodların ortasına vikipedi logosu yerleştirilerek hazırlanması düşünülüyor.
+Vikiveri ve Commons ayağı üzerinde de Belediye ile konuşulmalı. Görseller belediye tarafından sağlanabilir. Belediye sitesinde yer alan görsellerin bağışlanması konusunda önümüzdeki hafta görüşülebilir.
+Liste kesinleştikten sonra Türkçe /ingilizce sayfa oluşturma konusunda bir proje sayfası oluşturup çevrimiçi kaynaklar listelenecek. Çevrimiçi kaynak olmayan konularda Seksen iki yüz kırk beş elindeki kaynaklarla çalışma yapacak.
+İngilizce wikide maddelerin anasayfaya çıkması için Did you Know projesi ile işbirliği yapılacak.
+Maddeler Türkçe Vikipedi'de günün maddesi yapılacak öne çıkarılacak. 
+ingilizce ve Türkçe maddeler hazırlandıktan sonra uluslrarası yarışma gerçekleştirilecek. Lefkoşa'ya gelen turist sayılarına göre İbranice, Almanca, Rusça dillerine çevrilmesi öncelikli olabilir.
+Adımlar:
+
+WMTR Toplantıları/2019-03-24:
+'" Wikimedia Topluluğu Kullanıcı Grubu Trükiye 
+24 Mart 2019 Toplantı Notları"'
+Hazırlayan: 
+WMTR Toplantıları
+Katılımcılar: , , , Vito, Firat
+20.01.2019 günü Türkiye saati ile 21.30'da çevirimiçi bir toplantı gerçekleştirildi. 
+Daha önceden belirlediğimiz her ayın 2. Çarşambası toplantılarımıza 2 kişi bile olsak devam etme kararı aldık. Ona göre katılım sağlamaya çalışacağız.
+Envanter.gov.tr'den alınan liste bu mail ile grupla paylaşıldı. Fırat dosya üzerinde bir çalışma yaparak otomatik girilebilirliği ile alakalı bir araştırma yapacak. Sonrasında listenin Wikidata'ya girilerek bir liste oluşturulması sağlanacak ve Haziran ayına kadar tamamlanan liste üzerinden Fotoğraf kulüpleri ve benzeri organizasyonlarla iletişime geçilerek Eylül ayında Wiki Anıtları Seviyor'a ilk katılım sağlanması planlanmakta.
+Türkiye'deki kullanıcıların katılacağı bir etkinliği Ağustos-Eylül aylarında yapmak için girişimlere başlayacağız. İlk olarak bir etkinlik sayfası oluşturarak kimlerin gelme ihtimali olacağı ile ilgili bilgi alacağız. Sonrasında katılıma göre Grant başvurusunda bulunarak etkinliği gerçekleştireceğiz. Bu etkinliğe 
+Azerice Viki'den Elgün ve Farsça wikiden Muhsin özel olarak davet edilebilir. Sonrasında Türk dilleri ve daha sonrasında etkinlik yapabilme kapasitemize göre CEE toplantıları için aday olunabilir.
+Pera müzesi projesi zamanında İstanbul Modern ve Salt Galata ile de iletişime geçilmişti. Özellikle İstanbul Modern'in şu anda yenilenme sürecinde olduğundan iletişime geçilecek. Salt Galata ile de iletişim kurulacak.
+
+Raporlar:
+Topluluğun yıllık etkinlik raporlarını aşağıdaki tabloda bulabilirsiniz.
+
+Wikimedia Summit/2019/Elmacenderesi:
+Hazırlayan: 
+WMCON
+Frekans Ayarı.
+Evet! Başlığa da yazdığım gibi; Vikipedi benim frekans ayarım! Tam 12 yıl ve 2 ay önce, elimde liseden kalma bir tarih kitabı ile tüplü bir monitörün karşısında yarım yamalak bilgi girmeye çalıştığım bu sayfalara olan ilgim, teknik ve metodik boyutta bir hastalığa dönüştü. Bıkanlar, yılanlar, küsenler tanıdım bu sayfalarda, tükenenler, kavga edenler gözlemledim... Yıllarca acaba başka Viki'lerde de bu kopuşlar, yokoluşlar var mıdır diye merak etmedim değil! Onca aktif yıla rağmen geçen yıla kadar hiçbir Vikipedi etkinliğine katılmamıştım. Almanya, Berlin'de gerçekleşen Wikimedia Zirvesi'ne (Wikimedia Summit) katılabilmek için grubumun da desteğini alarak başvuru işlemlerini tamamladım. Olumlu yanıt ile birlikte hazırlıkları tamamlayarak, diplomasi tarihine özel bir ilgim olan Almanya'ya 28 Mart günü ulaştım. Hiç üşenmedim ve bu raporu yazarken saydım; kütüphanemde Alman tarihi hakkında tam 19 kitap mevcut, bunların dışında; 1946 Berlin baskısı Almanca, Shakespeare'in Julius Caesar, yine 1946 Berlin baskısı Almanca, Dickens'dan, A Christmas Carol in Prose kitapları mevcut. Bu küçük bilgilerle orada iken nasıl hislere sahip olduğumu anlayabilirsiniz!
+Halıya Basan Ayakkabılar.
+Kültürümüze uzak olsa da başlık tam oturdu! Zirvenin gerçekleştiği otelin toplantı salonu halı ile kaplı. 29 Mart günü, oldukça yardımsever Wikimedia Deutschland (WMDE) ekibinin yönlendirmesi ile kayıt olarak zirveye katılımı resmi olarak gerçekleştirdim. Bu sayfada detaylı çizelgesini inceleyebileceğiniz programın açılışını Wikimedia Deutschland adına Abraham Taherivand gerçekleştirdi. Ardından, Alman Federal Meclisi'nden Michelle Müntefering bir konuşma gerçekleştirdi. Wikimedia Vakfı'nın CEO'su Katherine Maher'in konuşması ile birlikte salon oldukça hareketlendi sonrasında ise; oldukça yağışlı günlerin ardından sanki zirve için kendini tutmuş bir gökyüzü altında grup fotoğrafı çekildi. Fotoğraf çekimi sonrası, Rusya'dan gelen bir katılımcı arkadaşım ile gerçekleştirdikleri çalışmalar üzerine bir süre sohbet etme şansı buldum. Ayrıca ülkelerimizdeki geleneklere dair de kısa bir kültürel konuşma gerçekleştirdik ve kendisine bir nazar boncuğu hediye ettim.
+Zirve çerçevesinde Çalışma Grubu adı verilen topluluğun birbirleri ile olan senkronizasyonlarının sağlandığı bir süreç gerçekleşti. Ben, Hareket Stratejisi ile ilgili toplantılara katılarak bu çerçevede gerçekleştirilen küçük çaplı platformlara katıldım. Bu büyük ve çeşitli yapının hareket alanı ve karar verme mekanizmalarındaki seçiciliğinin nasıl olması gerektiğine dair fikirlerimi beyan etme şansı buldum. Zaman zaman katıldığım platformlarda kendi grubumuz içerisinde gerçekleştirdiğimiz çalışmalardan da bahsetme şansı buldum. 
+Başka ülkelerden gelmiş ama sizinle aynı yazılım üzerindeki bir ideal uğruna emek gösteren kişilerle bilgi paylaşmak, yeni süreçlerin nasıl işleyeceğini öğrenmek oldukça heyecan verici bir deneyim! Toplantılar esnasında GLAM projeleri ile ilgili bilgi danışmayı ve aklımdaki fikirleri paylaşmayı da unutmadım. Kütüphanelerde yer alan nadir kitaplar için aklımda yer alan bir projeden bahsederek toplantıdaki bazı arkadaşlarımı oldukça heyecanlandırmış bile olabilirim! Bu fikir üzerine kendi grubumdaki (WMTR) arkadaşlarım ile bir toplantı yaparak en kısa zamanda harekete geçmeyi düşünüyorum.
+Türkiye'den götürdüğüm kutu kutu lokumun en tercih edilen tatlı olduğunu da gururla belirtmek istiyorum. Silip süpürdüler... 
+Umarım öğrendiğim, keyif aldığım ve bana kendimi hatırlatan bu etkinliğe bir kez daha katılabilirim.
+
+Wikimedia CEE Buluşması/2019/Delege belirleme:
+Wikimedia Konferansı
+Bu sayfa, 11-13 Ekim 2019 tarihleri arasında Belgrad'ta gerçekleşecek Wikimedia CEE Toplnatısı Konferansı (CEE 2019) için Wikimedia Topluluğu Kullanıcı Grubu Türkiye (WMTR)'nin delege adaylarını belirlemek üzere oluşturulmuştur.
+Her yıl bölgedeki değişik bir ülkede gerçekleştirilen CEE Toplantılarının bu yıl yedincisi düzenlenmektedir. Konferansa Wikimedia topluluklarını temsil etmek üzere belirlenmiş delegeler katılır. Konferans dili İngilizce'dir. 
+WMCON 2019'e katılım süreci hakkında bilgiye buradan erişilebilir:CEE 2019 Katılım bilgisi. Özetle, kendi kullanıcı topluluğu tarafından belirlenmiş delege adayları en geç 5 Ağustos"a kadar konferans kayıt formunu doldurarak başvuru yaparlar; 2019 organizasyon komitesi, kayıt formlarını değerlendirerek katılımcıları belirler.
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye'nin iki delege adayı belirleme hakkı vardır. Eğer CEE 2019 Toplantısı'e grubu temsilen katılmak istiyorsanız, delege adayı olabilmek için lütfen aşağıdaki listeye kendinizi, sizi tanıtan bir kaç cümle ile birlikte (kullanıcı adınız, ne seviyede İngilizce bilmektesiniz, WMTR içinde yer aldığınız veya yer almayı düşündüğünüz etkinlikler nelerdir) en geç 3 Ağustos 2019 tarihinde ekleyiniz.
+Kullanıcı grubu üyeleri her bir adayın altına ""Destekliyorum"", ""Desteklemiyorum"" şeklinde görüşlerini bildirerek katılımcıları belirleyecektir. En son 28 Temmuz 2019'da görüş bildirilebilir. 
+Kriterler.
+Delege seçerken aşağıdaki tavsiyeler göz önüne alınmalıdır (Konferans organizatörlerinin hazırladığı yazısının çevirisidir.) 
+"Konferansın başarısı için delegelerin özenli seçilmesi önemlidir. Katılımcılar Lviv'e öğrenmekve paylaşmak için olduğu gibi bilgi getirmek ve öğrendiklerini götürmek için gelmeliler. Konferans öncesinde, sırasında ve sonrasındaaktif katılım gösterecek delegeler arıyoruz. İdeal delegeler şu kişilerdir:
+Aday listesi.
+(Kullancı adınızı ve sizi tanıtan bir kaç cümle ekleyiniz).
+Sonuç.
+Oylama sonucunda Sakhalinio, CEE toplantısı için topluluk adına delege olarak seçilmiştir. -- 02.13, 31 Temmuz 2019 (EEST)
+
+Wikimania/2019/HakanIST:
+Hazırlayan: 
+Uluslararası toplantılar
+Stockholm'de düzenlenen Wikimania 2019 konferansına katılım sağladım. Bu ikinci tecrübemdi.İlk katıldığım Wikimania etkinliği 2017 yılında Montreal'deydi. Bu yılki konferansa Türkiye'den ile ben katıldık. 
+Konferansta "Alanlar" (Spaces) denen bir etkinlik formatı denendi ve bence başarılı oldu. Bu formata göre konular alanlarına göre gruplandı ve bu alanlara liderler belirlendi, liderler bu alanlardaki sunumların başarılı geçmesi için çalıştı. Ben de bu yılki etkinlikte alan liderlerindendim. olarak "güvenlik alanında" (Safety Space) gönüllü oldum. Bu konferansta ayrıca Wikimedia 2030 Strategy süreci kapsamında üyesi olduğum "Capacity Building" çalışma grubunu temsil de ettim.
+İlk gün:.
+Konferansın ilk günü Strategy Space'deydim. Burada çalışma grubu olarak uzun uğraşlar sonucu hazırladığımız 10 strateji tavsiyesinin sunumunu yaptık ve geri bildirimler topladık. Tavsiyelerimize ilgili meta sayfasından ulaşılabilir. Bizim sunumumuz bittikten sonra sıradaki strateji sunumu olan Diversity çalışma grubu sunumuna katıldım ve onları dinledim.
+İkinci gün:.
+Konferansın ikinci günü liderlerinden biri olduğum Safety Space'deki sunumlarla geçti. Gün boyu Vikipedi kullanıcılarını hem de içeriklerini ilgilendiren güvenlik konularını konuştuk. Bu "alanda" fotoğraf çekimi ve kayıt alınmasına izin verilmiyordu. (Chatham House Rule) Vakıf çalışanları ve kahyaların sunumları oldu. 
+Üçüncü gün:.
+Konferansın son gününde Wiki Loves Earth gibi yarışmalar hakkında daha fazla bilgi almak için ilgili sunumlara katıldım. 
+
+WMTR Toplantıları/2019-10-17:
+'" Wikimedia Topluluğu Kullanıcı Grubu Trükiye 
+17 Ekim 2019 Toplantı Notları"'
+Hazırlayan: 
+WMTR Toplantıları
+Katılımcılar: , Nevit, MPourzaki (WMF), , Eldarado
+CEE toplantısı dönüşü Azerbaycan kullanıcı grubu üyesi Eldarado ve vakıf çalışanı MPourzaki Türkiye'de iken görüşebilmek için bir buluşma gerçekleştirdik. Toplantıda aşağıdaki konular hakkında görüşüldü.
+Notlar.
+Toplantıyı Kadıköy'de bulunan Eminönü iskelesinin üstündeki İstanbul Kitap Kafe'de gerçekleştirdik. İlk etapta Vakıf yetkilisi MPourzaki yoktu. Bizde bu arada CEE toplantısı hakkında konuştuk. Daha sonrasında HakanIST bizlere Wikidata hakkındaki bilgilerini paylaştı. Nevit, Hakan ve Sakhalinio Kasım ayından itibaren Salıları VikiSalı buluşmaları yapmayı kararlaştırdık. VikiSalı toplantılarını Köy Çeşmesinde de duyurarak İstanbul'da yer alan kullanıcıların katılımını sağlayarak topluluğumuzun gelişmesi ve bilgileri paylaşması için bir ortam sağlamak amacında olan buluşmalarımızı başlangıçta yine aynı yerde 18:30 gibi gerçekleştireceğiz. Daha sonraki buluşmalar için farklı yerlerde gelişmelere göre karar verilebilecek.
+MPourzaki'nin katılımıyla Türkçe Vikipedi'de ki gelişmenin hızlanabilemesi için Vakfın her türlü yardımı yapabileceğini belirtti. Ayrıca yeni kurulmakta olan Türkik diller kullanıcı grubundan bahsedildi. Yeni grupla bölgemizde daha verimli bilgi alışverişi sağlanabileceği konuşuldu.
+
+CEE/2019/Basak:
+Hazırlayan: 
+Uluslararası toplantılar
+3 günlük toplantı boyunca sürekli 3 paralel oturum gerçekleşti. Sakhalinio ile farklı oturumlara katıldık. Toplantıdan önceki gün gerçekleşen Learning Days etkinliğine sadece Sakhalinio katıldı.
+Oturumlarda paylaşılanlardan öğrendiklerimizin yanı sıra bu etkinlik her zamanki gibi bölgedeki vikipedistler arkadaşlıkları pekiştirmek, ilişkileri tazelemeye vesile olmak açısından faydalı idi. Yeni yüzlerle tanışma imkanı da boldu; çünkü katılımcıların yarısı, ilk defa böyle bir Wikimedia etkinliğine katılan kimselerdi. Sadece oturumlarda değil, sohbetlerde yeni şeyler öğrenme fırsatı oluyor. Örneğin Estonya’da katılan bir katılımcıdan öğrendim ki Tartu Yaşam Bilimleri Üniversitesi'nde öğrenciler akademik yazı becerilerini geliştirmenin bir parçası olarak vikipedi maddesi yazmak zorunda. Mesleki İngilizce dersinin bir parçası olarak öğrencilerden bir mesleki terimi açıklayan bir Vikipedi maddesini Estonca wiki’de oluşturması isteniyor; çünkü İngilizce öğrenmenin önemli bir parçası da İngilizce terimleri kendi diline açıklama becerisini geliştirmek. 5-6 yıldır üniversitede bu uygulama var ve başlangıçta sıcak bakmayan hocaların tutumunda büyük bir değişiklik olmuş.
+Katıldığım oturumlardan aldığım notları aşağıda paylaşıyorum:
+Bir ülkeyi fotoğraflama- Kamusal eserleri listeleme- Yerel içerik.
+Wikimedia projelerinde içeriği genişletme ile ilgili oturumda izlediğim sunumlar beni etkiledi. Wikimedia Çek Cumhuriyeti Kullanıcı Grubunun, kendi ülkelerinin fotoğraflanması ve fotoğrafların Commons'ta paylaşılması için on yıldır sürdürdüğü faaliyetler üzerine sunumu bu sunumlardan birisi idi. 2009’da köyleri fotoğraflamak için başlattıkları bir hibe programının ardından on yıldır fotoğrafçıları çeşitli program ve hibelerle desteklemeleri sonucu ülkenin %80’ini fotoğraflayıp Commons’a aktarılmış. 9 yıl boyunca nerelerin fotoğraflandığını görselleştirmek için çeşitli görselleştirme araçları kullanılmış. Fotoğraflanan yerler arttıkça nerenin fotoğrafına ihtiyaç var belirleyip planlamak gittikçe zorlaşmış. 2018/2019’da iş sürecine Vikiveri’yi katarak yeni bir yol izlemişler. Fotoğraflamadan önce Vikiveri ögeleri oluşturulmaya ağırlık verilmiş: Anıtlar, caddeleri kamu binaları...vb. için vikiveri öğeleri GLAM işbirlikleri ile oluşturulduktan sonra işler otomatikleşmiş. Artık birilerinin planlama yapmasına, başkalarına neresinin fotoğrafını çekeceğini söylemesine gerek kalmıyor; bunu zaten Vikiveri üzerinden görmek mümkün oluyor. 2019’da son adım mobil uygulama kullanılması. Artık fotoğraf makinesine de ihtiyaç yok, herkes cep telefonu ile fotoğraf çekebildiğinden Commons’a yükleme işi sokaklarda halledilebiliyor (açıklama Vikiveri’den geliyor). Bu oturumun benim için etkileyici olan, Çekya’yı fotoğraflayıp Commons’a aktarma hedefi doğrultusunda kullanıcı grubunun 10 yıl boyunca sistemli çalışması oldu. Tek seferlik etkinliklerle değil; bir hedef odaklanıp; sürekli kafa yorup, gelişen teknolojiyi de kullanarak, iş yapış yollarını yönetmelerini yenileyerek anlamlı sonuçlar almanın mümkün olduğunu gösteren bir sunumdu.
+Benzer şekilde Finlandiya kullanıcı grubunun ülkedeki kamusal sanat eserleri ve anıtları listeleme çalışması ile ilgili bir sunum vardı. Proje, tanımı gereği sonu olan bir etkinlik. Ancak bu, bitmeyen proje. Çünkü sürekli yeni kamusal sanat eseri üretiliyor ve listeye eklenmesi gerekiyor. Bu listeleme çalışması 311 belediyede gerçekleşiyor. Heykeller, anı tabelaları bu listede yer alabiliyor. Fotoğraflama için foto-safariler düzenleniyor; izleme tablosu hazırlanıyor; 70 yıldan eski olanlar commons’a, diğerleri Fi.wiki’ye yükleniyor. Mahalle, koordinat, eser sahibi, tarihi, açılış tarihi, fotoğraf, vikvieri öğesi... listede yer alıyor. Vikipedi maddesini yazmak ise bu proje kapsamında değil. Listedeki her öğe, kaydadeğer olmayabilir. 2016’da başlayan bu çalışma ile 7823 öğe listelenmiş, 5408’i fotoğraflanmış. Pek çok alt liste üremiş. Hedef, 2020 sonunda kadar ülkedeki eserlerin/anıtların %95’ini listelemek (şu anda %70 seviyesinde). 
+Aynı oturumdaki üçüncü sunum ise yerel içerik üretmek için wiki keşif gezileri düzenleme üzerine idi. İnsanlar Commons’a genellikle çok bilinen yerlerin, ya da çeşitli fotoğraf yarışmalarında önerilen yerlerin fotoğrafını çekiyor. Peki ya unutulmuş tarihi mekanlar, uzak yerlerdeki küçük köy kiliseleri, küçük akarsular...onların fotoğrafı nasıl internete aktarılıp paylaşılacak derdindeki olanlar için viki keşif gezileri düzenlemeleri öneriliyor. Viki keşif gezisi; deneyimli vikipedistler ve fotoğrafçılar, şoförlerden oluşan bir grubun kendi ülkelerinde böyle mekanları keşfetmek ve sadece fotoğraflamak değil, Vikipedi’de yerel içerik üretmek için birlikte hareket ettiği bir etkinlik. Sadece Comons’a değil, Vikipedi ve Vikiveri içeriğinin gelişirilmesi söz konusu Makedonya’da 5 yıldır düzenleniyor. Bu geziler için gerek vakıftan gerek, yerel kuruluşlardan maddi destek alınyor Ön araştırma yapıp mekana gitmek, gidilen yerde yerel insanlardan bilgi ve doğrudan gözlem yoluyla bilgi toplamak önemli. 
+"İkincil kurbanlar".
+"Sharing & Learning oturumunda ""Cinsiyet Uçurumunun İkincil Kurbanları"" başlıklı kısa konuşma ilgimi çekti. Konuşmacının dikkat çektiği konu şu idi; Vikipedi’de cinsiyet uçurumu ile mücadele etmeye çalışırken örneğin “ünlü Sırp kadınlar hakkında madde oluşturalım” dediğinizde yine ayrımcılık yapmış oluyorsunuz, cinsiyet değil de milliyet üzerinden. Ya da bir spor karşılaşmasının birincileri hakkında madde oluşturduğunuzda "kazanan taraflılığı" yapmış oluyorsunuz (en azından gümüş ve bronz madalya kazananlar hakkında da yazılmalı). Maalesef sunum çok çok kısa idi ve üzerinde fazla konuşulmadı ama cinsiyet uçurumuna karşı kadın biyografisi maddeleri oluşturmak için çaba harcarken heryerde çoğu zaman kadın yerine milliyet vurgusu yapılması benim de hep dikkatimi çeken ve tartışılmaya değer bir konu.
+Vikipedistlerin Dijital Güvenliği.
+Vakıf'tan , dijtial güvenlik konusundaki çalışmalar hakkında kısa bir sunum yaptı. Ne gibi durumlarda vikipedistlerin güvenliği tehlikeye girebiliyor? Bazen bir vikipedist etkili bir kişi /kurum hakkında kaynaklara dayanarak olumsuz içerik ekliyor ama söz konusu olumsuz içerik her ne kadar başka yerlerde yayımlanıyor olsa da özellikle Vikipedi'de yayımlanması o kişi ve kurumları rahatsız ediyor ve vikipedi editörünü hedef alıyorlar. Bazı vikipedistler de promosyonel bir içeriği sildikleri veya bir vandalizmi geri aldıkları için hedef alınıyorlar. Bu tür durumlar vikipedistlerin hayatını çok olumsuz etkileyebiliyor. Ne yapmalı? Önerileri şunlar:
+- Takma ad kullan, - Hesabını iyi koru, - Sosyal medyada dikkatli ol (Wiki sosyal ağı ile iletişim için özel bir hesap oluşturma tavsiye edilir), - Wiki hesabında kayıtlı e-posta adresine dikkat et, gerekirse değiştir.
+Dijital güvenlik hakkında bilgilendirme için Vakıf, ofis saatleri düzenlemeyi planlıyor. Muhtemelen Ocak ayında başlayacak. Türkiye'deki kullanıcıların dijital güvenlik konusunda bilgilenme ihtiyacının büyük olduğu düşüncesiyle Türkiye’deki editörlere destek vermeyi özellikle istiyorlar; bu konuda bir gelişme olduğunda duyuracağım. 
+Slovenya'nın WLM deneyimi.
+Yarışma düzenlemenin ön-şartları: - motive olmuş 1 veya 2 kişi, -bir resmî anıt listesi
+Yapılan işler: 1 ) Slovenya’da Kültür Bakanlığı anıt listesi ile ilgili yeni bir sistem kurduğu için çok detaylı bir veri seti var. Kullanıcı grubu üyeleri, bir program arayüzü ile ulaşılabileceğini öğrenip, script yazdı; bilgiyi indirdip vikiveriye yükledi. Bu aşamada programlama becerileri gerekli. Verinin yüklenmesi, temizlenmesi ile uğraşılması gerek. Slovenya’da panorama özgürlüğü olmadığından bu açından sorunlu anıtların listeden çıkarılması gerekti. 34bin kadar öğeden bir çoğu anıt niteliğinde değildi, listeden çıkarılması gerekti. 20. yüzyılda ve daha yakın zamanda yapılmış her şeyi listeden çıkardılar. 2) Jüri oluşturma: Jüride 3 kişi vardı. Birisi vikipedist, ikisi fotoğrafçı idi. 3) Duyuru: PR bültenleri hazırlayıp yerel-ulusal medyaya gönderilmesi (çoğu dikkate almadı, ilgilenen bir gazeteci oldu ve sosyal medyalarında yayımlayarak çok yardımcı oldular). 4) Ödül: Bakanlık ödül olarak kitap bağışladı. Macaristan Wikimediyası ödüller ve sertifika hazırladı. 5) Ödül töreni :Intellectual Property Instıtıte işbirliği ile bir ödül töreni düzenlendi. 6) Sonuç: 486 fotoğraf yüklendi. Yarışmacıların yarısı yeni kaydolan kullanıcılardı. 7) Özet: WML düzenlemekten korkmayın. 
+Yunanistan'ın Cinsiyet Uçurumu ile mücadelesi.
+Yunan Kullanıcı grubunda Marios sunumunda, Yunan wikisinde cinsiyet uçurumu ile mücadele ile yapılanlardan örnekler verdi. 1970’lerde Yunanistan’da ortaya çıkan etkili feminist hareket hakkında Yunan vikipedisinde madde olmaması sorunu üzerinde çalıştıklarını paylaştı. O yıllarda Yunanistan’da kadınların üreme ve cinsellik hakları üzerine mücadele vermiş bir hareket vardı. Toplumu etkilemiş, geleneksel cinsiyet rollerinin çok tartışılmasına neden olmuş bir hareketti Yunanca Vikipedi’de bu konuda madde üretilmiyordu. Bu, Yunan vikipedisinde kadın yazarların olmayışı (Eylül 2016 itibariyle yunanca vikide hiç aktif kadın editör bulunmuyordu), bunun sonucu olarak Vikipedi maddelerinin seksist bir dille ve erkeklerin ilgisi doğrultusunda yazılması ile ilgiliydi. 2 yıl önce tüm ülkede kadınlara yönelik atölye çalışmalarına başlatıldı. 20 kadar atölye çalışması ile yuvarlak masa toplantıları yapıldı. Kadın kuruluşları ile Vikipedi hakkında ne düşündükleri konusunda konuşuldu, yardıma davet edildiler. Gendergap.Wikimedia.gr adresinde kadınların Vikipedi hakkında ve neden katkı verdikleri/vermedikleri hakkında tartıştıkları bir platform oluşturuldu. Özetle kadınlar dediler ki; ""Vikipedi o kadar erkek odaklı ki, ona hiç odaklanmadan kendi yolumuzda gidiyoruz"" Ancak katkı vermeyi bırakmış bazı kadın editörler, kullanıcı grubunun yukarıda bahsedilen çabaları sonucunda yeniden katkı vermeye başladı. Kadınlar hakkındaki maddelerin sayısında artış oldu; uçurum kapanmaya başladı. ""Katkı, edit sayısından ibaret değildir"" anlayışına odaklanıldı. Kadın kuruluşlarının arşivlerinden yararlanabilmek önemli. 3 yılda kadın biyografisi sayısın %15 kadar artış oldu. Editörlerin Vikipedi'de cinsiyetlerini işaretlemesi için bir kampanya yapıldı. %80 erkek olduğunu bildirdi. Edit-a-thonlarda/yarışmalarda yeni bir kural konuldu: ""Ödüller eşit sayıda kadın ve erkeğe verilmeli"". Ödül ile motive olan ve daha önce hiç ödül alma şansı yokken bu kural sayesinde ödül alıp katkılarını arttıran kadın kullanıcılar oldu.
+Yunanistan'ın Vikipedi Eğitim Programı Deneyimleri.
+2010’dan beri Yunanistan’da Vikipedi Eğitim Programı (VEP) düzenleniyor. Farklı seviyelerde 1207 öğrenci ile çalışıldı Ortaöğrenim, üniversite ve Second Chance School (zorunlu ortaöğrenimini tamamlamış yetişkinlere yönelik okullar) . Bu okullardaki çalışmaları kıyaslayınca şunlar görülüyor: - SCS’da olunca okul dışında aktivite yapabiliyoruz, veliden izin alma derdi yok. Diğer okullardan en az 3 kurumdan izin gerekiyor. - Üniversitelerde yapılan çalışmalar daha başarılı, daha kaliteli maddeler üretiliyor. -Üniversiteler başlangıçta isteksiz davranıyor; vikipedi’yi güvenilmez buluyor. Kendileri vikipedi maddeleri yazmaya başlayınca vikipedi’yi güvenilir bulmaya başlıyorlar. -Liselerde öğretmenlerin wiki öğretmeye vakti olmuyor. Okul dışı etkinliklerle öğretilebiliyor. Ancak yazma konusunda yeterlikleri olmuyor. - 2-3 kişilik takım halinde çalışılması daha iyi oluyor. Her bir öğrencinin kendi hesabı ile katkı vermesini sağlamak gerek, ortak bir hesapla değil. –Eğitimlerde 1-2 oturumu hesap oluşturmaya ve vikipedi ilkelerini anlatmaya ayırmak gerek. - Öğretmenlerin amacı ile vikipedistlerin amacı birbirine tutmayabilir, bunu unutmamalı. - Öğrencilerin sizin oluşturduğunuz listeden madde seçip oluşturmasını sağlamak daha sağlıklı. 
+Başkır Vikipedisi’nin Büyükanneleri.
+Başkır Vikipedisi’nden Güzel Hanım, geleneksel kıyafetini giyip gelerek hepimizin ilgisini topladı. Kendisi, VikiBüyükanneleri’nin fikir anası. Geçtiğimiz senelerde Başkır Vikipedi kullanıcı grubunun toplantı fotoğrafı yayımlandığında (ağırlıklı olarak olgun yaşta kadınlardan oluşan bir topluluk), dünyanın diğer yerlerindeki topluluklarndan çok farklı olması nedeniyle Wikimedya toplantılarında çok ilgi görmüştü. Onlara WikiBüyükanneler dendi. Güzel Hanım, İngilizce bilmiyor olsa da oğlu ile birlikte bu toplantıya katılıp onun yardımı ile sunum yapması da çok sevindirici idi. Sunumunda şunları anlattı: Başkır Vikipedisi’nde ilk madde 2012'de oluşturuldu. İnsanlar Başkır Vikipedisi'ne yazmaya davet edildi. Çok büyük ilgi olmadı ama zamanla tanımış bir Başkır kadın yazar olan Guzal Sitdykova'nın önerisi ile iyi eğitimli, boş zamanı bol, emekli kadınlara odaklanıldı ve WikiNineler hareketi başlatıldı. Yeni insanları dahil etmek için sosyal medya kullanıldı. BashWiki, ulusal gazetelerin, haber ajanslarının da ilgisini çekti. VK.com (Başkırların facebook’u gibi), Başkır Vikisi'ne yeni üyeler kazandırmaya katkı veriyor. 20 kadar anneanne var. Başkır vikipesidinde biyografilerin %20’si kadın (http://whgi.wmflabs.org/gender-by-country.html)
+Vakfın marka araştırması ve sonuçları.
+2030 Stratejisi çalışmaları devam ederken Wikimedia markasının nasıl algılandığı ve nasıl geliştirilebilecei üzerine vakfın yürüttüğü bir araştırma var. Bununla ilgili bir sunum yapıldı. Özetle araştırma sonucu bilineni ortaya koyuyor; internet kullanıcıları Vikipedi’yi tanıyor ama Wikimedia markasını tanımıyor; Vikipedi ile Wikimedia arasında ilişki anlaşılmıyor. Bu sonuç üzerine önerilen strateji, Wikimedia yerine Vikipedi'yi hareketin temel markası yapmak. Bu konuda Mayıs ayında kadar topluluktan görüşler alınmaya devam edecek. 
+
+CEE/2019/Sakhalinio:
+Hazırlayan: 
+Uluslararası toplantılar
+Toplantı 3 günlük bir organizasyondu. Perşembe günü Learning Day vardı. Ben Learning Day e de katıldım. Kendi bölgemizden katılımcılarla aynı toplantıda olmak gerçekten çok faydalı bilgiler edinmemizi, güzel dostluklar kurmamızı sağladı. Özellikle bu toplantıya geçtiğimiz birkaç yılda olduğu gibi bundan sonrada her yıl katılım çok önemli. Önümüzdeki yıl organizasyon Ohrid'te yapılacak. Daha sonraki yıllarda Türkiye'de de organizasyonlar düzenleyebilmek için ben önümüzdeki yılki organizasyonda uluslarası organizasyon komitesinde yer alarak bilgi ve tecrübe edinme arzusundayım. Bu nedenle Makedon organizasyon komitesine bu isteğimi bildirdim.
+Aşağıda organizayon boyunca katılım gerçekleştirdiğim toplantılarla ilgili bilgileri paylaşmak isterim.
+Learning days.
+Perşembe günü sabahtan vakıftan Asaf Bartov'un liderliğinde eğitime başladık. Sabah ilk iki oturumda Gönüllüleri Motive Etmek ve Arttırmak başlıklı konuyu ele aldık. Özellikle Türkçe Vikipedi'de yoğun olarak yaşadığımız katılım sorunu için güzel bilgiler edindim. Yanda sunumunu bulacağınız oturumdaki ilk soru şu oldu: "Siz Vikipedi'ye nereden ve nasıl katıldınız? Sizi motive eden ne idi." Herkes kendisinin nasıl Vİkipedi'ye katıldığını düşünür ve diğer kişileride bu şekilde motive ederse katılımın artacağı üzerinde konuşmalar gerçekleşti. Ayrıca mevcut kullanıcıları neyi demotive ettiği ile ilgilide görüşler belirtildi. Birçok dilde bizdeki ile aynı problemler mevcut. Yani sorunların sadece bize özgü olmadığı aşikar. 
+Öğleden sonraki bölümde Anlaşmazlık Yaklaşımı başlıklı oturum gerçekleşti. Oturum Filler ve onları yöneten insanlar (Mahouts) arasındaki ilişki üzerinden örneklemeler yapıldı. Özellikle fikir ayrılıkları, insanları duygusal olarak etkilemeye başladığı zaman anlaşmazlıklar baş göstermeye başlamakta.
+İlk gün.
+Kampın resmi ilk günü her uluslararası toplantıda olduğu gibi ortak bir organizasyonla başladı. Sırbistan Wikimedya'dan, Vakıf'tan ve Sırbistan Kültür ve Turizm Bakanlığından yetkililerin yaptığı konuşmalarla başladı. Sonrasında bir-iki küçük yeni gelenlerin kaynaşması için oynanan oyunların ardından oturumlar başladı. İlk olarak Practical Tools for Wikimedia Commons workshopu ile başladık. Çok faydalı bir sunumdu. Commonsla ilgilenenleri şuradaki sunuma göz gezdirmesini tavsiye ederim. Özellikle photoshop'un ücretsiz versiyonu olan Darktable ilginizi çekebilir.
+Öğleden sonra ilk olarak Time management, priorities or delegation sunumunda idim ama çok verimli bir sunum olmadı. Devamında Asaf'ın Beyond  basics: Intermediate Wikidata tools sunumu beyin yakan cinstendi. Hala Wikidata ile tanışmadıysanız mutlaka tanışın. Gelecek Wikidata'da. İlgili sunumu şurada bulabilirsiniz.
+Yani kısa günün karı olarak 2 süper verimli sunumla tamamladık.
+İkinci gün.
+Yardımlaşma ve Ortaklıklar başlığı altında başlayan Atrium salonu ile başladım. Wiki Loves ZEOs - story of  first photo competition, WikiEdit: Slovak Folk Culture ve Wiki + Media sunumlarında diğer bölgelerde nasıl çalışmalar yapıldığı hakkında bilgi edindik. İkinci seansta Forumda Quo vadis, Wikisource? - project transformation and outlook sunumunda Polonyaca topluluğunun Wikikaynak projesinde telifi kalkmış bir eserin nasıl Viki Kaynak'a aktarıldığı ve kitaplaştırıldığı hakkında sunum gerçekleştirdi. Recruitment, retention & managing volunteers sunumunun ardından vakıfın yeni başlattığı bir oluşum olan Wikimedia Space sunumu gerçekleşti. Sizlerinde mutlaka şuradaki sunumu inceleyerek Wikimedia Space]'i ziyaret etmenizi tavsiye ederim. Bizde artık WikiSalı toplantılarımızı buradan yayınlıyoruz. Öğlen yemeğinin ardından yukarıda gördüğünüz grup fotomuz çekildi.
+Yemek sonrası yine Forum salonu ile devam ederek Chapter strategy process:  case of WMPL sunumunu dinledik. Daha sonra bizimde dahil olduğumuz Community Capacity Development toplantısında Asaf, Valerie ve Dariusz bizi bilgilendirdi. Günün son oturumu toplu olarak Atrium'da Future of Wikimedia Central and Eastern Europe toplantısı idi.
+Toplantının ardından otobüslere binerek şehir merkezinde küçük bir tur yaptık ve geleneksel akşam yemeğinin yeneceği Velika Skadarlija restaurantına geçtik ve güzel bir akşam yemeği ile geceyi tamamladık.
+Üçüncü gün.
+Üçüncü ve son günün sabah seansına Forum salonunda başladım. Gürcüce, Ermenice ve Sırpça Wikipedialardan çeşitli eğitim programlarına ait sunumlarla başladık güne. Diğer bölgelerde ne gibi işler yapıldığını görmek iyi oldu. Encouraging  spirit of new editors - A structured approach to mapping onboarding efforts workshop'un da lokalde yaptığımız projelerimizden bahsettik ve bilgi alışverişinde bulunduk. Bende bizim yaptığımız nüfus bilgilerini wikidataya girme işleminden bahsettim.
+Öğleden sonra yine yeni merakım wikidata konusu olan Your first Wikidata Lua infobox sunumunda faydalı bilgiler öğrendim. 4 ten sonra kapanış toplantısı olan Future of  Wikimedia CEE Meeting'te daha önceden de bahsettiğim Ohrid'in bir sonraki yıl düzenleyici şehir olması kararlaştırıldı. Güzel dostluklar, faydalı bilgiler ve değişik tecrübelerle ikinci uluslararası toplantımı tamamlamış oldum.
+Bundan sonraki toplantılarda da diğer arkadaşlarımızında gönüllü olarak buralara katılmasını diliyorum.
+Toplantı kayıtları.
+Toplantıların video ve etherpad kayıtlarına aşağıdaki linklerden erişebilirsiniz.
+Videolar.
+1. gün (11 Ekim 2019, Cuma):
+Atrium
+Forum
+2. gün (12 Ekim 2019, Cumartesi):
+Atrium
+Forum
+3. gün (13 Ekim 2019, Pazar):
+Atrium
+Forum
+
+Wikimedia Summit/2020/Delege belirleme:
+Bu sayfa, 03 - 05 Nisan 2020'de gerçekleşecek Wikimedia Summit 2020 için Wikimedia Topluluğu Kullanıcı Grubu Türkiye (WMTR)'nin delege adayını belirlemek üzere oluşturulmuştur.
+Her yıl Wikimedia Deutschland (WMDE) tarafından Wikimedia Vakfı işbirliği ile Berlin'de düzenlenen Wikimedia Konferanslarının amacı, Wikimedia hareketinin geleceğinin işbirliği, yapısal ve kurumsal gelişimi bakımından tartışılmasıdır. Konferansa Wikimedia topluluklarını temsil etmek üzere belirlenmiş delegeler katılır. Konferans dili İngilizce'dir.
+Wikimedia Summit 2020'ye katılım süreci hakkında bilgiye buradan erişilebilir:Wikimedia Summit 2020 Başvurusu. Özetle, kendi kullanıcı topluluğu tarafından belirlenmiş delege adayları en geç 15 Aralık'a kadar konferans kayıt formunu doldurarak başvuru yaparlar; Wikimedia Summit 2020 organizasyon komitesi, kayıt formlarını değerlendirerek katılımcıları belirler. Wikimedia Summit 2020, hareket stratejisi odaklı bir konferans olacağından dolayı, delege seçiminde bu alanda katkıda bulunabilecek adaylar tercih edilecektir. 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye'nin bir delege adayı belirleme hakkı vardır. Eğer Wikimedia Summit 2020'ye grubu temsilen katılmak istiyorsanız, delege adayı olabilmek için lütfen aşağıdaki listeye kendinizi, sizi tanıtan bir kaç cümle ile birlikte (kullanıcı adınız, ne seviyede İngilizce bilmektesiniz, WMTR içinde yer aldığınız veya yer almayı düşündüğünüz etkinlikler nelerdir) en geç 08 Kasım 2019 tarihinde ekleyiniz. Kullanıcı grubu üyeleri her bir adayın altına "Destekliyorum", "Desteklemiyorum" şeklinde görüşlerini bildirerek katılımcıları belirleyecektir. En son 15 Kasım 2019'da görüş bildirilebilir. 
+
+VikiSalı Buluşmaları/2019-11-05:
+'" VikiSalı 1 
+5 Kasım 2019 "'
+VikiSalı Buluşmaları
+5 Kasım 2019 18:30, Kadıköy/İstanbul 
+
+VikiSalı Buluşmaları:
+Gelin, tanışalım! Salı akşamları toplanıyoruz. Vikipedi'de aktif editör olun ya da hiçbir vikipedi maddesi oluşturmamış olan farketmez, eğer Vikipedi, Vikiveri, Commons veya diğer projelere ilgi duyuyor, deneyimli kimselerle tanışmak istiyorsanız bu toplantılara davetlisiniz. 
+Olası etkinliklerde ortağımız olabilecek kimseler (örneğin derslerinde dersin konusu ile ilgili Vikipedi maddesi yazma, Vikiveri öğesi oluşturma, Commons'a resim yükleme ödevi verecek akademisyenler, öğretmenler), müzeciler, kütüphaneciler, öğrenci kulübünde etkinlik olarak Vikimaraton, VikiKeşif gibi bir etkinlik düzenlemek ve bunun için destek almak isteyen öğrenciler, açık bilgi ile ilgili oluşumlarda, derneklerde aktif olan kimseler, deneyimli vikipedistlere soracak sorusu olanlar, buyrun tanışalım! 
+İstanbul'da yüzyüze buluşma şeklinde gerçekleşen buluşmalarımıza korono-virüs salgını önlemleri kapsamında ara verilmiş olsa da uzaktan erişim ile video-konferans yoluyla Türkiye'nin her yerinden ve yurtdışından katılımcılarla buluşmaya devam ediyoruz!
+İlk WMTR Toplantıları
+
+VikiSalı Buluşmaları/2019-11-12:
+'" VikiSalı 2
+12 Kasım 2019 "'
+VikiSalı Buluşmaları
+Tarih / yer.
+12 Kasım 2019 18:30, Kadıköy / İstanbul 
+
+VikiSalı Buluşmaları/2019-11-19:
+'" VikiSalı 3 
+19 Kasım 2019 "'
+VikiSalı Buluşmaları
+Tarih / yer.
+19 Kasım 2019 18:30, Kadıköy / İstanbul 
+Katılımcılar.
+-- () 23.48, 19 Kasım 2019 (+03)
+
+VikiSalı Buluşmaları/2019-11-26:
+'" VikiSalı 4
+19 Kasım 2019 "'
+VikiSalı Buluşmaları
+Tarih / yer.
+26 Kasım 2019 18:30, Üsküdar Üniversitesi Merkez Kampüsü / Üsküdar - İstanbul 
+
+VikiSalı Buluşmaları/2019-12-10:
+'" VikiSalı 6
+10 Aralık 2019 "'
+VikiSalı Buluşmaları
+Tarih / yer.
+10 Aralık 2019 18:30 / Kadıköy - İstanbul 
+
+VikiSalı Buluşmaları/2019-12-03:
+'" VikiSalı 5
+3 Aralık 2019 "'
+VikiSalı Buluşmaları
+Tarih / yer.
+03Aralık 2019 18:30 / Kadıköy - İstanbul 
+
+VikiSalı Buluşmaları/2019-12-18:
+'" VikiSalı 7
+24 Aralık 2019 "'
+VikiSalı Buluşmaları
+Tarih / yer.
+24 Aralık 2019 18:30 / Üsküdar - İstanbul 
+
+Vikipedistler TOBB Üniversitesi'nde:
+Vikipedistler TOBB Üniversitesi'nde
+Haberler
+Kırmızı Amfide Öğrencilerle buluştuk. 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, 29 Ocak 2020 günü TOBB Ekonomi ve Teknoloji Üniversitesi'ne konuk oldu. Buluşmada öğrencilere Vikipedi'nin işleyişi ve Vikiveri konusunda bilgi verildi. Öğrenciler, Vikipedi'ye kimler hangi motivasyonla katkı verir, ne yollarla katkı verilir, içeriğin güvenirliği nasıl sağlanır; hangi konularda madde oluşturulur, kaydadeğerlik, tarafsızlık konularında sorularına yanıt alma fırsatı buldu. 
+
+Başkent Üniversitesi'nde X. Kış Okulu'ndayız:
+Başkent Üniversitesi'nde X. Kış Okulu'ndayız
+Haberler
+Açık Bilimi ve Açık Bilgiyi Tartıştık 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, 30 Ocak 2020 günü Başkent Üniversitesi Psikoloji Bölümü'nün düzenlediği on yıldır kesintisiz düzenlediği Kış Okulu'nun onuncusuna konuk oldu. Psikoloji alanında lisansüstü eğitim gören öğrencilerin psikoloji çalışmalarına ve psikolojinin temel sorularına farklı bir perspektiften bakmalarına yardımcı olmak amacıyla düzenlenen Kış Okulu'nda bu sene tartışılan temel konu; ""Kuram, Yöntem ve (Açık) Bilim"" idi. 
+Kış Okulu'nda katılımcılara Vikipedi'nin işleyişi ve Vikiveri konusunda bilgi vermekten ve Vikipedi'nin bilimle insanları buluşturan köprü olma görevini, cinsiyet uçurumu sorununu ve yapabileceklerimizi tartışmaktan mutlu olduk. 
+
+Hibe Başvurusu:
+Hibe başvurusu yapıldı
+Haberler
+WMTR, Wikimedia Vakfı'na hibe başvurusu yapıyor 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, 2020 yılı için bir proje hazırlayarak Wikimedia Vafı'na hibe başvurusunda bulundu. 
+Projenin detaylarını şurada bulabilirsiniz:
+Başvurunun onaylanması için topluluğun desteği gerekli. Projenin uygulanmasını istyorsanız, lütfen sayfadaki Onay düğmesine tıklayarak projeyi destekleyin. Proje başvurusunun onaylanması için desteklerinizi bekliyoruz. 
+
+Açık Gazete programına konuk olduk:
+Açık Gazetede Vikipedi
+Haberler
+Açık Radyo'ya konuk olarak Vikipedi'yi anlattık 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, 5 Şubat 2020 günü Açık Radyo'da yayımlanan Açık Gazete programına konuk olarak Vikipedi'yi anlattı. Özgür Ansiklopedi Vikipedi'nin yeniden erişime açılmasından sonra kullanıcı sayılarındaki ve katkılardaki artış üzerine soruları yanıtladık ve Vikipedi'nin işleyişini, Türkçe dil sürümünün gelişmesi için yapılabilecekleri konuştuk.
+5 Şubat yayınına aşağıdaki linkten ulaşabilir ve 86.dakikadan itibaren Vikipedi'nin erişime açılması ile ilgili kısa sohbeti dinleyebilirsiniz. 
+Açık Radyo, 5 Şubat 2020
+
+Özgür Yazılım Vikimaratonu'nda buluştuk:
+Özgür Yazılım Vikimaratonu'nda buluştuk
+Haberler
+İstanbul'da Özgür Yazılım maddeleri oluşturmak için toplandık. 
+Özgür Yazılım Derneği ile birlikte 16 Şubat 2020 günü İstanbul'da düzenlenen vikimaratondaydık. Etkinlikte 5 editör, 48 madde düzenledi; düzenlenen maddelere 57 kaynak eklendi. 
+Özgür Yazılım Vikimaraton'da oluşturulan maddeler ve gelişimlerini şu sayfadan takip edebilirsiniz: 
+"Özgür Yazılım Vikimaraton etkinlik takip ekranı"
+
+Sosyal Kafa medyascope yayınında Vikipedi'yi anlattık:
+Sosyal Kafa yayınına konuk olduk
+Haberler
+Programda Vikipedi'nin işleyişi, katkı veren kullanıcıların özelikleri hakkında konuştuk. 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, Vikipedi hakkında söyleşi için Erkan Saka'nın hazırladığı Sosyal Kafa programına konuk oldu. "Dijital yerliler için hazırlanan bir dijital yerli insiyatifi" olarak kendini tanımlayan programda Vikipedi'nin işleyişi hakkında soruları yanıtlama fırsatı bulduk ve Türkçe Vikipedi içeriğinin gelişmesi için yapılacaklar hakkında konuştuk. 
+Yayına şu sayfada ulaşabilirsiniz: Sosyal Kafa (13)
+
+Dijital Kültürler dersinde Vikipedi Tartışıldı:
+Vikipedi ile Tanışma
+Haberler
+Bilgi Üniversitesi'nde Dijital Kültürler dersine konuk olduk. 
+Wikimedia Topluluğu Kullanıcı Grubu Türkiye, 28 Şubat 2020 günü Bilgi Üniversitesi İletişim Fakültesi'nde Pub204 kodlu Dijital Kültürler dersinin konuğu idi. Vikipedi'nin işleyişini, 5 temel ilkeyi, nasıl vikipedist olabileceklerini öğrencilere aktaran sunuma ilgi büyüktü. 
+Derste cinsiyet eşitliği, Vikipedi'nin dilleri yaşatmadaki işlevi konularında tartıştık. Bir kısmı bu dersin kapsamında ödev olarak Vikipedi maddesi hazırlayacak öğrenciler, fotoğraf yükleme, hangi kaynakların Vikipedi'de kaynak olarak kullanılabileceği, kaydadeğerlik kriterleri konularında sorularına yanıt buldular. 
+
+Art+Feminism Vikimaratonu İstanbul'da:
+Art+Feminism Vikimaratonu 3.kez İstanbul'da gerçekleşti
+Haberler
+Kadın sanatçıları ve eserlerini görünür kılmak için vikipedistler bir araya geldi. 
+Vikipedi başta olmak üzere açık bilgi kaynaklarında daha fazla kadının tarihini yazmak ve gönüllü kadın editörleri güçlendirmek amacını taşıyan Art&Feminism adlı oluşum ile Wikimedia Topluluğu Kullanıcı Grubu Türkiye işbirliğinde düzenlenen vikimaraton, 7 Mart 2020 günü Kadın Eserleri Kütüphanesi ve Bilgi Merkezi Vakfı'nda gerçekleşti. 
+Art+Feminism Vikimaratonları dünyada 2014 yılından beri yapılmakta. Bugüne kadar beş kıtada 1100'den fazla Art+Feminism Vikimaratonu gerçekleşti; bu etkinliklere 14binin üzerinde kişi katılarak farklı dillerde 58binden fazla Vikipedi maddesini düzenledi veya geliştirdi. İstanbul'da 2016 ve 2017 yıllarında gerçekleşen Vikimaraton etkinliklerinin bu sene üçüncüsü düzenlendi. 
+İstanbul Art+Feminism Vikimaratonunda katılımcılar, her alanda emeği görmezden gelinen kadınlar üzerine yeni maddeler üretmenin yanı sıra maddelerin kadın dili ve bakış açısıyla düzenlenmesi; içindeki cinsiyetçi ifadelerin tartışılıp ayıklanmasının önemi üzerinde durdular. Kütüphanenin arşivinden de yararlanarak maddeleri uygun görsellerle zenginleştirme fırsatı buldular. Vikimaratonda gerçekleşen çalışmaları buradan görüntüleyebilirsiniz: İstanbul Art+Feminisim 2020
+
+Toplumsal Cinsiyet dersinde Vikipedi!:
+Başkent Üniversitesi Psikoloji Bölümü, Kırmızılı Kadınlar Projesine destek veriyor.
+Haberler
+Toplumsal Cinsiyet dersinde öğrenciler, Vikipedi maddeleri oluşturmayı öğrendiler ve Vikipedi'de bilim kadınları için biyografi maddeleri oluşturmak üzere çalışmaya başladılar. 
+Başkent Üniversitesi Psikoloji Bölümü yüksek lisans öğrencileri bu öğrenim döneminde, PSK 539 kodlu "Toplumsal Cinsiyet" dersi kapsamında kendi alanlarındaki Türk bilim kadınları hakkında Türkçe Vikipedi maddeleri oluşturarak Kırmızı Kadınlar Projesi'ne destek veriyor. "Kırmızılı Kadınlar", Vikipedi'de hakkında bir madde oluşturulmamış olan kayda değer kadınlar ile ilgili maddeler oluşturmayı hedefleyen bir proje. Amaç, Vikipedi'de cinsiyet dengesizliğini gidermek. 
+Projeye katılan öğrencilere destek olmak üzere Wikimedia Topululuğu Kullanıcı Grubu Türkiye üyesi bir vikipedist derse konuk oldu. Vikipedi'deki Cinsiyet Eşitsizliği sorununu kısaca görüştükten sonra var olan maddeler üzerinde değişiklik yapma, başka dildeki bir Vikipedi'den içerik çevirmeni yoluyla çeviri yapma, yeni bir madde oluşturma konuları ekran paylaşımı ile katılımcılara aktarıldı. 
+Gösterge Paneli
+
+VikiSalı Buluşmaları/2020-03-31:
+'" VikiSalı 
+31 Mart 2020 "'
+VikiSalı Buluşmaları
+İstanbul'da yüzyüze buluşma şeklinde gerçekleşen buluşmalarımıza korono-virüs salgını önlemleri kapsamında ara verilmiş olsa da video-konferans yoluyla Türkiye'nin her yerinden ve yurtdışından katılımcılarla buluşmaya devam ediyoruz! Son buluşmanın notları aşağıdadır:
+Tarih / yer.
+31 Mart 2020 19:00 / Çevrimiçi 
+Gündem.
+1. Wiki Loves Earth:Bu yıl Wiki Loves Earth yarışması için hazırlıklar sürüyor. Şu liste kontrol edilecek ve eksikler Vikiveri ile Commons'a eklenecek: Türkiye'deki korumalı bölgeler Şablonu
+2. Uzaktan Eğitimler ve Sakarya Üniversitesi: Üniversitelerin bir çoğunda dersler eşzamanlı uzaktan eğitim yoluyla yapılmaya başladı; bizler de öğrencilerine #Vikipedi'ye katkı verme ödevi verilen derslere uzaktan eğitim yoluyla katılıyoruz. Başkent Üniversitesi ve Uludağ Üniversitesi'nde küçük yüksek lisans derslerine katıldık ama daha kalabalık lisans sınıfları için de destek verebiliriz. Daha önce bizzat giderek Vikipedi eğitimi verdiğimiz Sakarya Üniversitesi Coğrafya Bölümü'nde bu sene ödev olarak 200 kadar madde oluşturulması planlanıyor, bu konuda zafer ve Başak, dersi veren öğretim üyesi ile görüşerek hazırlıkları yapacak.
+3.Goethe Enstitüsü ve Ekoloji Derneği Vikimaratonu:İstanbul Geothe Enstitüsü ile birlikte farklı konularda çevrimiçi vikimaratonlar yapılacak. Kütüphane ve Bilgi Hizmetleri Yöneticisi Sanem Hanım çevrimiçi toplantımıza katılarak bu konuda gerekli izinleri ve bütçeyi aldığını açıkladı. İlk vikimaratonun Ekoloji Derneği ile olması planlanıyor.
+4. İKSV ve Dünya Caz Günü: 30 Nisan'da Dünya Caz Gününü bir çevrimiçi vikimaraton ile kutlayacağız! İKSV ile İstanbul’da yapmayı görüştüğümüz Vikimaraton Etkinliği, çevrimiçi ortama taşınıyor. Bir canlı instagram yayını gerçekleştirmek sonra katılmak isteyenleri bir zoom kanalına davet etmek şeklinde ilerlenecek; etkinlik saatleri boyunca deneyimli vikipedistler katılımcıların sorularını yanıtlayıp yardımcı olacaklar ve önceden belirlenmiş bir listedeki caz müzisyenleri hakkında maddeler oluşturulacak. 
+5.Vikipedi Grafik Laboratuvarının Yenilenmesi: Oluşturduğu maddeye uygun fotoğrafların çekilmesi için destek isteyen vikipedistlerin taleplerini paylaşabilmesi için mevcut Vikipedi Grafik Laboratuvarı sayfasının yenilenmesi, aktif hale getirilmesi önerildi.
+6. Vikibahar Başladı: Vikibahar Yarışması başladı; organizasyon işini Nanauhatl üstlendi. Önümüzdeki yıllarda bu yarışmanın organizasyonunun en azından iki gönüllü tarafından yürütülmesi; özellikle Türkiye için madde listesi oluşturma işine daha çok vikipedistin katılıp öneride bulunmasını sağlayacak şekilde düzenleme yapılması görüşüldü.
+
+VikiSalı Buluşmaları/2020-04-14:
+'" VikiSalı 
+14 Nisan 2020 "'
+VikiSalı Buluşmaları
+İstanbul'da yüzyüze buluşma şeklinde gerçekleşen buluşmalarımıza korono-virüs salgını önlemleri kapsamında ara verilmiş olsa da video-konferans yoluyla Türkiye'nin her yerinden ve yurtdışından katılımcılarla buluşmaya devam ediyoruz! Son buluşmanın notları aşağıdadır:
+Tarih / yer.
+14 Nisan 2020 19:00 / Çevrimiçi 
+Katılımcı sayısı:11
+Gündem.
+1. Wiki Loves Earth:Hazırlıklar sürüyor. Hazırlıklar kapsamında oluşturulan listeye şuradan ulaşılabilir: WLE Liste
+2.Üniversitelerde devam eden ödev çalışmaları: Üniversite öğrencilerinin ödev kapsamında Vikipedi maddesi oluşturma çalışmaları devam ediyor. Çankırı Üniversitesi Uluslararası İlişkiler bölümünde de iki derste Vikipedi ödevi hazırlaması ile ilgili görüşme yapıldı.
+3. Dünya Caz Günü Vikimaratonu: Vikimaratonun konusu belli oldu: Türk Caz müzisyenleri. Görsel hazırlıkları sürüyor. Vikimaraton sırasında katılımcılarla Zoom yoluyla bağlantı kurulacak.
+4. Vikibahar ve Dünya Çingeneler Günü Vikimaratonları:: Devam eden uluslrarası vikimaratonlara katılım için hatırlatma yapıldı. Dünya Çingeneler Günü Vikimaratonu , Vikibahar
+5 Eğitim dokümanları: Yeni başlayanlar için Vikipedi maddeleri geliştirme/oluşturma konusunda eğitim dokümanı ihtiyacı artıyor. Talep, daha çok video içeriği oluşturulması yönünde.Bu konuda bir aksiyon alınması gerekiyor.
+
+VikiSalı Buluşmaları/2020-04-28:
+'" VikiSalı 
+28 Nisan 2020 "'
+VikiSalı Buluşmaları
+İstanbul'da yüzyüze buluşma şeklinde gerçekleşen buluşmalarımıza korono-virüs salgını önlemleri kapsamında ara verilmiş olsa da video-konferans yoluyla Türkiye'nin her yerinden ve yurtdışından katılımcılarla buluşmaya devam ediyoruz! Son buluşmanın notları aşağıdadır:
+Tarih / yer.
+28 Nisan 2020 18:00 / Çevrimiçi 
+Katılımcı sayısı:9
+Gündem.
+1. Mini-Bilgilendirme: Vikipedi'de bir maddeyi diğer dil sürümlerindeki maddelere bağlamanın nasıl yapıldığı ekran paylaşımı ile aktarıldı.
+2. Dünya Caz Günü Vikimaratonu: Vikimaraton perşembe günü yapılacak. Görseller hazırlandı, duyurular yapılıyor. Katılım bilgileri Günü Vikimaratonu 2020 burada
+3. Wiki Loves Earth:Hazırlıklar sürüyor. Hazırlıklar kapsamında oluşturulan listeye şuradan ulaşılabilir: WLE Liste
+4. Wikimedia Meet: Toplantılarda bundan böyle ticari uygulamalar yerine açık kaynak kodlu bir video konferans çözümü olan Wikimedia Meet kullanılacak. Bir sonraki toplantıda Wikimedia Meet kullanarak davet gönderilecek.
+5. Olası işbirlikleri : Ekoloji Kollektifi ile birkaç Vikimaraton etkinliği düzenlenmesi; Ekoloji Arşivi'nin Vikiveri'ye aktarımı konusunda çalışma ve Mülkiyeliler Birliği ile bir çalışma söz konusu.
+
+Çankırı'da Üniversiteliler Vikipedi'yi Yazıyor:
+Çankırı'da üniversiteliler Vikipedi'yi yazıyor.
+Haberler
+Uluslararası İlişkiler bölümü öğrencileri, Vikipedi maddeleri oluşturmayı öğrendiler ve ekonomi politik maddeleri üzerinde çalışmaya başladılar. 
+Çankırı Karatekin Üniversitesi Uluslararası İlişkiler Bölümü ikinci ve üçüncü sınıf öğrencileri bu öğrenim döneminde, ödev olarak Türkçe Vikipedi'de ekonomi politik maddeleri üzerine çalışarak Türkçe Vikipedi'ye katkı verecekler. Bu alanda eksik maddeleri belirlenerek öğrencilere hangi maddeler üzerinde çalışacakları bildirildi. Öğrenciler, ders kitapları ve açıköğretim materyallerini kaynak olarak kullanarak maddeleri geliştirecek ve notla değerlendirilecekler.
+Projeye katılan öğrencilere destek olmak üzere Wikimedia Topluluğu Kullanıcı Grubu Türkiye üyesi iki vikipedist 21 ve 26 Nisan'da derslere konuk oldu. Mevcut maddeler üzerinde değişiklik yapma, yeni bir madde oluşturma, kaynak ekleme konuları ekran paylaşımı ile katılımcılara aktarıldı. 
+CAKÜ'de ders 
+
+Vikipedi'de Sosyal Psikoloji:
+Vikipedi'de Sosyal Psikoloji maddelerine Uludağ Üniversitesi'nden destek.
+Haberler
+Uludağ Üniversitesi'nde Sosyal Psikoloji alanında doktora dersinde Vikipedi maddeleri yazılıyor. 
+Uludağ Üniversitesi Psikoloji Bölümü derslerinde 2015'ten bu yana öğrenciler kimi derslerinde ödevlerini Vikipedi maddesi halinde teslim ederek Türkçe Vikipedi'ye katkı veriyorlar. Lisans ve yüksek lisans düzeyinde olduğu gibi doktora öğrencileri Vikipedi'ye dersleri kapsamında katkı veriyorlar. COVID 2019 salgını nedeniyle dersler artık aynı fiziksel ortamda bir araya gelerek yapılamasa da ödevler ve Vikipedi'ye katkılar devam ediyor. Wikimedia Topluluğu Kullanıcı Grubu Türkiye, 1 Nisan'da video konferans yoluyla bir derse konuk olup Vikipedi'yi konuştu ve madde oluşturma hakkında teknik bilgiler verdi.
+
+350.000 Madde !:
+Türkçe Vikipedi'de 350bininci madde yazıldı.
+Haberler
+Türkçe Vikipedi, gönüllülerin emeği ile büyümeye devam ediyor. 
+Dünyadaki Vikipedi dil sürümleri arasında 32. sırada yer alan Türkçe Vikipedi, 350bin madde sayısına ulaştı. 350bininci madde 27 Nisan 2020 gecesi yazıldı. Madde Eksternal ventriküler drenaj. Emek veren herkesi tebrik ederiz. 
+Tweet
+
+VikiSalı Buluşmaları/2020-05-12:
+'" VikiSalı 
+12 Mayıs 2020 "'
+VikiSalı Buluşmaları
+İstanbul'da yüzyüze buluşma şeklinde gerçekleşen buluşmalarımıza korono-virüs salgını önlemleri kapsamında ara verilmiş olsa da video-konferans yoluyla Türkiye'nin her yerinden ve yurtdışından katılımcılarla buluşmaya devam ediyoruz! Son buluşmanın notları aşağıdadır:
+Tarih / yer.
+12 Mayıs 2020 18:00 / Çevrimiçi 
+Katılımcı sayısı:11
+Gündem.
+1. Wiki Loves Earth: Yarışmaya hazırız! Yarışma sayfası, Anıt Listesi ve Hibe başvuru sayfasına şu sayfalardan ulaşılabilir:
+Anıt Listesi, Hibe başvurusu. Jüri oluşturma, olası katılımcılara duyuru için ilgili herkesin desteği bekleniyor. Bu konuda NarPhotos Ajansı'ndan destek alma imkanı olabileceği paylaşıldı; görüşülüp bilgi verilecek.
+2. Dünya Caz Günü Vikimaratonu: Vikimaraton 30 Nisan'da gerçekleşti. 50'ye yakın katılım oldu. Müzisyenler, müzik eleştirmenleri, menejerlerden oluşan çok ilgili bir kitleye ulaşıldı. 3 günde 904 düzenleme yapıldı. İKSV ile ortak çalışmalara devam etmeyi diliyoruz. Gösterge paneli burada
+3. ImeceLab VikiMaraton: Bir çevrim için vikimaraton gerçekleştirmek için 11 Mayıs'ta İmecelab adlı sosyal inovasyon platformu ile görüşüldü. Sosyal Girişimcilik alanında maddeler üzerinde çalışmak üzere bir yaklaşık 40-50 gencin katılacağı bir vikimaraton sözkonusu. Eğer hazırlıklar yetişirse 19 Mayıs haftasına olabilir.
+4. Eğitim programı ve Vikiversite: Üniversitelerdeki Eğitim Programı hakkında görüşler paylaşıldı ve üniversitelerinin Vikiversite'ye katkı vermeye yönlendirilmesi fikri tartışıldı. Eğitim Programı, sadece Vikipedi'ye değil, Vikiveri, Commons, Vikikaynak, Vikisöz gibi diğer Wikimedia projelerine de katkı vermek üzere üniversitelilerin teşvik edilip desteklenmesini kapsıyor. Dersin niteliğine, işleniş şekline, ilgili hocanın tercihine göre Vikiversite'ye yönlendirilmesinin uygun olduğu görüşüldü ancak proje şu anda gruptakiler tarafından da fazla tanınmıyor. İncelenip ünversite dersleri kapsamında hangi projelere nasıl katkı verme ödevi verilebileceği konusunda alternatifler arttırılıp sunulması görüşüldü. Tataristan kullanıcı grubundan Eğitim programının aşağıdan yukarıya değil de YÖK, MEB gibi kuruluşlarla görüşülüp yukarıdan aşağıya işletilip işletilemeyeceği konusunda görüşüldü. Tataristan kulllanıcı grubundan katılan Farhad Tataristan ve Ermenistan'da programın işleyişi konusunda bilgi paylaştı.
+
+Vikipedi Eğitim Programı:
+Vikipedi Eğitim Programları
+Nedir: Üniversitelerde veya orta öğretim kurumlarında Vikipedi ve diğer Wikimedia Vakfı projelerinin işleyişini, nasıl katkı verileceğini öğrencilere öğretmek ve öğrencilerin bu projelere katkısını derslerinin bir parçası yapmak üzere o dersi veren kişi/kurum ile deneyimli vikipedistlerin birlikte çalışmasıdır. 
+Amacı: Vikipedi'de Türkçe içeriği geliştirmek başta olmak üzere Wikimedia projelerinin içeriğini zenginleştirmek; öğrencilerin dijital becerilerini, eleştirel düşünce ve yazma becerilerini geliştirmek, açık bilgiye katkı yapma deneyimi sağlamak
+Örnekler:
+Şu sayfadan farklı üniversitelerdeki uygulamalar hakkında bilgilere ulaşabilirsiniz:Etkinlikler Öğrencilerin dersleri kapsamında katkı verdiği maddelere bazı örnekler aşağıdadır:
+Program Nasıl işliyor?
+Geribildirimler.
+Uludağ Üniversitesi 3. sınıf lisans öğrenciler, ders yılı sonunda Vikipedi ödevi ile ilgili olarak öğretim üyesine verdikleri geribildirimleri bizimle de paylaştılar. 
+Öneriler.
+Program hakkında görüşlerinizi, geliştirmek için önerilerinizi (örneğin hangi tür derslerde hangi tür Wikimedia projelerine katkı yapılması daha uygundur, madde oluşturma dışında ne tür katkılar sağlanabilir - mevcut maddelerin kaynaklarının incelenmesi, tartışma sayfasına öneriler yazmaya yönlendirme vb...) ve varsa bu programda yer almak isteyebilecek kurum/kişi önerilerini bizimle paylaşmanızı rica ederiz. Bu programı yürüten Basak veya Sakhalino'ya da ulaşabilirsiniz.
+
+Sosyal Girişimci Gençler Vikipedi'de...:
+Sosyal Girişimci Gençler Vikipedi'de Madde Oluşturuyor
+Haberler
+19 Mayıs'ta Sosyal Girişimci Gençlerle buluştuk 
+Toplumsal meselelere gençlerle birlikte çözümler üretmeyi amaçlayan İmeceLab ile Wikimedia Topluluğu Kullanıcı Grubu Türkiye işbirliğinde 19 Mayıs 2020'de gençlerle çevrimiçi ortamda bir araya geldik ve Türkçe Vikipedi'ye nasıl katkı verebileceklerini anlattık. 
+Sosyal girişimcilik alanında Türkçe Vikipedi'deki içerik eksiğini fark eden ve bir şeyler yapmak isteyen gençler, deneyimli Vikipedi editörlerinden bilgi aldı. Canlı video-konferans bağlantısına çoğu Vikipedi'de gönüllü editörlük deneyimi olmayan 25 kişi katıldı. Bir video-konferans oturumu ile Vikipedi maddelerini güncelleme ve yeni madde oluşturma konulu sunum yapıldı ve katılımcıların soruları cevaplandı. Gençler, gruplara ayrılacak sosyal girişimcilik konusunun farklı alt başlıklarını çalışmak üzere mentörleri ile birlikte çalışmaya başladılar. Çalışmalarına takip eden günlerde devam eden gençler, son halini Vikipedistlerin desteği ile Vikipedi'deki sosyal girişimcilik maddesine aktararak ve bu konuda kaliteli Türkçe içeriğe serbestçe erişilmesine katkı verdiler.
